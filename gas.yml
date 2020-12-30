@@ -3,19 +3,87 @@
   identifier: 2bc25a06-313a-49d8-8d5f-ed08de333c05
   "@context": https://schema.org
   "@type": GasStation
-  location:
-    "@type": Place
-    geo:
-      "@type": GeoCoordinates
-      longitude: -118.42499
-      latitude: 35.753332
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.753332
+    longitude: -118.42499
 - name: Primo's Liquor & Deli
   identifier: 94109964-6ee3-4ace-804d-46ba0feeb748
   "@context": https://schema.org
   "@type": GasStation
-  location:
-    "@type": Place
-    geo:
-      "@type": GeoCoordinates
-      longitude: -118.419904
-      latitude: 35.758465
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.758465
+    longitude: -118.419904
+- name: Crossroads Shell
+  identifier: 4081d7b9-c5dc-4642-a84f-9dce0339a052
+  "@context": https://schema.org
+  "@type": GasStation
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.626377
+    longitude: -118.474780
+- name: Shell
+  identifier: c112029c-2fea-4647-973d-5882d951a278
+  "@context": https://schema.org
+  "@type": GasStation
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.639084
+    longitude: -118.405495
+- name: Shell
+  identifier: 5459eb82-ddf7-42d0-89bb-ca1a16af61b2
+  "@context": https://schema.org
+  "@type": GasStation
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.617227
+    longitude: -118.477577
+- name: K-V Bottle Shop
+  identifier: 1c1a184c-c009-48d3-a259-75453b995639
+  "@context": https://schema.org
+  "@type": GasStation
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.611807
+    longitude: -118.481279
+- name: Chevron
+  identifier: 5e498b63-fd80-4286-bfd4-b850bd8a08cf
+  "@context": https://schema.org
+  "@type": GasStation
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.707648
+    longitude: -118.455338
+- name: Fastrip (Primos)
+  identifier: c2def035-2b88-435c-b8d9-fed5cd3919c3
+  "@context": https://schema.org
+  "@type": GasStation
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.758228
+    longitude: -118.419992
+- name: Mobil (Sierra Gateway)
+  identifier: 53daea19-b29e-4ee2-a17a-48e02db0e35a
+  "@context": https://schema.org
+  "@type": GasStation
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.758212
+    longitude: -118.419224
+- name: Mountain Vista Gas
+  identifier: 7dce8700-d2a5-46d6-99fd-69a0da4a96b8
+  "@context": https://schema.org
+  "@type": GasStation
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.641505
+    longitude: -118.369814
+- name: Fastrip
+  identifier: 9aa94eb1-20b7-4c0c-a19b-d9ca20c28a6f
+  "@context": https://schema.org
+  "@type": GasStation
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.698176
+    longitude: -118.462792

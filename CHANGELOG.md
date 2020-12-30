@@ -6,6 +6,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- More `GasStation`s and `Store`s
+
+### Changed
+- `geo` now a direct property of `GasStation` and `Store` instead of using `location.geo`
+
+### Fixed
+- Misc typo fixes
+
 ## [v1.0.0] - 2020-12-30
 
 ### Added

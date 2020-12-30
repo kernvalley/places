@@ -4,7 +4,7 @@
   "@context": https://schema.org
   "@type": BarOrPub
   telephone: 1-760-376-1895
-  url: https://www.eddyouttaphouse.com/
+  url: https://www.eddyouttaphouse.com
   acceptsReservations: true
   priceRange: $$
   currenciesAccepted:
@@ -61,7 +61,7 @@
   "@context": https://schema.org
   "@type": Restaurant
   telephone: 760-376-6131
-  url: https://www/cherylsdiner.com
+  url: https://www.cherylsdiner.com
   address:
     '@type': PostalAddress
     streetAddress: 11030 Kernville Rd.
@@ -135,7 +135,7 @@
     latitude: 35.755295
 - name: Paradise Cove Lodge
   identifier: f779f9cd-ce71-43d7-974e-6d30dd2e7af2
-  "@context": https://schema.org/
+  "@context": https://schema.org
   "@type": Restaurant
   telephone: 1-760-379-2719
   url: https://www.paradisecovelodge.com
