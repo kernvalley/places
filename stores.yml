@@ -1,16 +1,45 @@
 - name: Sierra Gateway Market
   identifier: f7e94bcf-4d3c-4e6b-a6d8-bc5a569f282f
-  "@context": "https://schema.org"
+  "@context": https://schema.org
   "@type": Store
   telephone: 760-376-2424
-  location:
-    geo:
-      "@type": GeoCoordinates
-      latitude: 35.758538
-      longitude: -118.418740
-    address:
-      "@type": PostalAddress
-      streetAddress: 13432 Sierra Way
-      addressLocality: Kernville
-      addressRegion: CA
-      postalCode: 93238
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.758538
+    longitude: -118.418740
+  address:
+    "@type": PostalAddress
+    streetAddress: 13432 Sierra Way
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+- name: Charlie's Market
+  identifier: 1f1149df-ea88-47e2-81bd-8fbd77d5aedf
+  "@context": https://schema.org
+  "@type": Store
+  telephone: 760-376-2322
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.708662
+    longitude: -118.450242
+  address:
+    "@type": PostalAddress
+    streetAddress: 6801 Wofford Blvd
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: 93285
+- name: Mt. Mesa Market
+  identifier: 787bbb02-f312-4b02-bbda-052fe3a329c2
+  "@context": https://schema.org
+  "@type": Store
+  telephone: 760-379-2867
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.639582
+    longitude: -118.406293
+  address:
+    "@type": PostalAddress
+    streetAddress: 12324 Mountain Mesa Rd
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
