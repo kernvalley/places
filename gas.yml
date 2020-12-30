@@ -7,14 +7,6 @@
     "@type": GeoCoordinates
     latitude: 35.753332
     longitude: -118.42499
-- name: Primo's Liquor & Deli
-  identifier: 94109964-6ee3-4ace-804d-46ba0feeb748
-  "@context": https://schema.org
-  "@type": GasStation
-  geo:
-    "@type": GeoCoordinates
-    latitude: 35.758465
-    longitude: -118.419904
 - name: Crossroads Shell
   identifier: 4081d7b9-c5dc-4642-a84f-9dce0339a052
   "@context": https://schema.org
@@ -56,7 +48,7 @@
     latitude: 35.707648
     longitude: -118.455338
 - name: Fastrip (Primos)
-  identifier: c2def035-2b88-435c-b8d9-fed5cd3919c3
+  identifier: 94109964-6ee3-4ace-804d-46ba0feeb748
   "@context": https://schema.org
   "@type": GasStation
   geo:
