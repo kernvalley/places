@@ -1,0 +1,261 @@
+---
+- name: Eddy Out Tap House
+  identifier: 4d866db2-c506-444b-aa3f-87b3dd86a204
+  "@context": https://schema.org
+  "@type": BarOrPub
+  telephone: 1-760-376-1895
+  url: https://www.eddyouttaphouse.com/
+  acceptsReservations: true
+  priceRange: $$
+  currenciesAccepted:
+    - USD
+  servesCuisine:
+    - burgers
+  paymentAccepted:
+    - Cash
+    - Credit Card
+  address:
+    '@type': PostalAddress
+    streetAddress: 13423 Sierra Way
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    '@type': GeoCoordinates
+    latitude: 35.75787
+    longitude: -118.419496
+- name: Kern River Brewing Company
+  identifier: 102477d0-8539-4a8a-b9c7-3b9e5c2bdf51
+  "@context": https://schema.org
+  "@type": BarOrPub
+  telephone: 760-376-2337
+  url: https://kernriverbrewing.com
+  address:
+    '@type': PostalAddress
+    streetAddress: 13415 Sierra Way
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    '@type': GeoCoordinates
+    longitude: -118.419232
+    latitude: 35.757488
+- name: Ewings on the Kern
+  identifier: 49578c9b-ca54-458c-844b-375b2287d1ee
+  "@context": https://schema.org
+  "@type": Restaurant
+  telephone: 760-376-2411
+  url: https://www.ewingsco.com
+  address:
+    '@type': PostalAddress
+    streetAddress: 125 Buena Vista Dr.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    '@type': GeoCoordinates
+    longitude: -118.420556
+    latitude: 35.758029
+- name: Cheryl's Diner
+  identifier: bd20431c-1e2d-401d-8178-ad0d2fe3e71d
+  "@context": https://schema.org
+  "@type": Restaurant
+  telephone: 760-376-6131
+  url: https://www/cherylsdiner.com
+  address:
+    '@type': PostalAddress
+    streetAddress: 11030 Kernville Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    '@type': GeoCoordinates
+    longitude: -118.424722
+    latitude: 35.754615
+- name: El Rio Mexican & American Food
+  identifier: d70abd8e-d632-4059-be2f-b1ba79b0edee
+  "@context": https://schema.org
+  "@type": Restaurant
+  telephone: 760-376-3246
+  address:
+    '@type': PostalAddress
+    streetAddress: 11 Kern River Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    '@type': GeoCoordinates
+    longitude: -118.424675
+    latitude: 35.753481
+- name: Pizza Barn
+  identifier: 8a379678-811d-4590-92a1-0ca824b62751
+  "@context": https://schema.org
+  "@type": Restaurant
+  telephone: 760-376-1856
+  url: https://pizzabarn.speeddine.com
+  address:
+    '@type': PostalAddress
+    streetAddress: 11401 Kernville Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    '@type': GeoCoordinates
+    longitude: -118.418979
+    latitude: 35.755638
+- name: That's Italian
+  identifier: d0dcb588-b713-45c3-a7bd-69988edca915
+  "@context": https://schema.org
+  "@type": Restaurant
+  telephone: 760-376-6020
+  address:
+    '@type': PostalAddress
+    streetAddress: 9 Big Blue Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    '@type': GeoCoordinates
+    longitude: -118.425623
+    latitude: 35.75486
+- name: Cracked Egg Cafe
+  identifier: f5159eb1-ff44-4f32-870a-dcb2c1b8ecb5
+  "@context": https://schema.org
+  "@type": Restaurant
+  telephone: 760-376-2185
+  address:
+    '@type': PostalAddress
+    streetAddress: 16 Big Blue Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    '@type': GeoCoordinates
+    longitude: -118.425951
+    latitude: 35.755295
+- name: Paradise Cove Lodge
+  identifier: f779f9cd-ce71-43d7-974e-6d30dd2e7af2
+  "@context": https://schema.org/
+  "@type": Restaurant
+  telephone: 1-760-379-2719
+  url: https://www.paradisecovelodge.com
+  logo: https://www.paradisecovelodge.com/img/raster/logo.png
+  image: https://www.paradisecovelodge.com/img/raster/background/restaurant-350.jpg
+  priceRange: $$$
+  servesCuisine:
+    - American
+    - Seafood
+    - Steak
+  address:
+    "@type": PostalAddress
+    streetAddress: 10700 Highway 178
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    addressCountry: USA
+    url: "https://goo.gl/maps/HVrsM1jr7cbRykck9"
+  geo:
+    "@type": GeoCoordinates
+    name: Paradise Cove Lodge
+    latitude: 35.648277
+    longitude: -118.427673
+    url: "https://goo.gl/maps/HVrsM1jr7cbRykck9"
+- name: Pizza Factory
+  identifier: a25b7d30-ee03-45ad-b7bf-7d47a457ddbf
+  "@context": https://schema.org
+  "@type": Restaurant
+  telephone: 760-379-5605
+  url: https://lake-isabella.pizzafactory.com
+  address:
+    "@type": PostalAddress
+    streetAddress: 5640 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.618883
+    longitude: -118.476711
+- name: Nelda's Diner
+  identifier: e148b601-c307-4a40-a49a-e345db7a2d94
+  "@context": https://schema.org
+  "@type": Restaurant
+  telephone: 760-379-8448
+  address:
+    "@type": PostalAddress
+    streetAddress: 5128 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    posstalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.611481
+    longitude: -118.481487
+- name: 178 Bar & Grill
+  identifier: d059a6dd-bb06-4501-8201-338e32158332
+  "@context": https://schema.org
+  "@type": BarOrPub
+  url: https://www.toasttab.com/178-bar-grill-6107-lake-isabella-blvd/v3
+  telephone: 760-379-0178
+  address:
+    "@type": PostalAddress
+    streetAddress: 6107 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.624876
+    longitude: -118.475142
+- name: Chef Sarape
+  identifier: 47a4698b-150e-4e3a-aac2-feae756e98d0
+  "@context": https://schema.org
+  "@type": Restaurant
+  telephone: 760-379-3663
+  servesCuisine:
+    - Mexican
+  address:
+    "@type": PostalAddress
+    streetAddress: 6106 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.624763
+    longitude: -118.473991
+- name: El Poral Mexican Grill
+  identifier: 16a2d7a5-505f-4e96-92ba-41590ebec567
+  "@context": https://schema.org
+  "@type": Restaurant
+  telephone: 760-379-2779
+  servesCuisine:
+    - Mexican
+  address:
+    "@type": PostalAddress
+    streetAddress: 12598 Mountain Mesa Rd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.637766
+    longitude: -118.402439
+- name: Johhny McNally's Fairview Lodge
+  "@context": https://schema.org
+  "@type": Restaurant
+  identifier: 1a5c7e00-1541-465d-bbfb-7cdf1e10dda5
+  telephone: 760-376-2430
+  url: https://johhnymcnallys.com
+  servesCuisine:
+    - Steak
+  address:
+    "@type": PostalAddress
+    streetAddress: 7300 Kern River Hwy.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.927049
+    longitude: -118.493456

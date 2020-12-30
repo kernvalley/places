@@ -1,0 +1,60 @@
+---
+- name: Kernville Inn
+  identifier: 114835f0-0e88-4605-a14a-d57f7035e036
+  "@context": https://schema.org/
+  "@type": Motel
+  telephone: 760-376-2206
+  url: https://www.kernvilleinn.com
+  address:
+    "@type": PostalAddress
+    streetAddress: 11042 Kernville Rd
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.754761
+    longitude: -118.424284
+- name: The Kern Lodge
+  identifier: 05d25c10-6360-495d-8899-cf7ec3d5b0a8
+  "@context": https://schema.org/
+  "@type": Motel
+  telephone: 760-376-2223
+  address:
+    "@type": PostalAddress
+    streetAddress: 67 Valley View Dr
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.756900
+    longitude: -118.419235
+- name: Paradise Cove Lodge
+  identifier: 9adeab21-83a8-4a10-899f-3b3aac2d1b7c
+  "@context": https://schema.org/
+  "@type": Motel
+  telephone: 1-760-379-2719
+  url: https://www.paradisecovelodge.com
+  logo: https://www.paradisecovelodge.com/img/raster/logo.png
+  image: https://www.paradisecovelodge.com/img/raster/background/motel-400.jpg
+  checkinTime: "13:00"
+  checkoutTime: "12:00"
+  petsAllowed: false
+  numberOfRooms: 8
+  starRating: 3
+  priceRange: $$$
+  address:
+    "@type": PostalAddress
+    streetAddress: 10700 Highway 178
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    addressCountry: USA
+    url: "https://goo.gl/maps/HVrsM1jr7cbRykck9"
+  geo:
+    "@type": GeoCoordinates
+    name: Paradise Cove Lodge
+    latitude: 35.648349
+    longitude: -118.427896
+    url: "https://goo.gl/maps/HVrsM1jr7cbRykck9"

@@ -1,0 +1,21 @@
+---
+- name: Riverside One Stop
+  identifier: 2bc25a06-313a-49d8-8d5f-ed08de333c05
+  "@context": https://schema.org
+  "@type": GasStation
+  location:
+    "@type": Place
+    geo:
+      "@type": GeoCoordinates
+      longitude: -118.42499
+      latitude: 35.753332
+- name: Primo's Liquor & Deli
+  identifier: 94109964-6ee3-4ace-804d-46ba0feeb748
+  "@context": https://schema.org
+  "@type": GasStation
+  location:
+    "@type": Place
+    geo:
+      "@type": GeoCoordinates
+      longitude: -118.419904
+      latitude: 35.758465
