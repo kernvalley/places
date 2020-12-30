@@ -1,0 +1,21 @@
+---
+- name: Alta One Federal Credit Union
+  identifier: 697f828d-a43f-4123-8b4e-10975740f17f
+  "@context": https://schema.org
+  "@type": BankOrCreditUnion
+  location:
+    "@type": Place
+    geo:
+      "@type": GeoCoordinates
+      longitude: -118.426382
+      latitude: 35.7547
+- name: Bank of America ATM
+  identifier: ef25b44c-77c4-43bd-8678-516fd8e4b4e1
+  "@context": https://schema.org
+  "@type": AutomatedTeller
+  location:
+    "@type": Place
+    geo:
+      "@type": GeoCoordinates
+      longitude: -118.425422
+      latitude: 35.755138

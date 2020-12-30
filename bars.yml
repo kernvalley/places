@@ -1,0 +1,26 @@
+---
+- name: Kernville Saloon
+  identifier: ee8d2e72-4370-4f3c-97ba-c0af3d29234b
+  "@context": https://schema.org
+  "@type": BarOrPub
+  geo:
+    '@type': GeoCoordinates
+    longitude: -118.424971
+    latitude: 35.755727
+- name: The Hut
+  identifier: 730a9491-a8bb-4ffb-9232-ed641bfb8afd
+  "@context": https://schema.org
+  "@type": BarOrPub
+  geo:
+    '@type': GeoCoordinates
+    longitude: -118.420283
+    latitude: 35.755051
+- name: Sportsman's Inn
+  identifier: daff7998-3bb4-468c-8a36-2bf4a0763564
+  "@context": https://schema.org
+  "@type": BarOrPub
+  geo:
+    '@type': GeoCoordinates
+    longitude: -118.42544
+    latitude: 35.75473
+  

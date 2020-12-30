@@ -1,0 +1,25 @@
+---
+- name: Kernville Chamber of Commerce
+  identifier: 85d7ace2-2fdf-400e-a624-5d1ab4e17512
+  "@context": https://schema.org
+  "@type": LocalBusiness
+  geo:
+    "@type": GeoCoordinates
+    longitude: -118.418143
+    latitude: 35.755794
+- name: Kernville Cowork
+  identifier: 882ff5ef-521d-4da6-9a50-eb837077e5b9
+  "@context": https://schema.org
+  "@type": LocalBusiness
+  geo:
+    "@type": GeoCoordinates
+    longitude: -118.4206114
+    latitude: 35.756003
+- name: Designs By Erin
+  identifier: db35e5f0-7e50-4482-a137-64d240198cfc
+  "@context": https://schema.org
+  "@type": LocalBusiness
+  geo:
+    "@type": GeoCoordinates
+    longitude: -118.425104
+    latitude: 35.754042
