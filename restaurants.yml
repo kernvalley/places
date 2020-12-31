@@ -140,7 +140,12 @@
   telephone: 1-760-379-2719
   url: https://www.paradisecovelodge.com
   logo: https://www.paradisecovelodge.com/img/raster/logo.png
-  image: https://www.paradisecovelodge.com/img/raster/background/restaurant-350.jpg
+  image:
+    - "@type": ImageObject
+      url: https://www.paradisecovelodge.com/img/raster/background/restaurant-350.jpg
+      width: 350
+      height: 263
+      encodingFormat: image/jpeg
   priceRange: $$$
   servesCuisine:
     - American
@@ -259,3 +264,18 @@
     "@type": GeoCoordinates
     latitude: 35.927049
     longitude: -118.493456
+- name: Red Rooster Cafe
+  identifier: 61432573-ceb9-4274-95b4-3576fca0415a
+  "@context": https://schema.org
+  "@type": Restaurant
+  telephone: 760-379-1397
+  address:
+    "@type": PostalAddress
+    streetAddress: 12408 Mountain Mesa Rd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.63891819845378
+    longitude: -118.40509664417492

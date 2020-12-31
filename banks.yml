@@ -3,10 +3,34 @@
   identifier: 697f828d-a43f-4123-8b4e-10975740f17f
   "@context": https://schema.org
   "@type": BankOrCreditUnion
+  telepone: 760-376-2251
+  url: https://altaone.org
+  address:
+    "@type": PostalAddress
+    streetAddress: 44 Big Blue Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
   geo:
     "@type": GeoCoordinates
     longitude: -118.426382
     latitude: 35.7547
+- name: Alta One Federal Credit Union
+  identifier: a247fe09-74c9-4681-b438-f2dfbf10c90b
+  "@context": https://schema.org
+  "@type": BankOrCreditUnion
+  telephone: 760-379-4671
+  url: https://altaone.org
+  address:
+    "@type": PostalAddress
+    streetAddress: 5946 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.622962
+    longitude: -118.474675
 - name: Bank of America ATM
   identifier: ef25b44c-77c4-43bd-8678-516fd8e4b4e1
   "@context": https://schema.org
@@ -15,3 +39,36 @@
     "@type": GeoCoordinates
     longitude: -118.425422
     latitude: 35.755138
+- name: Bank of America ATM
+  identifier: fdf047fa-fcfc-4268-a71f-fcc66307c08e
+  "@context": https://schema.org
+  "@type": AutomatedTeller
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.616897
+    longitude: -118.476822
+- name: Western Union
+  "@context": https://schema.org
+  "@type": FinancialService
+  description: Inside of Vons
+  telephone: 760-379-4461
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.617705
+    longitude: -118.476370
+- name: Westamerica Bank
+  identifier: 87a01993-db65-4a20-b01e-5c9b83de5915
+  "@context": https://schema.org
+  "@type": BankOrCreditUnion
+  url: https://www.westamerica.com/
+  telephone: 760-379-2691
+  address:
+    "@type": PostalAddress
+    streetAddress: 6100 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.624452
+    longitude: -118.474284

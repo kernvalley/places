@@ -3,14 +3,31 @@
   identifier: 85d7ace2-2fdf-400e-a624-5d1ab4e17512
   "@context": https://schema.org
   "@type": LocalBusiness
+  url: https://www.gotokernville.com/
+  telephone: 760-376-2629
+  address:
+    "@type": PostalAddress
+    streetAddress: 11447 Kernville Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
   geo:
     "@type": GeoCoordinates
     longitude: -118.418143
     latitude: 35.755794
+    elevation: 826
 - name: Kernville Cowork
   identifier: 882ff5ef-521d-4da6-9a50-eb837077e5b9
   "@context": https://schema.org
   "@type": LocalBusiness
+  url: https://kernvillecowork.com/en
+  description: At Kernville Cowork, we are working to create a community for collaboration, innovation, and continuous learning.
+  address:
+    "@type": PostalAddress
+    streetAddress: 21 Sierra Dr.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
   geo:
     "@type": GeoCoordinates
     longitude: -118.4206114
@@ -19,7 +36,49 @@
   identifier: db35e5f0-7e50-4482-a137-64d240198cfc
   "@context": https://schema.org
   "@type": LocalBusiness
+  telephone: 760-376-1409
+  url: https://designsbyerin.org/
+  address:
+    "@type": PostalAddress
+    streetAddress: 11006 Kernville Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
   geo:
     "@type": GeoCoordinates
     longitude: -118.425104
     latitude: 35.754042
+- name: Kern River Valley Chamber of Commerce
+  identifier: e1cba0b5-2d6e-4e9a-99d4-db4d48b1396b
+  "@context": https://schema.org
+  "@type": LocalBusiness
+  telephone: 866-578-4386
+  email: office@kernrivervalley.com
+  address:
+    "@type": PostalAddress
+    streetAddress: 6414 Lake Isabella Blvd. - Suite D
+    postOfficeBoxNumber: 567
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.629363
+    longitude: -118.472890
+- name: Reel Cinema
+  identifier: a6ec4974-211d-4b6e-b402-4bbc5a688770
+  "@context": https://schema.org
+  "@type": MovieTheater
+  telephone: 760-376-3030
+  url: https://ourreelcinema.com
+  email: Info@ourreelcinema.com
+  address:
+    "@type": PostalAddress
+    streetAddress: 6742 Wofford Blvd.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    psotalCode: 93285
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.708011
+    longitude: -118.453436

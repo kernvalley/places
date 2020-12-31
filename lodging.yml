@@ -17,7 +17,7 @@
     longitude: -118.424284
 - name: The Kern Lodge
   identifier: 05d25c10-6360-495d-8899-cf7ec3d5b0a8
-  "@context": https://schema.org/
+  "@context": https://schema.org
   "@type": Motel
   telephone: 760-376-2223
   address:
@@ -36,13 +36,22 @@
   "@type": Motel
   telephone: 1-760-379-2719
   url: https://www.paradisecovelodge.com
-  logo: https://www.paradisecovelodge.com/img/raster/logo.png
-  image: https://www.paradisecovelodge.com/img/raster/background/motel-400.jpg
+  logo:
+    - "@type": ImageObject
+      url: https://www.paradisecovelodge.com/img/raster/logo.png
+      width: 360
+      height: 360
+      encodingFormat: image/png
+  image:
+    - "@type": ImageObject
+      url: https://www.paradisecovelodge.com/img/raster/background/motel-400.jpg
+      width: 400
+      height: 300
+      encodingFormat: image/jpeg
   checkinTime: "13:00"
   checkoutTime: "12:00"
   petsAllowed: false
   numberOfRooms: 8
-  starRating: 3
   priceRange: $$$
   address:
     "@type": PostalAddress
@@ -58,3 +67,131 @@
     latitude: 35.648349
     longitude: -118.427896
     url: "https://goo.gl/maps/HVrsM1jr7cbRykck9"
+- name: Lake Isabella Motel
+  identifier: c74407fe-e194-4f04-8765-aaed3ec7c481
+  "@context": https://schema.org
+  "@type": Motel
+  telephone: 760-379-2800
+  url: https://www.lakeisabellamotel.net
+  address:
+    "@type": PostalAddress
+    streetAddress: 400 CA-155
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.628379
+    longitude: -118.479956
+- name: Barewood Inn and Suites
+  identifier: f61e298c-62dc-4672-9967-f0b7da7f3890
+  "@context": https://schema.org
+  "@type": Motel
+  url: https://www.kernrivervalleymotels.com
+  telephone: 760-376-1910
+  address:
+    "@type": PostalAddress
+    streetAddress: 7013 Wofford Blvd.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: 93285
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.708922
+    longitude: -118.448692
+- name: Mount N Lake Motel
+  identifier: a42f1d01-b753-400d-b9c6-9427051ce895
+  "@context": https://schema.org
+  "@type": Motel
+  url: https://motellakeisabella.com
+  telephone: 760-376-2307
+  address:
+    "@type": PostalAddress
+    streetAddress: 31 E Evans Rd.
+    addressLocality: Wofford Heights
+    addresRegion: CA
+    postalCode: 93285
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.706364
+    longitude: -118.448261
+- name: Sierra Vista Motel
+  identifier: edde995e-eda5-431a-bade-0ec8f498ae81
+  "@context": https://schema.org
+  "@type": Motel
+  telephone: 760-376-2250
+  address:
+    "@type": PostalAddress
+    streetAddress: 6617 Wofford Blvd.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: 93285
+  geo:
+    "@type": Motel
+    latitude: 35.707382
+    longitude: -118.456404
+- name: Lakeshore Lodge
+  identifier: 92fd104d-583c-4359-bea5-fbc618a89139
+  "@context": https://schema.org
+  "@type": Motel
+  telephone: 760-376-1910
+  url: https://www.kernrivervalleymotels.com
+  address:
+    "@type": PostalAddress
+    streetAddress: 7466 Wofford Blvd.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: 93285
+  geo:
+    "@type": GeoCorrdinates
+    latitude: 35.711088
+    longitude: -118.440430
+- name: Piazza's Pine Cone Inn
+  identifier: 8b49191f-b4f5-486d-81f3-0c641687ba73
+  "@context": https://schema.org
+  "@type": Motel
+  url: https://piazzas-pinecone.com
+  telephone: 760-376-6669
+  email: pineconeinn@gmail.com
+  address:
+    "@type": PostalAddress
+    streetAddress: 13383 Sierra Way
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.756544
+    longitude: -118.418641
+- name: Whispering Pines Lodge
+  identifier: 352e2d53-dfd8-4e10-899e-9ceabe71aa0c
+  "@context": https://schema.org
+  "@type": Motel
+  telephone: 760-376-3733
+  url: https://www.pineskernville.com
+  priceRange: $$$$
+  address:
+    "@type": PostalAddress
+    streetAddress: 13745 Sierra Way
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    "@type": GeoCoordiantes
+    latitude: 35.760621
+    longitude: -118.420898
+- name: Kern Motel
+  identifier: a2d88211-d358-49ed-9332-d5dced343926
+  "@context": https://schema.org
+  "@type": Motel
+  telephone: 760-379-8168
+  address:
+    "@type": PostalAddress
+    streetAddress: 5436 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.615742
+    longitude: -118.478423

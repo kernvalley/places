@@ -15,4 +15,42 @@
     "@type": GeoCoordinates
     longitude: -118.425548
     latitude: 35.755127
-
+- name: Starbucks
+  identifier: 463661e3-c040-4a38-a642-b9237ce7b6ca
+  "@context": https://schema.org
+  "@type": CafeOrCoffeeShop
+  telephone: 800-782-7282
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.618202
+    longitude: -118.476035
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Sunday
+      opens: '05:00'
+      closes: '21:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Monday
+      opens: '05:00'
+      closes: '21:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Tuesday
+      opens: '05:00'
+      closes: '21:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Wednesday
+      opens: '05:00'
+      closes: '21:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Thursday
+      opens: '05:00'
+      closes: '21:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Friday
+      opens: '05:00'
+      closes: '21:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Saturday
+      opens: '05:00'
+      closes: '21:00'
+    
