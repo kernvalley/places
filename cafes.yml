@@ -4,15 +4,15 @@
   "@context": https://schema.org
   "@type": CafeOrCoffeeShop
   telephone: 760-376-2442
-  url: https://www.bigbluebearcafe.com/
+  url: https://www.bigbluebearcafe.com
   address:
-    '@type': PostalAddress
+    "@type": PostalAddress
     streetAddress: 101 Piute Drive
     addressLocality: Kernville
     addressRegion: CA
     postalCode: 93238
   geo:
-    '@type': GeoCoordinates
+    "@type": GeoCoordinates
     longitude: -118.425548
     latitude: 35.755127
 
