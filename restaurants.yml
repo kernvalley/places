@@ -140,7 +140,12 @@
   telephone: 1-760-379-2719
   url: https://www.paradisecovelodge.com
   logo: https://www.paradisecovelodge.com/img/raster/logo.png
-  image: https://www.paradisecovelodge.com/img/raster/background/restaurant-350.jpg
+  image:
+    - "@type": ImageObject
+      url: https://www.paradisecovelodge.com/img/raster/background/restaurant-350.jpg
+      width: 350
+      height: 263
+      encodingFormat: image/jpeg
   priceRange: $$$
   servesCuisine:
     - American
