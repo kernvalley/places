@@ -8,8 +8,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - More `GasStation`s and `Store`s
+- Add dependabot config for GitHub Actions / Super Linter
+- Sample data for Disneyland in JSON and YAML
 
 ### Changed
+- Update documentation (README, CONTRIBUTING)
 - `geo` now a direct property of `GasStation` and `Store` instead of using `location.geo`
 
 ### Fixed
