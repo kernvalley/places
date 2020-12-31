@@ -69,7 +69,7 @@
     url: "https://goo.gl/maps/HVrsM1jr7cbRykck9"
 - name: Lake Isabella Motel
   identifier: c74407fe-e194-4f04-8765-aaed3ec7c481
-  "@context" https://schema.org
+  "@context": https://schema.org
   "@type": Motel
   telephone: 760-379-2800
   url: https://www.lakeisabellamotel.net
@@ -117,7 +117,7 @@
     longitude: -118.448261
 - name: Sierra Vista Motel
   identifier: edde995e-eda5-431a-bade-0ec8f498ae81
-  "@context:" https://schema.org
+  "@context": https://schema.org
   "@type": Motel
   telephone: 760-376-2250
   address:
