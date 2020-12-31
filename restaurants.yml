@@ -264,3 +264,18 @@
     "@type": GeoCoordinates
     latitude: 35.927049
     longitude: -118.493456
+- name: Red Rooster Cafe
+  identifier: 61432573-ceb9-4274-95b4-3576fca0415a
+  "@context": https://schema.org
+  "@type": Restaurant
+  telephone: 760-379-1397
+  address:
+    "@type": PostalAddress
+    streetAddress: 12408 Mountain Mesa Rd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.63891819845378
+    longitude: -118.40509664417492
