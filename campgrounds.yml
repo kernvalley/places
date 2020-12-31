@@ -58,6 +58,8 @@
     longitude: -118.439904
 - name: Auxillary Dam Campground
   identifier: 0d9d2acd-117f-4584-bde0-2a95cbcc9870
+  "@context": https://schema.org
+  "@type": Campground
   url: https://www.fs.usda.gov/recarea/sequoia/recarea/?recid=79632
   description: |
     Located on the southern end of Lake Isabella off Highway 178 near the town of
@@ -73,6 +75,8 @@
     longitude: -118.469838
 - name: Paradise Cove Campground
   identifier: 0eeea7f7-c240-42cd-b235-9b3a456e1f22
+  "@context": https://schema.org
+  "@type": Campground
   geo:
     "@type": GeoCoordinates
     latitude: 35.649494

@@ -48,6 +48,7 @@
     latitude: 35.616897
     longitude: -118.476822
 - name: Western Union
+  identifier: 8de3fd45-82d9-4eef-a783-dd9cc95c923f
   "@context": https://schema.org
   "@type": FinancialService
   description: Inside of Vons
