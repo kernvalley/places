@@ -3,7 +3,6 @@
   identifier: 697f828d-a43f-4123-8b4e-10975740f17f
   "@context": https://schema.org
   "@type": BankOrCreditUnion
-  "@type": Place
   geo:
     "@type": GeoCoordinates
     longitude: -118.426382
