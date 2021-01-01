@@ -35,7 +35,7 @@
 - name: Designs By Erin
   identifier: db35e5f0-7e50-4482-a137-64d240198cfc
   "@context": https://schema.org
-  "@type": LocalBusiness
+  "@type": Florist
   telephone: 760-376-1409
   url: https://designsbyerin.org/
   address:
@@ -54,6 +54,7 @@
   "@type": LocalBusiness
   telephone: 866-578-4386
   email: office@kernrivervalley.com
+  # url: Website does not use HTTPS
   address:
     "@type": PostalAddress
     streetAddress: 6414 Lake Isabella Blvd. - Suite D
@@ -82,3 +83,129 @@
     "@type": GeoCoordinates
     latitude: 35.708011
     longitude: -118.453436
+- name: Kern Valley Museum
+  identifier: 3c2f762c-23f5-4579-826e-85d51cad0249
+  "@context": https://schema.org
+  "@type": Museum
+  url: https://kernvalleymuseum.org
+  telephone: 1-760-376-6683
+  address:
+    "@type": PostalAddress
+    streetAddress: 49 Big Blue Road
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.755170
+    longitude: -118.426782
+- name: Kern River Valley Cemetery
+  identifier: 328b9fa5-9ec6-465d-8221-2f5071cf6b54
+  "@context": https://schema.org
+  "@type": Cemetery
+  telephone: 760-376-2189
+  address:
+    "@type": PostalAddress
+    streetAddress: 8441 Burlando Rd.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: 93285
+  geo:
+    "@type": GeoCoordiantes
+    latitude: 35.720951
+    longitude: -118.437034
+- name: The Drug Store
+  identifier: bca77916-267f-4b71-b6e3-54338f37db20
+  "@context": https://schema.org
+  "@type": Pharmacy
+  url: https://www.thedrugstorerx.com
+  telephone: 760-376-2216
+  address:
+    "@type": PostalAddress
+    streetAddress: 111 Piute Dr.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.75553509
+    longitude: -118.42522158
+- name: Mesa Clinical Pharmacy
+  identifier: f28b7a3f-a97c-45c1-aadd-295d656e1e4b
+  "@context": https://schema.org
+  "@type": Pharmacy
+  url: https://www.kvhd.org
+  telephone: 760-379-6106
+  address:
+    "@type": PostalAddress
+    streetAddress: 12608 Mountain Mesa Rd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordiantes
+    latitude: 35.63751569502722
+    longitude: -118.40184149329265
+- name: Mt. Mesa Lanes
+  identifier: e40f410d-d29b-42f2-a88b-8b2dc283a729
+  "@context": https://schema.org
+  "@type": BowlingAlley
+  url: https://mt-mesa-lanes.business.site
+  telephone: 760-379-3131
+  address:
+    "@type": PostalAddress
+    streetAddress: 4612 McCray Rd.
+    addressLocality: Mountain Mesa
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.638610
+    longitude: -118.405405
+- name: Mt. Mesa Automotive
+  identifier: b79072db-a315-454f-ab53-272e8404c96e
+  "@context": https://schema.org
+  "@type": AutoRepair
+  #url: Website is not HTTPS
+  telephone: 760-379-9100
+  address:
+    "@type": PostalAddress
+    streetAddress: 12504 Mountain Mesa Rd.
+    addressLocality: Mountain Mesa
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.638252492217866
+    longitude: -118.40333816588318
+- name: Kern River Automotive
+  identifier: dd8f13a6-31f8-4b4a-a60c-ee35c02c79ca
+  "@context": https://schema.org
+  "@type": AutoRepair
+  url: https://kernriverautomotive.com
+  telephone: 760-379-6349
+  address:
+    "@type": PostalAddress
+    streetAddress: 5448 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.616235
+    longitude: -118.477901
+- name: Kernville Automotive
+  identifier: 11123c87-b644-4127-9253-b6bd8a13621d
+  "@context": https://schema.org
+  "@type": AutRepair
+  telephone: 760-376-1069
+  address:
+    "@type": PostalAddress
+    streetAddress: 40 Tobias St.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.755948
+    longitude: -118.425078

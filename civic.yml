@@ -26,3 +26,106 @@
     "@type": GeoCoordinates
     latitude: 35.629035
     longitude: -118.479547
+- name: Liberty Ambulance
+  identifier: 8ab461b9-86e2-41db-9a53-346430e757c7
+  "@context": https://schema.org
+  # Ambulance does not exist, so use generic EmergencyService
+  "@type": EmergencyService
+  telephone: 760-376-2271
+  geo:
+    "@type": GeoCoordiantes
+    latitude: 35.755433
+    longitude: -118.42028
+- name: Kern County Fire Station 76
+  identifier: 2d8b20b7-c721-4a36-a4d6-e0f9f681086e
+  "@context": https://schema.org
+  "@type": FireStation
+  telephone: 760-376-2219
+  url: https://www.kerncountyfire.org/
+  address:
+    "@type": PostalAddress
+    streetAddress: 11018 Kernville Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.754342
+    longitude: -118.424868
+- name: Kern County Fire Station 71
+  identifier: 1a3475d5-43d8-4a3f-8d01-fc4eb83a5e36
+  "@context": https://schema.org
+  "@type": FireStation
+  telephone: 760-378-3055
+  address:
+    "@type": PostalAddress
+    streetAddress: 9000 Navajo Ave.
+    addressLocality: Weldon
+    addressRegion: CA
+    postalCode: 93283
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.647646
+    longitude: -118.360501
+- name: Kern County Fire Station 72
+  identifier: b16880cc-b0d9-48ae-bc63-c4b64bc945a7
+  "@context": https://schema.org
+  "@type": FireStation
+  telephone: 760-378-3055
+  address:
+    "@type": PostalAddress
+    streetAddress: 4500 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.610035
+    longitude: -118.488568
+- name: Lake Isabella Sheriff's Office
+  identifier: 45e8d9e8-6248-4e27-bf32-f659c6a0c298
+  "@context": https://schema.org
+  "@type": PoliceStation
+  telephone: 760-549-2100
+  url: https://kernsheriff.org
+  address:
+    "@type": PostalAddress
+    streetAddress: 7046 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.636981
+    longitude: -118.467484
+- name: Kern Valley Library
+  identifier: 2882905f-84c4-4546-9656-6d06f8198e11
+  "@context": https://schema.org
+  "@type": Library
+  url: https://www.kerncountylibrary.org
+  address:
+    "@type": PostalAddress
+    streetAddress: 7054 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.637708
+    longitude: -118.466848
+- name: Wofford Heights Kern County Library
+  identifier: c93c1886-5bfd-4bbc-b730-02da23a449f7
+  "@context": https://schema.org
+  "@type": Library
+  url: https://www.kerncountylibrary.org
+  telephone: 760-376-6160
+  address:
+    "@type": PostalAddress
+    streetAddress: 6400-b, Wofford Blvd.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: 93285
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.704282
+    longitude: -118.457380
