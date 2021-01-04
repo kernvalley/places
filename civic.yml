@@ -129,3 +129,131 @@
     "@type": GeoCoordinates
     latitude: 35.704282
     longitude: -118.457380
+- name: United States Post Office
+  identifier: b75afb58-454b-42b8-8c01-61ea99233953
+  "@context": https://schema.org
+  "@type": PostOffice
+  telephone: 800-275-8777
+  url: https://tools.usps.com/find-location.htm
+  address:
+    "@type": PostalAddress
+    streetAddress: 45 Big Blue Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    "@type": GeoCoordiantes
+    latitude: 35.755347
+    longitude: -118.426474
+- name: United States Post Office
+  identifier: e84951a9-9709-475e-9cad-3dd746924c0b
+  "@context": https://schema.org
+  "@type": PostOffice
+  telephone: 800-275-8777
+  url: https://tools.usps.com/find-location.htm
+  address:
+    "@type": PostalAddress
+    streetAddress: 6336 Wofford Blvd.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: 93285
+  geo:
+    "@type": GeoCoordiantes
+    latitude: 35.703872
+    longitude: -118.457397
+- name: United States Post Office
+  identifier: 8c8f7552-1c41-44bf-97d5-1ab4bd947d42
+  "@context": https://schema.org
+  "@type": PostOffice
+  telephone: 800-275-8777
+  url: https://tools.usps.com/find-location.htm
+  address:
+    "@type": PostalAddress
+    streetAddress: 6441 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordiantes
+    latitude: 35.630056
+    longitude: -118.474090
+- name: United States Post Office
+  identifier: c5078a9b-c61c-4dbc-b67f-aea28bac141e
+  "@context": https://schema.org
+  "@type": PostOffice
+  telephone: 800-275-8777
+  url: https://tools.usps.com/find-location.htm
+  address:
+    "@type": PostalAddress
+    streetAddress: "12604 Mountain Mesa Rd #A"
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordiantes
+    latitude: 35.637532
+    longitude: -118.402131
+- name: United States Post Office
+  identifier: 58c3ca99-a11b-43ec-bc63-93b650bec366
+  "@context": https://schema.org
+  "@type": PostOffice
+  telephone: 800-275-8777
+  url: https://tools.usps.com/find-location.htm
+  address:
+    "@type": PostalAddress
+    streetAddress: 5765 Vista Grande Dr.
+    addressLocality: Weldon
+    addressRegion: CA
+    postalCode: 93283
+  geo:
+    "@type": GeoCoordiantes
+    latitude: 35.656143
+    longitude: -118.327008
+- name: United States Post Office
+  identifier: 4ace8953-a919-41c3-83d2-3ef5440e8535
+  "@context": https://schema.org
+  "@type": PostOffice
+  telephone: 800-275-8777
+  url: https://tools.usps.com/find-location.htm
+  address:
+    "@type": PostalAddress
+    streetAddress: 8275 Easy St.
+    addressLocality: Onyx
+    addressRegion: CA
+    postalCode: 93255
+  geo:
+    "@type": GeoCoordiantes
+    latitude: 35.692427
+    longitude: -118.224093
+- name: United States Post Office
+  identifier: 5eb26037-ece8-4597-85fd-e5011fa0bfe3
+  "@context": https://schema.org
+  "@type": PostOffice
+  telephone: 800-275-8777
+  url: https://tools.usps.com/find-location.htm
+  address:
+    "@type": PostalAddress
+    streetAddress: 1 Miller St.
+    addressLocality: Bodfish
+    addressRegion: CA
+    postalCode: 93205
+  geo:
+    "@type": GeoCoordiantes
+    latitude: 35.590649
+    longitude: -118.496868
+- name: Kern River Valley Christian Church
+  identifier: ad885b4a-a502-41b0-8b8f-535018a45d2f
+  "@context": https://schema.org
+  "@type": Church
+  telephone: 760-378-3780
+  url: https://www.kcctheriver.com
+  address:
+    "@type": PostalAddress
+    streetAddress: 14900 CA-178
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.644123
+    longitude: -118.365455

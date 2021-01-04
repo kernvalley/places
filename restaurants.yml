@@ -20,6 +20,17 @@
     addressLocality: Kernville
     addressRegion: CA
     postalCode: 93238
+  image:
+    - "@type": ImageObject
+      url: /img/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+    - "@type": ImageObject
+      url: /img/missing-image.svg
+      width: 640
+      height: 480
+      encodingFormat: image/svg+xml
   geo:
     '@type': GeoCoordinates
     latitude: 35.75787
