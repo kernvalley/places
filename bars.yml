@@ -3,6 +3,13 @@
   identifier: ee8d2e72-4370-4f3c-97ba-c0af3d29234b
   "@context": https://schema.org
   "@type": BarOrPub
+  telephone: 760-376-2500
+  address:
+    "@type": PostalAddress
+    streetAddress: 22 Tobias St.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
   geo:
     "@type": GeoCoordinates
     longitude: -118.424971
@@ -11,6 +18,13 @@
   identifier: 730a9491-a8bb-4ffb-9232-ed641bfb8afd
   "@context": https://schema.org
   "@type": BarOrPub
+  telephone: 760-376-2314
+  adderess:
+    "@type": PostalAddress
+    streetAddress: 11320 Kernville Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
   geo:
     "@type": GeoCoordinates
     longitude: -118.420283
@@ -19,8 +33,44 @@
   identifier: daff7998-3bb4-468c-8a36-2bf4a0763564
   "@context": https://schema.org
   "@type": BarOrPub
+  telephone: 760-376-2556
+  address:
+    "@type": PostalAddress
+    streetAddress: 11123 Kernville Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
   geo:
     "@type": GeoCoordinates
     longitude: -118.42544
     latitude: 35.75473
-  
+- name: Harry's Bar
+  identifier: bab693f4-df69-4f8c-a807-6977c6d6a347
+  "@context": https://schema.org
+  "@type": BarOrPub
+  telephone: 760-376-2333
+  address:
+    "@type": PostalAddress
+    streetAddress: 6540 Wofford Blvd.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: 93285
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.706716
+    longitude: -118.455977
+- name: Arlie's Club
+  identifier: 3d2640a2-f098-4512-9629-46212541c606
+  "@context": https://schema.org
+  "@type": BarOrPub
+  telephone: 760-379-8144
+  address:
+    "@type": PostalAddress
+    streetAddress: 5430 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.615483
+    longitude: -118.478732

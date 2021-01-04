@@ -197,7 +197,7 @@
 - name: Kernville Automotive
   identifier: 11123c87-b644-4127-9253-b6bd8a13621d
   "@context": https://schema.org
-  "@type": AutRepair
+  "@type": AutoRepair
   telephone: 760-376-1069
   address:
     "@type": PostalAddress
