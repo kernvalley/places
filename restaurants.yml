@@ -150,7 +150,12 @@
   "@type": Restaurant
   telephone: 1-760-379-2719
   url: https://www.paradisecovelodge.com
-  logo: https://www.paradisecovelodge.com/img/raster/logo.png
+  logo:
+    - url: https://www.paradsecovelodge.com/img/icon-192.png
+      "@type": ImageObject
+      height: 192
+      width: 192
+      encodingFormat: image/png
   image:
     - "@type": ImageObject
       url: https://www.paradisecovelodge.com/img/raster/background/restaurant-350.jpg
@@ -182,6 +187,10 @@
   "@type": Restaurant
   telephone: 760-379-5605
   url: https://lake-isabella.pizzafactory.com
+  logo:
+    - url: https://cdn.kernvalley.us/img/markers/pizza.svg
+      "@type": ImageObject
+      encodingFormat: image/svg+xml
   address:
     "@type": PostalAddress
     streetAddress: 5640 Lake Isabella Blvd.
