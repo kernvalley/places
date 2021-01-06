@@ -3,6 +3,12 @@
   "@context": https://schema.org
   "@type": Store
   telephone: 760-376-2424
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     latitude: 35.758538
@@ -18,6 +24,12 @@
   "@context": https://schema.org
   "@type": Store
   telephone: 760-376-2322
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     latitude: 35.708662
@@ -33,6 +45,12 @@
   "@context": https://schema.org
   "@type": Store
   telephone: 760-379-2867
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     latitude: 35.639582

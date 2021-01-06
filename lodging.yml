@@ -6,16 +6,11 @@
   telephone: 760-376-2206
   url: https://www.kernvilleinn.com
   image:
-    - "@type": ImageObject
-      url: /img/missing-image.png
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
       width: 640
       height: 480
       encodingFormat: image/png
-    - "@type": ImageObject
-      url: /img/missing-image.svg
-      width: 640
-      height: 480
-      encodingFormat: image/svg+xml
   address:
     "@type": PostalAddress
     streetAddress: 11042 Kernville Rd
@@ -31,6 +26,12 @@
   "@context": https://schema.org
   "@type": Motel
   telephone: 760-376-2223
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 67 Valley View Dr
@@ -84,6 +85,12 @@
   "@type": Motel
   telephone: 760-379-2800
   url: https://www.lakeisabellamotel.net
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 400 CA-155
@@ -100,6 +107,12 @@
   "@type": Motel
   url: https://www.kernrivervalleymotels.com
   telephone: 760-376-1910
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 7013 Wofford Blvd.
@@ -116,11 +129,17 @@
   "@type": Motel
   url: https://motellakeisabella.com
   telephone: 760-376-2307
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 31 E Evans Rd.
     addressLocality: Wofford Heights
-    addresRegion: CA
+    addressRegion: CA
     postalCode: 93285
   geo:
     "@type": GeoCoordinates
@@ -131,6 +150,12 @@
   "@context": https://schema.org
   "@type": Motel
   telephone: 760-376-2250
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 6617 Wofford Blvd.
@@ -147,6 +172,12 @@
   "@type": Motel
   telephone: 760-376-1910
   url: https://www.kernrivervalleymotels.com
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 7466 Wofford Blvd.
@@ -154,7 +185,7 @@
     addressRegion: CA
     postalCode: 93285
   geo:
-    "@type": GeoCorrdinates
+    "@type": GeoCoordinates
     latitude: 35.711088
     longitude: -118.440430
 - name: Piazza's Pine Cone Inn
@@ -164,6 +195,12 @@
   url: https://piazzas-pinecone.com
   telephone: 760-376-6669
   email: pineconeinn@gmail.com
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 13383 Sierra Way
@@ -181,6 +218,12 @@
   telephone: 760-376-3733
   url: https://www.pineskernville.com
   priceRange: $$$$
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 13745 Sierra Way
@@ -188,7 +231,7 @@
     addressRegion: CA
     postalCode: 93238
   geo:
-    "@type": GeoCoordiantes
+    "@type": GeoCoordinates
     latitude: 35.760621
     longitude: -118.420898
 - name: Kern Motel
@@ -196,6 +239,12 @@
   "@context": https://schema.org
   "@type": Motel
   telephone: 760-379-8168
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 5436 Lake Isabella Blvd.

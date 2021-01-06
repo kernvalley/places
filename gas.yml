@@ -3,6 +3,12 @@
   identifier: 2bc25a06-313a-49d8-8d5f-ed08de333c05
   "@context": https://schema.org
   "@type": GasStation
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     latitude: 35.753332
@@ -11,6 +17,12 @@
   identifier: 4081d7b9-c5dc-4642-a84f-9dce0339a052
   "@context": https://schema.org
   "@type": GasStation
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     latitude: 35.626377
@@ -19,6 +31,12 @@
   identifier: c112029c-2fea-4647-973d-5882d951a278
   "@context": https://schema.org
   "@type": GasStation
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     latitude: 35.639084
@@ -27,6 +45,12 @@
   identifier: 5459eb82-ddf7-42d0-89bb-ca1a16af61b2
   "@context": https://schema.org
   "@type": GasStation
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     latitude: 35.617227
@@ -35,6 +59,12 @@
   identifier: 1c1a184c-c009-48d3-a259-75453b995639
   "@context": https://schema.org
   "@type": GasStation
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     latitude: 35.611807
@@ -43,6 +73,12 @@
   identifier: 5e498b63-fd80-4286-bfd4-b850bd8a08cf
   "@context": https://schema.org
   "@type": GasStation
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     latitude: 35.707648
@@ -51,6 +87,12 @@
   identifier: 94109964-6ee3-4ace-804d-46ba0feeb748
   "@context": https://schema.org
   "@type": GasStation
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     latitude: 35.758228
@@ -59,6 +101,12 @@
   identifier: 53daea19-b29e-4ee2-a17a-48e02db0e35a
   "@context": https://schema.org
   "@type": GasStation
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     latitude: 35.758212
@@ -67,6 +115,12 @@
   identifier: 7dce8700-d2a5-46d6-99fd-69a0da4a96b8
   "@context": https://schema.org
   "@type": GasStation
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     latitude: 35.641505
@@ -75,6 +129,12 @@
   identifier: 9aa94eb1-20b7-4c0c-a19b-d9ca20c28a6f
   "@context": https://schema.org
   "@type": GasStation
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     latitude: 35.698176

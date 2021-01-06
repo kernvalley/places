@@ -30,6 +30,12 @@
   priceRange: $$$
   url: https://www.campkernville.com
   telephone: 760-376-1000
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 24 Sirretta St.
@@ -52,6 +58,12 @@
     the facility popular among boaters, rafters and anglers. The camp is also a
     favorite among RV campers, with ample parking available to accommodate both
     trailers and motorized watercraft.
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     latitude: 35.686582
@@ -69,6 +81,12 @@
     to the shoreline and camp at the water’s edge. Below the high-water mark
     portable toilets and trash receptacles are provided for visitor convenience
     during the summer.
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     latitude: 35.642401
@@ -77,6 +95,12 @@
   identifier: 0eeea7f7-c240-42cd-b235-9b3a456e1f22
   "@context": https://schema.org
   "@type": Campground
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     latitude: 35.649494

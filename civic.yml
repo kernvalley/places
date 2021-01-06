@@ -8,6 +8,12 @@
   "@type": Hospital
   telephone: 760-379-2681
   url: https://www.kvhd.org
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 6412 Laurel Ave
@@ -22,6 +28,12 @@
   identifier: a768d22e-8ae1-452c-8d47-1403c81c3a74
   "@context": https://schema.org
   "@type": ParkingFacility
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     latitude: 35.629035
@@ -32,8 +44,14 @@
   # Ambulance does not exist, so use generic EmergencyService
   "@type": EmergencyService
   telephone: 760-376-2271
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
-    "@type": GeoCoordiantes
+    "@type": GeoCoordinates
     latitude: 35.755433
     longitude: -118.42028
 - name: Kern County Fire Station 76
@@ -41,7 +59,13 @@
   "@context": https://schema.org
   "@type": FireStation
   telephone: 760-376-2219
-  url: https://www.kerncountyfire.org/
+  url: https://www.kerncountyfire.org
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 11018 Kernville Rd.
@@ -57,6 +81,12 @@
   "@context": https://schema.org
   "@type": FireStation
   telephone: 760-378-3055
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 9000 Navajo Ave.
@@ -72,6 +102,12 @@
   "@context": https://schema.org
   "@type": FireStation
   telephone: 760-378-3055
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 4500 Lake Isabella Blvd.
@@ -88,6 +124,12 @@
   "@type": PoliceStation
   telephone: 760-549-2100
   url: https://kernsheriff.org
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 7046 Lake Isabella Blvd.
@@ -103,6 +145,12 @@
   "@context": https://schema.org
   "@type": Library
   url: https://www.kerncountylibrary.org
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 7054 Lake Isabella Blvd.
@@ -119,6 +167,12 @@
   "@type": Library
   url: https://www.kerncountylibrary.org
   telephone: 760-376-6160
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 6400-b, Wofford Blvd.
@@ -135,6 +189,12 @@
   "@type": PostOffice
   telephone: 800-275-8777
   url: https://tools.usps.com/find-location.htm
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 45 Big Blue Rd.
@@ -142,7 +202,7 @@
     addressRegion: CA
     postalCode: 93238
   geo:
-    "@type": GeoCoordiantes
+    "@type": GeoCoordinates
     latitude: 35.755347
     longitude: -118.426474
 - name: United States Post Office
@@ -151,6 +211,12 @@
   "@type": PostOffice
   telephone: 800-275-8777
   url: https://tools.usps.com/find-location.htm
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 6336 Wofford Blvd.
@@ -158,7 +224,7 @@
     addressRegion: CA
     postalCode: 93285
   geo:
-    "@type": GeoCoordiantes
+    "@type": GeoCoordinates
     latitude: 35.703872
     longitude: -118.457397
 - name: United States Post Office
@@ -167,6 +233,12 @@
   "@type": PostOffice
   telephone: 800-275-8777
   url: https://tools.usps.com/find-location.htm
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 6441 Lake Isabella Blvd.
@@ -174,7 +246,7 @@
     addressRegion: CA
     postalCode: 93240
   geo:
-    "@type": GeoCoordiantes
+    "@type": GeoCoordinates
     latitude: 35.630056
     longitude: -118.474090
 - name: United States Post Office
@@ -183,6 +255,12 @@
   "@type": PostOffice
   telephone: 800-275-8777
   url: https://tools.usps.com/find-location.htm
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: "12604 Mountain Mesa Rd #A"
@@ -190,7 +268,7 @@
     addressRegion: CA
     postalCode: 93240
   geo:
-    "@type": GeoCoordiantes
+    "@type": GeoCoordinates
     latitude: 35.637532
     longitude: -118.402131
 - name: United States Post Office
@@ -199,6 +277,12 @@
   "@type": PostOffice
   telephone: 800-275-8777
   url: https://tools.usps.com/find-location.htm
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 5765 Vista Grande Dr.
@@ -206,7 +290,7 @@
     addressRegion: CA
     postalCode: 93283
   geo:
-    "@type": GeoCoordiantes
+    "@type": GeoCoordinates
     latitude: 35.656143
     longitude: -118.327008
 - name: United States Post Office
@@ -215,6 +299,12 @@
   "@type": PostOffice
   telephone: 800-275-8777
   url: https://tools.usps.com/find-location.htm
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 8275 Easy St.
@@ -222,7 +312,7 @@
     addressRegion: CA
     postalCode: 93255
   geo:
-    "@type": GeoCoordiantes
+    "@type": GeoCoordinates
     latitude: 35.692427
     longitude: -118.224093
 - name: United States Post Office
@@ -231,6 +321,12 @@
   "@type": PostOffice
   telephone: 800-275-8777
   url: https://tools.usps.com/find-location.htm
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 1 Miller St.
@@ -238,7 +334,7 @@
     addressRegion: CA
     postalCode: 93205
   geo:
-    "@type": GeoCoordiantes
+    "@type": GeoCoordinates
     latitude: 35.590649
     longitude: -118.496868
 - name: Kern River Valley Christian Church
@@ -247,6 +343,12 @@
   "@type": Church
   telephone: 760-378-3780
   url: https://www.kcctheriver.com
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 14900 CA-178

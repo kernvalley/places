@@ -5,6 +5,12 @@
   "@type": City
   latitude: 35.729201
   longitude: -118.550012
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     addressRegion: CA
@@ -17,6 +23,12 @@
   "@type": City
   latitude: 35.665851
   longitude: -118.290195
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     addressRegion: CA
@@ -30,6 +42,12 @@
   "@type": City
   latitude: 35.596626
   longitude: -118.491558
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     addressRegion: CA
@@ -42,6 +60,12 @@
   "@type": City
   latitude: 35.641459
   longitude: -118.370365
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     addressRegion: CA
@@ -54,6 +78,12 @@
   "@type": City
   latitude: 35.639615
   longitude: -118.405404
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     addressRegion: CA
@@ -66,6 +96,12 @@
   "@type": City
   latitude: 35.70771
   longitude: -118.454796
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     addressRegion: CA
@@ -78,6 +114,12 @@
   "@type": City
   latitude: 35.626735
   longitude: -118.474097
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     addressRegion: CA
@@ -90,6 +132,12 @@
   "@type": City
   latitude: 35.752959
   longitude: -118.425183
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     addressRegion: CA
@@ -102,6 +150,12 @@
   "@type": City
   latitude: 35.690621
   longitude: -118.220529
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     addressRegion: CA
@@ -115,6 +169,12 @@
   "@type": City
   latitude: 35.728495
   longitude: -118.138357
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     addressRegion: CA
@@ -127,6 +187,12 @@
   "@type": City
   latitude: 35.517858
   longitude: -118.518515
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     addressRegion: CA
@@ -138,6 +204,12 @@
   "@type": City
   latitude: 35.291129
   longitude: -118.627887
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     addressRegion: CA
@@ -150,6 +222,12 @@
   "@type": City
   latitude: 35.790102
   longitude: -118.447931
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     addressRegion: CA
@@ -161,6 +239,12 @@
   "@type": City
   latitude: 35.926058
   longitude: -118.495519
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     addressRegion: CA
@@ -172,6 +256,12 @@
   "@type": City
   latitude: 35.973567
   longitude: -118.534604
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     addressRegion: CA
