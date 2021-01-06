@@ -59,7 +59,7 @@
     addressRegion: CA
     addressCountry: US
     postalCode:
-      - 93285
+      - 93240
 - name: Wofford Heights
   identifier: wofford-heights
   "@context": https://schema.org
@@ -70,7 +70,8 @@
     "@type": PostalAddress
     addressRegion: CA
     addressCountry: US
-    postalCode: 99999
+    postalCode:
+    - 93285
 - name: Lake Isabella
   identifier: lake-isabella
   "@context": https://schema.org
@@ -94,7 +95,7 @@
     addressRegion: CA
     addressCountry: US
     postalCode:
-      - 93285
+      - 93238
 - name: Onyx
   identifier: onyx
   "@context": https://schema.org
