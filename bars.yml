@@ -4,6 +4,12 @@
   "@context": https://schema.org
   "@type": BarOrPub
   telephone: 760-376-2500
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 22 Tobias St.
@@ -19,7 +25,13 @@
   "@context": https://schema.org
   "@type": BarOrPub
   telephone: 760-376-2314
-  adderess:
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
     "@type": PostalAddress
     streetAddress: 11320 Kernville Rd.
     addressLocality: Kernville
@@ -34,6 +46,12 @@
   "@context": https://schema.org
   "@type": BarOrPub
   telephone: 760-376-2556
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 11123 Kernville Rd.
@@ -49,6 +67,12 @@
   "@context": https://schema.org
   "@type": BarOrPub
   telephone: 760-376-2333
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 6540 Wofford Blvd.
@@ -64,6 +88,12 @@
   "@context": https://schema.org
   "@type": BarOrPub
   telephone: 760-379-8144
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 5430 Lake Isabella Blvd.

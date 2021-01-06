@@ -3,8 +3,14 @@
   identifier: 697f828d-a43f-4123-8b4e-10975740f17f
   "@context": https://schema.org
   "@type": BankOrCreditUnion
-  telepone: 760-376-2251
+  telephone: 760-376-2251
   url: https://altaone.org
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 44 Big Blue Rd.
@@ -21,6 +27,12 @@
   "@type": BankOrCreditUnion
   telephone: 760-379-4671
   url: https://altaone.org
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 5946 Lake Isabella Blvd.
@@ -35,6 +47,12 @@
   identifier: ef25b44c-77c4-43bd-8678-516fd8e4b4e1
   "@context": https://schema.org
   "@type": AutomatedTeller
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     longitude: -118.425422
@@ -43,6 +61,12 @@
   identifier: fdf047fa-fcfc-4268-a71f-fcc66307c08e
   "@context": https://schema.org
   "@type": AutomatedTeller
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     latitude: 35.616897
@@ -53,6 +77,12 @@
   "@type": FinancialService
   description: Inside of Vons
   telephone: 760-379-4461
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     latitude: 35.617705
@@ -63,6 +93,12 @@
   "@type": BankOrCreditUnion
   url: https://www.westamerica.com/
   telephone: 760-379-2691
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 6100 Lake Isabella Blvd.

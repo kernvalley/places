@@ -5,6 +5,12 @@
   "@type": CafeOrCoffeeShop
   telephone: 760-376-2442
   url: https://www.bigbluebearcafe.com
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 101 Piute Drive
@@ -20,6 +26,12 @@
   "@context": https://schema.org
   "@type": CafeOrCoffeeShop
   telephone: 800-782-7282
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
     latitude: 35.618202
@@ -53,4 +65,3 @@
       dayOfWeek: Saturday
       opens: '05:00'
       closes: '21:00'
-    

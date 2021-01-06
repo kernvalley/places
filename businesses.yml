@@ -5,6 +5,12 @@
   "@type": LocalBusiness
   url: https://www.gotokernville.com/
   telephone: 760-376-2629
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 11447 Kernville Rd.
@@ -22,6 +28,12 @@
   "@type": LocalBusiness
   url: https://kernvillecowork.com/en
   description: At Kernville Cowork, we are working to create a community for collaboration, innovation, and continuous learning.
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 21 Sierra Dr.
@@ -37,7 +49,13 @@
   "@context": https://schema.org
   "@type": Florist
   telephone: 760-376-1409
-  url: https://designsbyerin.org/
+  url: https://designsbyerin.org
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 11006 Kernville Rd.
@@ -55,6 +73,12 @@
   telephone: 866-578-4386
   email: office@kernrivervalley.com
   # url: Website does not use HTTPS
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 6414 Lake Isabella Blvd. - Suite D
@@ -73,12 +97,18 @@
   telephone: 760-376-3030
   url: https://ourreelcinema.com
   email: Info@ourreelcinema.com
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 6742 Wofford Blvd.
     addressLocality: Wofford Heights
     addressRegion: CA
-    psotalCode: 93285
+    postalCode: 93285
   geo:
     "@type": GeoCoordinates
     latitude: 35.708011
@@ -88,7 +118,13 @@
   "@context": https://schema.org
   "@type": Museum
   url: https://kernvalleymuseum.org
-  telephone: 1-760-376-6683
+  telephone: 760-376-6683
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 49 Big Blue Road
@@ -104,6 +140,12 @@
   "@context": https://schema.org
   "@type": Cemetery
   telephone: 760-376-2189
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 8441 Burlando Rd.
@@ -111,7 +153,7 @@
     addressRegion: CA
     postalCode: 93285
   geo:
-    "@type": GeoCoordiantes
+    "@type": GeoCoordinates
     latitude: 35.720951
     longitude: -118.437034
 - name: The Drug Store
@@ -120,6 +162,12 @@
   "@type": Pharmacy
   url: https://www.thedrugstorerx.com
   telephone: 760-376-2216
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 111 Piute Dr.
@@ -136,6 +184,12 @@
   "@type": Pharmacy
   url: https://www.kvhd.org
   telephone: 760-379-6106
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 12608 Mountain Mesa Rd.
@@ -143,7 +197,7 @@
     addressRegion: CA
     postalCode: 93240
   geo:
-    "@type": GeoCoordiantes
+    "@type": GeoCoordinates
     latitude: 35.63751569502722
     longitude: -118.40184149329265
 - name: Mt. Mesa Lanes
@@ -152,6 +206,12 @@
   "@type": BowlingAlley
   url: https://mt-mesa-lanes.business.site
   telephone: 760-379-3131
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 4612 McCray Rd.
@@ -168,6 +228,12 @@
   "@type": AutoRepair
   #url: Website is not HTTPS
   telephone: 760-379-9100
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 12504 Mountain Mesa Rd.
@@ -184,6 +250,12 @@
   "@type": AutoRepair
   url: https://kernriverautomotive.com
   telephone: 760-379-6349
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 5448 Lake Isabella Blvd.
@@ -199,6 +271,12 @@
   "@context": https://schema.org
   "@type": AutoRepair
   telephone: 760-376-1069
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 40 Tobias St.

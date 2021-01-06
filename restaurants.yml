@@ -21,16 +21,11 @@
     addressRegion: CA
     postalCode: 93238
   image:
-    - "@type": ImageObject
-      url: /img/missing-image.png
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
       width: 640
       height: 480
       encodingFormat: image/png
-    - "@type": ImageObject
-      url: /img/missing-image.svg
-      width: 640
-      height: 480
-      encodingFormat: image/svg+xml
   geo:
     '@type': GeoCoordinates
     latitude: 35.75787
@@ -41,6 +36,12 @@
   "@type": BarOrPub
   telephone: 760-376-2337
   url: https://kernriverbrewing.com
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     '@type': PostalAddress
     streetAddress: 13415 Sierra Way
@@ -57,6 +58,12 @@
   "@type": Restaurant
   telephone: 760-376-2411
   url: https://www.ewingsco.com
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     '@type': PostalAddress
     streetAddress: 125 Buena Vista Dr.
@@ -73,6 +80,12 @@
   "@type": Restaurant
   telephone: 760-376-6131
   url: https://www.cherylsdiner.com
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     '@type': PostalAddress
     streetAddress: 11030 Kernville Rd.
@@ -88,6 +101,12 @@
   "@context": https://schema.org
   "@type": Restaurant
   telephone: 760-376-3246
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     '@type': PostalAddress
     streetAddress: 11 Kern River Rd.
@@ -104,6 +123,12 @@
   "@type": Restaurant
   telephone: 760-376-1856
   url: https://pizzabarn.speeddine.com
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     '@type': PostalAddress
     streetAddress: 11401 Kernville Rd.
@@ -119,6 +144,12 @@
   "@context": https://schema.org
   "@type": Restaurant
   telephone: 760-376-6020
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     '@type': PostalAddress
     streetAddress: 9 Big Blue Rd.
@@ -134,6 +165,12 @@
   "@context": https://schema.org
   "@type": Restaurant
   telephone: 760-376-2185
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     '@type': PostalAddress
     streetAddress: 16 Big Blue Rd.
@@ -187,10 +224,12 @@
   "@type": Restaurant
   telephone: 760-379-5605
   url: https://lake-isabella.pizzafactory.com
-  logo:
-    - url: https://cdn.kernvalley.us/img/markers/pizza.svg
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
-      encodingFormat: image/svg+xml
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 5640 Lake Isabella Blvd.
@@ -206,12 +245,18 @@
   "@context": https://schema.org
   "@type": Restaurant
   telephone: 760-379-8448
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 5128 Lake Isabella Blvd.
     addressLocality: Lake Isabella
     addressRegion: CA
-    posstalCode: 93240
+    postalCode: 93240
   geo:
     "@type": GeoCoordinates
     latitude: 35.611481
@@ -222,6 +267,12 @@
   "@type": BarOrPub
   url: https://www.toasttab.com/178-bar-grill-6107-lake-isabella-blvd/v3
   telephone: 760-379-0178
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 6107 Lake Isabella Blvd.
@@ -239,6 +290,12 @@
   telephone: 760-379-3663
   servesCuisine:
     - Mexican
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 6106 Lake Isabella Blvd.
@@ -256,6 +313,12 @@
   telephone: 760-379-2779
   servesCuisine:
     - Mexican
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 12598 Mountain Mesa Rd.
@@ -274,6 +337,12 @@
   url: https://johhnymcnallys.com
   servesCuisine:
     - Steak
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 7300 Kern River Hwy.
@@ -289,6 +358,12 @@
   "@context": https://schema.org
   "@type": Restaurant
   telephone: 760-379-1397
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
   address:
     "@type": PostalAddress
     streetAddress: 12408 Mountain Mesa Rd.
