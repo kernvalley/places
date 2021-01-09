@@ -3,12 +3,20 @@
   identifier: 2bc25a06-313a-49d8-8d5f-ed08de333c05
   "@context": https://schema.org
   "@type": GasStation
+  url: https://riversideonestop.com/
+  telephone: 760-376-1688
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
       width: 640
       height: 480
       encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 10800 Kernville Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
   geo:
     "@type": GeoCoordinates
     latitude: 35.753332
@@ -17,12 +25,19 @@
   identifier: 4081d7b9-c5dc-4642-a84f-9dce0339a052
   "@context": https://schema.org
   "@type": GasStation
+  telephone: 760-379-2805
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
       width: 640
       height: 480
       encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 6209 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
   geo:
     "@type": GeoCoordinates
     latitude: 35.626377
@@ -31,12 +46,19 @@
   identifier: c112029c-2fea-4647-973d-5882d951a278
   "@context": https://schema.org
   "@type": GasStation
+  telephone: 760-379-3747
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
       width: 640
       height: 480
       encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 12400 Mountain Mesa Rd.
+    addressLocality: Mountain Mesa
+    addressRegion: CA
+    postalCode: 93240
   geo:
     "@type": GeoCoordinates
     latitude: 35.639084
@@ -45,12 +67,19 @@
   identifier: 5459eb82-ddf7-42d0-89bb-ca1a16af61b2
   "@context": https://schema.org
   "@type": GasStation
+  telephone: 760-379-2805
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
       width: 640
       height: 480
       encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 5510 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
   geo:
     "@type": GeoCoordinates
     latitude: 35.617227
@@ -59,12 +88,19 @@
   identifier: 1c1a184c-c009-48d3-a259-75453b995639
   "@context": https://schema.org
   "@type": GasStation
+  telephone: 760-379-8498
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
       width: 640
       height: 480
       encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 5200 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
   geo:
     "@type": GeoCoordinates
     latitude: 35.611807
@@ -73,26 +109,40 @@
   identifier: 5e498b63-fd80-4286-bfd4-b850bd8a08cf
   "@context": https://schema.org
   "@type": GasStation
+  telephone: 760-376-2577
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
       width: 640
       height: 480
       encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 6618 Wofford Blvd.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: 93285
   geo:
     "@type": GeoCoordinates
     latitude: 35.707648
     longitude: -118.455338
-- name: Fastrip (Primos)
+- name: Fastrip (Primo's Liquor and Deli)
   identifier: 94109964-6ee3-4ace-804d-46ba0feeb748
   "@context": https://schema.org
   "@type": GasStation
+  telephone: 760-376-2555
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
       width: 640
       height: 480
       encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 13435 Sierra Way
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
   geo:
     "@type": GeoCoordinates
     latitude: 35.758228
@@ -101,12 +151,19 @@
   identifier: 53daea19-b29e-4ee2-a17a-48e02db0e35a
   "@context": https://schema.org
   "@type": GasStation
+  telephone: 760-376-2424
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
       width: 640
       height: 480
       encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 13432 Sierra Way
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
   geo:
     "@type": GeoCoordinates
     latitude: 35.758212
@@ -115,12 +172,19 @@
   identifier: 7dce8700-d2a5-46d6-99fd-69a0da4a96b8
   "@context": https://schema.org
   "@type": GasStation
+  telephone: 760-378-2207
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
       width: 640
       height: 480
       encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 14604 CA-178
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
   geo:
     "@type": GeoCoordinates
     latitude: 35.641505
@@ -129,12 +193,19 @@
   identifier: 9aa94eb1-20b7-4c0c-a19b-d9ca20c28a6f
   "@context": https://schema.org
   "@type": GasStation
+  telephone: 760-376-3606
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
       width: 640
       height: 480
       encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 5981 Wofford Blvd.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: 93285
   geo:
     "@type": GeoCoordinates
     latitude: 35.698176
