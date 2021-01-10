@@ -473,7 +473,8 @@
   identifier: cada575d-9b1a-4996-bc1e-5b326126a736
   "@context": https://schema.org
   "@type": School
-  url: http://valleyoakscharterschool.org/valley-oaks-charter-school-kern-river-valley/
+  # Again, this website is not `https:`
+  # url: http://valleyoakscharterschool.org/valley-oaks-charter-school-kern-river-valley/
   telephone: 760-379-2320
   address:
     "@type": PostalAddress
