@@ -102,6 +102,10 @@
   identifier: d70abd8e-d632-4059-be2f-b1ba79b0edee
   "@context": https://schema.org
   "@type": Restaurant
+  additionalProperty:
+    - "@type": PropertyValue
+      name: icon
+      value: taco
   telephone: 760-376-3246
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png

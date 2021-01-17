@@ -1,7 +1,6 @@
 ---
 # Hospitals, Parks, Churches, etc
 # https://schema.org/CivicStructure#subtypes
-
 - name: Kern Valley Hospital
   identifier: c2481755-681a-4939-9b76-d909464602f0
   "@context": https://schema.org
