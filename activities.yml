@@ -1,0 +1,289 @@
+---
+- name: Reel Cinema
+  identifier: a6ec4974-211d-4b6e-b402-4bbc5a688770
+  "@context": https://schema.org
+  "@type": MovieTheater
+  telephone: 760-376-3030
+  url: https://ourreelcinema.com
+  email: Info@ourreelcinema.com
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 6742 Wofford Blvd.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: 93285
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.708011
+    longitude: -118.453436
+- name: Mt. Mesa Lanes
+  identifier: e40f410d-d29b-42f2-a88b-8b2dc283a729
+  "@context": https://schema.org
+  "@type": BowlingAlley
+  url: https://mt-mesa-lanes.business.site
+  telephone: 760-379-3131
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 4612 McCray Rd.
+    addressLocality: Mountain Mesa
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.638610
+    longitude: -118.405405
+- name: Nuui Cunni Native American Intertribal Cultural Center and Museum
+  identifier: f5dc57bb-b1ff-4d65-a0ba-9d952b765f7e
+  "@context": https://schema.org
+  "@type": Museum
+  url: https://nuuicunni.com
+  telephone: 760-549-0800
+  email: nuuicunni@earthlink.net
+  description: |
+    We are dedicated to preserving, restoring and teaching our Native American
+    culture, history and traditions.  We provide a facility available for educational,
+    ceremonial and social activities for Native Americans as well as the interested public.
+  address:
+    "@type": PostalAddress
+    streetAddress: 2600 CA-155
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/dLBZUJEkcXTcoPrn9
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.657023004099564
+    longitude: -118.48016123171158
+    url: geo:35.657023004099564,-118.48016123171158
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Wednesday
+      opens: '09:00'
+      closes: '15:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Thursday
+      opens: '09:00'
+      closes: '15:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Friday
+      opens: '09:00'
+      closes: '15:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Saturday
+      opens: '09:00'
+      closes: '15:00'
+  image:
+    - url: https://i.imgur.com/DchhnIsl.jpg
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/jpeg
+- name: Silver City Ghost Town
+  identifier: 20ed6c2f-6c5e-4f9c-8ff5-9aa00e26b0c8
+  "@context": https://schema.org
+  "@type": Museum
+  telephone: 760-379-5146
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.59759992355346
+    longitude: -118.49125990103335
+    url: geo:35.59759992355346,-118.49125990103335
+  address:
+    "@type": PostalAddress
+    streetAddress: 3829 Lake Isabella Blvd.
+    addressLocality: Bodfish
+    addressRegion: CA
+    postalCode: 93205
+    url: https://goo.gl/maps/4jG9Eij8QjJxSAmP8
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Kern Valley Museum
+  identifier: 3c2f762c-23f5-4579-826e-85d51cad0249
+  "@context": https://schema.org
+  "@type": Museum
+  url: https://kernvalleymuseum.org
+  telephone: 760-376-6683
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 49 Big Blue Road
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.755170
+    longitude: -118.426782
+- name: SoCal Rafting
+  identifier: 01332d5b-570a-4915-b524-40d16ce8bb5b
+  "@context": https://schema.org
+  "@type": LocalBusiness
+  # additionalProperty:
+  #   - "@type": PropertyValue
+  #     name: icon
+  #     value: rafting
+  url: https://www.socalrafting.com
+  email: booking@socalrafting.com
+  telephone: 760-440-7722
+  address:
+    "@type": PostalAddress
+    streetAddress: 11101 Kernville Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+    url: https://g.page/SoCalRafting?share
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.75548030120008
+    longitude: -118.42433398999142
+    url: geo:35.75548030120008,-118.42433398999142
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Mountain & River Adventures
+  identifier: 0f811e85-9df8-4a03-a8ce-97da27b299d4
+  "@context": https://schema.org
+  "@type": LocalBusiness
+  url: https://www.mtnriver.com
+  telephone: 760-376-6553
+  address:
+    "@type": PostalAddress
+    streetAddress: 15775 Sierra Way
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+    url: https://g.page/mtnriver?share
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.78339520068344
+    longitude: -118.44354102937147
+    url: geo:35.78339520068344,-118.44354102937147
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+# - name: Whitewater Voyages
+#   identifier: 2260c0aa-687d-47eb-8a61-70e34a007508
+#   "@type": LocalBusiness
+#   "@context": https://schema.org
+#   url: https://www.whitewatervoyages.com/
+#   telephone: 800-488-7238
+#   email: fun@wwvoyages.com
+#   address:
+#     "@type": PostalAddress
+#     streetAddress: 11252 Kernville Rd.
+#     addressLocality: Kernville
+#     addressRegion: CA
+#     postalCode: 93238
+#     url: https://goo.gl/maps/EWnzCSRdZbXZs7ok7
+#   geo:
+#     "@type": GeoCoordinates
+#     latitude: 35.75514235881279
+#     longitude: -118.4207605169735
+#   image:
+#     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+#       "@type": ImageObject
+#       width: 640
+#       height: 480
+#       encodingFormat: image/png
+- name: Sierra South
+  identifier: 40462106-4b95-4c4b-8646-c2d291b87df7
+  "@context": https://schema.org
+  "@type": LocalBusiness
+  url: https://www.sierrasouth.com
+  telephone: 760-376-3745
+  email: tripreservation@sierrasouth.com
+  address:
+    "@type": PostalAddress
+    streetAddress: 11300 Kernville Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+    url: https://g.page/SierraSouth?share
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.755132396961365
+    longitude: -118.42103996436853
+    url: geo:35.755132396961365,-118.42103996436853
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Eagle Rafting
+  identifier: 33c4c538-704c-454a-9b5f-dcb70074a19a
+  "@context": https://schema.org
+  "@type": LocalBusiness
+  url: https://eaglerafting.com/
+  telephone: 800-375-7395
+  email: joe@eaglerafting.com
+  address:
+    "@type": PostalAddress
+    streetAddress: 13226 Sierra Way
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+    url: https://goo.gl/maps/tTVNSDijMb8d3XhXA
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.75501575685087
+    longitude: -118.41611534657717
+    url: geo:35.75501575685087,-118.41611534657717
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Kern River Outfitters
+  identifier: ad47741a-ce56-4dcd-bbca-a0d96ec99424
+  "@context": https://schema.org
+  "@type": LocalBusiness
+  url: https://www.kernrafting.com
+  telephone: 760-376-3370
+  email: joe@eaglerafting.com
+  address:
+    "@type": PostalAddress
+    streetAddress: 6602 Wofford Blvd.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: 93285
+    url: https://g.page/kernriver
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.70715160682228
+    longitude: -118.45589199872661
+    url: geo:35.70715160682228,-118.45589199872661
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png

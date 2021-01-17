@@ -267,3 +267,21 @@
     addressRegion: CA
     addressCountry: US
     postalCode: 93208
+- name: Squirrel Mountain Valley
+  alternateName: Squirrel Valley
+  identifier: squirrel-valley
+  "@context": https://schema.org
+  "@type": AdministrativeArea
+  latitude: 35.625975
+  longitude: -118.407028
+  address:
+    "@type": PostalAddress
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png

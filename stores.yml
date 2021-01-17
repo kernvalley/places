@@ -1,7 +1,7 @@
 - name: Sierra Gateway Market
   identifier: f7e94bcf-4d3c-4e6b-a6d8-bc5a569f282f
   "@context": https://schema.org
-  "@type": Store
+  "@type": GroceryStore
   telephone: 760-376-2424
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
@@ -22,7 +22,9 @@
 - name: Charlie's Market
   identifier: 1f1149df-ea88-47e2-81bd-8fbd77d5aedf
   "@context": https://schema.org
-  "@type": Store
+  "@type": GroceryStore
+  additionalType:
+    - FoodEstablishment
   telephone: 760-376-2322
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
@@ -43,7 +45,9 @@
 - name: Mt. Mesa Market
   identifier: 787bbb02-f312-4b02-bbda-052fe3a329c2
   "@context": https://schema.org
-  "@type": Store
+  "@type": GroceryStore
+  additionalType:
+    - FoodEstablishment
   telephone: 760-379-2867
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
@@ -61,3 +65,167 @@
     addressLocality: Lake Isabella
     addressRegion: CA
     postalCode: 93240
+- name: Mountain Vista Market
+  identifier: 8981b906-c07b-4bce-97ba-e4482ec5c688
+  "@context": https://schema.org
+  "@type": GroceryStore
+  telephone: 760-378-2207
+  address:
+    "@type": PostalAddress
+    streetAddress: 14606 CA-178
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/rcEz9av9UDNKMEcu8
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.641610365087935
+    longitude: -118.36907235512504
+    url: geo:35.641610365087935,-118.36907235512504
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Bodfish Market
+  identifier: c100bb1c-b590-4cdc-b055-7b6236ffb820
+  "@context": https://schema.org
+  "@type": GroceryStore
+  telephone: 760-379-2941
+  address:
+    "@type": PostalAddress
+    streetAddress: 3933 Lake Isabella Blvd.
+    addressLocality: Bodfish
+    addressRegion: CA
+    postalCode: 93205
+    url: https://goo.gl/maps/sJbw4tUc7H5b6UhU6
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.5988177899005
+    longitude: -118.48975830410392
+    url: geo:35.5988177899005,-118.48975830410392
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Paul's Place General Merchandise
+  identifier: e68099b1-78fa-4d7e-804a-eae4c0a2ef33
+  "@context": https://schema.org
+  "@type": Store
+  telephone: 760-378-2322
+  address:
+    "@type": PostalAddress
+    streetAddress: 12032 Paul's Pl Dr.
+    addressLocality: Weldon
+    addressRegion: CA
+    postalCode: 93283
+    url: https://goo.gl/maps/4kZ7Tg25DJ27WHdf6
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.659649725249984
+    longitude: -118.30779386054644
+    url: geo:35.659649725249984,-118.30779386054644
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: The Drug Store
+  identifier: bca77916-267f-4b71-b6e3-54338f37db20
+  "@context": https://schema.org
+  "@type": Pharmacy
+  additionalType:
+    - Store
+  url: https://www.thedrugstorerx.com
+  telephone: 760-376-2216
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 111 Piute Dr.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.75553509
+    longitude: -118.42522158
+- name: Grocery Outlet
+  identifier: d8bec1cd-6f13-4342-adf7-952313c884e2
+  "@context": https://schema.org
+  "@type": Store
+  telephone: 760-379-0009
+  address:
+    "@type": PostalAddress
+    streetAddress: 6415 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/c48dcjhu874nUJau5
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.629302775966046
+    longitude: -118.47396271452754
+    url: geo:35.629302775966046,-118.47396271452754
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Vons
+  identifier: 46695600-f6b9-48ab-b757-bd56dccb1823
+  "@context": https://schema.org
+  "@type": Store
+  telephone: 760-379-4461
+  address:
+    "@type": PostalAddress
+    streetAddress: 5610 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/SnqN1n2YBWbsGrmn8
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.61800490803688
+    longitude: -118.47623167241844
+    url: geo:35.61800490803688,-118.47623167241844
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Rite Aid
+  identifier: 4e59c102-b961-42cc-925b-a5d58a2163c1
+  "@context": https://schema.org
+  "@type": Pharmacy
+  additionalType:
+    - Store
+  telephone: 760-379-5621
+  address:
+    "@type": PostalAddress
+    streetAddress: 5530 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/wjGBKnezGFDfyo6s8
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.61729081880344
+    longitude: -118.4765803595731
+    url: geo:35.61729081880344,-118.4765803595731
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png

@@ -255,3 +255,28 @@
     "@type": GeoCoordinates
     latitude: 35.615742
     longitude: -118.478423
+- name: Lodge at Painted Rock
+  identifier: 7bafaeb7-757f-4cef-bd13-a2cc9b87cca5
+  "@context": https://schema.org
+  "@type": Resort
+  url: https://www.lodgeatpaintedrock.com
+  telephone: 760-379-5500
+  priceRange: $$$$
+  address:
+    "@type": PostalAddress
+    streetAddress: 2908 Pearl Harbor Dr.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/nNosYHFYSEozLvsP8
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.614360
+    longitude: -118.493684
+    url: geo:35.614360,-118.493684
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png

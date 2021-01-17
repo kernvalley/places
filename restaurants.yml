@@ -34,6 +34,8 @@
   identifier: 102477d0-8539-4a8a-b9c7-3b9e5c2bdf51
   "@context": https://schema.org
   "@type": BarOrPub
+  additionalType:
+    - Brewery
   telephone: 760-376-2337
   url: https://kernriverbrewing.com
   image:
@@ -100,6 +102,10 @@
   identifier: d70abd8e-d632-4059-be2f-b1ba79b0edee
   "@context": https://schema.org
   "@type": Restaurant
+  additionalProperty:
+    - "@type": PropertyValue
+      name: icon
+      value: taco
   telephone: 760-376-3246
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
@@ -123,6 +129,10 @@
   "@type": Restaurant
   telephone: 760-376-1856
   url: https://pizzabarn.speeddine.com
+  additionalProperty:
+    - "@type": PropertyValue
+      name: icon
+      value: pizza
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
@@ -193,6 +203,9 @@
       height: 192
       width: 192
       encodingFormat: image/png
+    - url: https://www.paradisecovelodge.com/img/favicon.svg
+      "@type": ImageObject
+      encodingFormat: image/svg+xml
   image:
     - "@type": ImageObject
       url: https://www.paradisecovelodge.com/img/raster/background/restaurant-350.jpg
@@ -240,6 +253,10 @@
     "@type": GeoCoordinates
     latitude: 35.618883
     longitude: -118.476711
+  additionalProperty:
+    - "@type": PropertyValue
+      name: icon
+      value: pizza
 - name: Nelda's Diner
   identifier: e148b601-c307-4a40-a49a-e345db7a2d94
   "@context": https://schema.org
@@ -374,3 +391,51 @@
     "@type": GeoCoordinates
     latitude: 35.63891819845378
     longitude: -118.40509664417492
+- name: Don Sombrero
+  identifier: f9e20692-8c4f-4d70-89d5-da481462fac4
+  "@context": https://schema.org
+  "@type": Restaurant
+  telephone: 760-379-4041
+  servesCuisine:
+    - Mexican
+  address:
+    "@type": PostalAddress
+    streetAddress: 4107 Lake Isabella Blvd.
+    addressLocality: Bodfish
+    addressRegion: CA
+    postalCode: 93205
+    url: https://goo.gl/maps/9MJXkXJqZvjzEPJP8
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.600202265072625
+    longitude: -118.48851617256717
+    url: geo:35.600202265072625,-118.48851617256717
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Dam Korner
+  identifier: 42620196-83ca-4fa7-b35b-4be70c2ce00f
+  "@context": https://schema.org
+  "@type": Restaurant
+  telephone: 760-379-8770
+  address:
+    "@type": PostalAddress
+    streetAddress: 6303 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/64bmSRKEqLrThRjM8
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.62734481903675
+    longitude: -118.47445465512816
+    url: geo:35.62734481903675,-118.47445465512816
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png

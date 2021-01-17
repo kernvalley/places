@@ -7,6 +7,16 @@
   telephone: 760-376-2705
   priceRange: $$$
   description: "We are the biggest privately owned campground along the Kern River. With full Hook Up RV, partial RV, and dry tent camping sites."
+  amenityFeature:
+    - "@type": LocationFeatureSpecification
+      name: electric
+      value: true
+    - "@type": LocationFeatureSpecification
+      name: wi-fi
+      value: true
+    - "@type": LocationFeatureSpecification
+      name: water
+      value: true
   image:
     - "@type": ImageObject
       url: "https://i.imgur.com/FV8oHW0m.jpg"
@@ -30,6 +40,13 @@
   priceRange: $$$
   url: https://www.campkernville.com
   telephone: 760-376-1000
+  amenityFeature:
+    - "@type": LocationFeatureSpecification
+      name: electric
+      value: true
+    - "@type": LocationFeatureSpecification
+      name: water
+      value: true
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
@@ -87,10 +104,17 @@
       width: 640
       height: 480
       encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/FbkByogUjWobm3Qr7
   geo:
     "@type": GeoCoordinates
-    latitude: 35.642401
-    longitude: -118.469838
+    latitude: 35.64307803621741
+    longitude: -118.46512220508882
+    url: geo:35.64307803621741,-118.46512220508882
 - name: Paradise Cove Campground
   identifier: 0eeea7f7-c240-42cd-b235-9b3a456e1f22
   "@context": https://schema.org
@@ -105,3 +129,359 @@
     "@type": GeoCoordinates
     latitude: 35.649494
     longitude: -118.427562
+- name: Gold Ledge Campground
+  identifier: 57eb6f8a-5c42-47e0-b622-b21c4d8debc9
+  "@context": https://schema.org
+  "@type": Campground
+  address:
+    "@type": PostalAddress
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+    url: https://goo.gl/maps/wfHQAA8comWh7K9f7
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.87386877819765
+    longitude: -118.4567025776001
+    url: geo:35.87386877819765,-118.4567025776001
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Thunderbird Group Campground
+  identifier: 49917be4-ad1f-4855-84a2-8318b5b3b7e9
+  "@context": https://schema.org
+  "@type": Campground
+  address:
+    "@type": PostalAddress
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+    url: https://goo.gl/maps/h6UbeMjz7oRctNR38
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.81529526362787
+    longitude: -118.4572336572925
+    url: geo:35.81529526362787,-118.4572336572925
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Camp Three Campground
+  identifier: dac8620c-45c6-408d-a8e2-ce2c46081956
+  "@context": https://schema.org
+  "@type": Campground
+  address:
+    "@type": PostalAddress
+    streetAddress: 100 Mountain Hwy 99
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+    url: https://goo.gl/maps/d6wopjLxird6Jdgt8
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.8092053097819
+    longitude: -118.45377645322839
+    url: 35.8092053097819,-118.45377645322839
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Halfway Campground
+  identifier: c4d98864-eedc-42d6-a716-a18d80413616
+  "@context": https://schema.org
+  "@type": Campground
+  address:
+    "@type": PostalAddress
+    streetAddress: 100 Mountain Hwy 99
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+    url: https://goo.gl/maps/op3RnMWHhKFmXJMg6
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.803010125507264
+    longitude: -118.45185599176611
+    url: 35.803010125507264,-118.45185599176611
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Headquarters Campground
+  identifier: 8d5e1859-d256-43a5-a4dd-38c7165056ca
+  "@context": https://schema.org
+  "@type": Campground
+  address:
+    "@type": PostalAddress
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+    url: https://goo.gl/maps/9RwQJLwV6KgP6rZo7
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.79630103148397, -118.45009646298351
+    longitude: -118.45009646298351
+    url: geo:35.79630103148397,-118.45009646298351
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Camp James
+  identifier: 3edfaf8a-d6f1-4183-9d6f-fec55e0c1e1d
+  "@context": https://schema.org
+  "@type": Campground
+  telephone: 760-376-6119
+  url: https://krsrvresort.com
+  address:
+    "@type": PostalAddress
+    streetAddress: 13801 Sierra Way
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+    url: https://goo.gl/maps/ywvPrbR7xEzNazdc7
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.7618242365892
+    longitude: -118.42206737887734
+    url: geo:35.7618242365892,-118.42206737887734
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Frandy Park Campground
+  identifier: f002cc27-7a41-4f4c-abb1-feeae4c45132
+  "@context": https://schema.org
+  "@type": Campground
+  url: https://www.frandy.net
+  telephone: 888-372-6399
+  amenityFeature:
+    - "@type": LocationFeatureSpecification
+      name: electric
+      value: true
+    - "@type": LocationFeatureSpecification
+      name: wi-fi
+      value: true
+    - "@type": LocationFeatureSpecification
+      name: water
+      value: true
+  address:
+    "@type": PostalAddress
+    streetAddress: 11252 Kernville Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+    url: https://goo.gl/maps/sFQeME6Fd2ud36sh6
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.7541800458006
+    longitude: -118.42168650778954
+    url: geo:35.7541800458006,-118.42168650778954
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Cedar Creek Campground
+  identifier: 4ea6bc28-efd9-45a0-b04b-5d0665d83195
+  "@context": https://schema.org
+  "@type": Campground
+  telephone: 714-913-5430
+  address:
+    "@type": PostalAddress
+    streetAddress: 1023 Evans Rd.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: 93285
+    url: https://goo.gl/maps/z4HMpS3KAUr4DgxX7
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.71183203419927
+    longitude: -118.47237221682833
+    url: geo:35.71183203419927,-118.47237221682833
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Live Oak Campground
+  identifier: 59462702-a67c-47e1-b1d4-07131f08dabc
+  "@context": https://schema.org
+  "@type": Campground
+  address:
+    "@type": PostalAddress
+    streetAddress: 105 Roby Ln.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: 93285
+    url: https://goo.gl/maps/WG9p3zbS7xmbSmcNA
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.702732438594474
+    longitude: -118.46205911982199
+    url: 35.702732438594474,-118.46205911982199
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Tillie Creek Campground
+  identifier: cd940c43-2bf8-4b84-a03b-74d7deb67603
+  "@context": https://schema.org
+  "@type": Campground
+  telephone: 877-444-6777
+  address:
+    "@type": PostalAddress
+    streetAddress: Wofford Blvd.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: 93285
+    url: https://goo.gl/maps/vb6xiDBnTs34payT6
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.701582391870836
+    longitude: -118.45564327611206
+    url: geo:35.701582391870836,-118.45564327611206
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Hungry Gulch Campground
+  identifier: c887b900-b140-4e02-a590-5f41308afb92
+  "@context": https://schema.org
+  "@type": Campground
+  address:
+    "@type": PostalAddress
+    streetAddress: CA-155
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/tMokPwzZbP5NN6Mj6
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.67246848914904
+    longitude: -118.47252510005859
+    url: geo:35.67246848914904,-118.47252510005859
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Boulder Gulch Campground
+  identifier: d49c9847-f838-4a1b-bc02-82ff019502be
+  "@context": https://schema.org
+  "@type": Campground
+  address:
+    "@type": PostalAddress
+    streetAddress: CA-155
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/sAL5ejLYAMSM7xXQ9
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.672498994156996
+    longitude: -118.46913478820348
+    url: geo:35.672498994156996,-118.46913478820348
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: KOA
+  identifier: 5cefa37a-d2bc-4709-bab5-9fe5ee02edf2
+  "@context": https://schema.org
+  "@type": Campground
+  url: http://koa.com/campgrounds/lake-isabella/
+  telephone: 760-378-2001
+  address:
+    "@type": PostalAddress
+    streetAddress: 15627 CA-178
+    addressLocality: Weldon
+    addressRegion: CA
+    postalCode: 93283
+    url: https://goo.gl/maps/K1b5b5xp1gAAYgqh8
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.65506130196915
+    longitude: -118.34280811387723
+    url: geo:35.65506130196915,-118.34280811387723
+  amenityFeature:
+    - "@type": LocationFeatureSpecification
+      name: electric
+      value: true
+    - "@type": LocationFeatureSpecification
+      name: wi-fi
+      value: true
+    - "@type": LocationFeatureSpecification
+      name: water
+      value: true
+    - "@type": LocationFeatureSpecification
+      name: pool
+      value: true
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Hobo Campground
+  identifier: c9d0bd45-5be2-40e3-923a-57730206261f
+  "@context": https://schema.org
+  "@type": Campground
+  address:
+    "@type": PostalAddress
+    addressLocality: Caliente
+    addressRegion: CA
+    postalCode: 93518
+    url: https://goo.gl/maps/h1piUg8BafeR7sddA
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.57457025111126
+    longitude: -118.5302838085442
+    url: geo:35.57457025111126,-118.5302838085442
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Sandy Flat Campground
+  identifier: 26f9532c-35f7-4edf-94fd-e8058ef839cd
+  "@context": https://schema.org
+  "@type": Campground
+  address:
+    "@type": PostalAddress
+    addressLocality: Caliente
+    addressRegion: CA
+    postalCode: 93518
+    url: https://goo.gl/maps/Xbg2KgYFPSLkLiqP9
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.58181283220334
+    longitude: -118.52567040891388
+    url: geo:35.58181283220334,-118.52567040891388
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
