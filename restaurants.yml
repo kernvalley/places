@@ -439,3 +439,203 @@
       width: 640
       height: 480
       encodingFormat: image/png
+- name: Airport Cafe
+  identifier: 744c03f0-906b-46b9-864b-feb095b5a65c
+  "@context": https://schema.org
+  "@type": Restaurant
+  # url: http://www.kernvalleyairport.com/cafe.html
+  telephone: 760-376-2852
+  address:
+    "@type": PostalAddress
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+    url: https://goo.gl/maps/WiUJmE3o3NQeMAAb9
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.7213028511548
+    longitude: -118.41720419394221
+    url: geo:35.7213028511548,-118.41720419394221
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Sierra Vista Restaurant
+  identifier: 0a9f9bbf-43e3-4cd8-a2bb-fb3af7a0063e
+  "@context": https://schema.org
+  "@type": Restaurant
+  servesCuisine:
+    - Steak
+    - Seafood
+  address:
+    "@type": PostalAddress
+    streetAddress: 16575 CA-178
+    addressLocality: Weldon
+    addressRegion: CA
+    postalCode: 93283
+    url: https://goo.gl/maps/VJAVhMWrVAFUWNtt8
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.65551232922759
+    longitude: -118.33989220902816
+    url: geo:35.65551232922759,-118.33989220902816
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Greenhorn Bar and Grill
+  identifier: 8f049ea2-7dd7-41f4-b213-61fc9ebbaf96
+  "@context": https://schema.org
+  "@type": Restaurant
+  telephone: 760-376-8900
+  address:
+    "@type": PostalAddress
+    streetAddress: 10720 Pine Dr.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: 93285
+    url: https://goo.gl/maps/dMSGW7LGzXmLUUeS6
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.729363902272084
+    longitude: -118.55136827540942
+    url: geo:35.729363902272084,-118.55136827540942
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Sunday
+      opens: "08:00"
+      closes: "19:00"
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Friday
+      opens: "11:00"
+      closes: "21:00"
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Saturday
+      opens: "08:00"
+      closes: "21:00"
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Taco Bell
+  identifier: 2e8037e4-5f7e-4c88-8392-840ddae9ed8b
+  "@context": https://schema.org
+  "@type": FastFoodRestaurant
+  telephone: 760-379-0140
+  address:
+    "@type": PostalAddress
+    streetAddress: 6300 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/AJ6niUMfu8TGiJA87
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.626905947846026
+    longitude: -118.4735102147271
+    url: geo:35.626905947846026,-118.4735102147271
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Burger King
+  identifier: 58386edb-83e5-40dc-a4cc-a5800f83c31d
+  "@context": https://schema.org
+  "@type": FastFoodRestaurant
+  telephone: 760-379-5105
+  address:
+    "@type": PostalAddress
+    streetAddress: 5600 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/LmPM1z4eqcEVGKhv5
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.61788879004232
+    longitude: -118.47736052568374
+    url: geo:35.61788879004232,-118.47736052568374
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Subway
+  identifier: 34d6a0a1-1d0f-4f71-bac8-17e883501d11
+  "@context": https://schema.org
+  "@type": FastFoodRestaurant
+  telephone: 760-379-4681
+  address:
+    "@type": PostalAddress
+    streetAddress: 6321 Lake Isabella Blvd. A
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/7yX4sg1u5ZnS7ktw6
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.627788438326036
+    longitude: -118.47444447672416
+    url: geo:35.627788438326036,-118.47444447672416
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Little Caesars Pizza
+  identifier: bc9f8d22-9e5a-4a8e-984c-49bdfd08e661
+  "@context": https://schema.org
+  "@type": FastFoodRestaurant
+  telephone: 760-379-2345
+  address:
+    "@type": PostalAddress
+    streetAddress: 6321 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/xny5twCb775hFWuc9
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.627939958511924
+    longitude: -118.47441094911483
+    url: geo:35.627939958511924,-118.47441094911483
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Chester's Chicken
+  identifier: bc9a4680-2fc9-4069-a8b5-9cef78cb1fb7
+  "@context": https://schema.org
+  "@type": FoodEstablishment
+  description: Inside of Crossroads Shell
+  telephone: 760-379-8170
+  address:
+    "@type": PostalAddress
+    streetAddress: 6209 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/voXEHzWoB3zd1szc6
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.62633383784752
+    longitude: -118.47469031810762
+    url: geo:35.62633383784752,-118.47469031810762
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
