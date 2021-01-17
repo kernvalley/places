@@ -134,6 +134,30 @@
       width: 640
       height: 480
       encodingFormat: image/png
+- name: The Drug Store
+  identifier: bca77916-267f-4b71-b6e3-54338f37db20
+  "@context": https://schema.org
+  "@type": Pharmacy
+  additionalType:
+    - Store
+  url: https://www.thedrugstorerx.com
+  telephone: 760-376-2216
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 111 Piute Dr.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.75553509
+    longitude: -118.42522158
 - name: Grocery Outlet
   identifier: d8bec1cd-6f13-4342-adf7-952313c884e2
   "@context": https://schema.org
