@@ -1,0 +1,48 @@
+---
+
+- name: Reel Cinema
+  identifier: a6ec4974-211d-4b6e-b402-4bbc5a688770
+  "@context": https://schema.org
+  "@type": MovieTheater
+  telephone: 760-376-3030
+  url: https://ourreelcinema.com
+  email: Info@ourreelcinema.com
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 6742 Wofford Blvd.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: 93285
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.708011
+    longitude: -118.453436
+
+- name: Mt. Mesa Lanes
+  identifier: e40f410d-d29b-42f2-a88b-8b2dc283a729
+  "@context": https://schema.org
+  "@type": BowlingAlley
+  url: https://mt-mesa-lanes.business.site
+  telephone: 760-379-3131
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 4612 McCray Rd.
+    addressLocality: Mountain Mesa
+    addressRegion: CA
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.638610
+    longitude: -118.405405

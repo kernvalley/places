@@ -1,0 +1,44 @@
+---
+- name: Keyesville
+  alternateName: Keysville
+  identifier: b7859c12-8803-40bd-b5d4-7cca409b6295
+  "@context": https://schema.org
+  "@type": TouristAttraction
+  telephone: 661-391-6000
+  address:
+    "@type": PostalAddress
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/SWnPbDJSL6m7orJ5A
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.625570
+    longitude: -118.509239
+    url: geo:35.625570,-118.509239
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+- name: Walker Cabin
+  identifier: 6b87270d-51f5-4a0f-9e0b-476d92226df7
+  "@context": https://schema.org
+  "@type": LandmarksOrHistoricalBuildings
+  telephone: 661-391-6000
+  address:
+    "@type": PostalAddress
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/SWnPbDJSL6m7orJ5A
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.626513
+    longitude: -118.511148
+    url: geo:35.626513,-118.511148
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480

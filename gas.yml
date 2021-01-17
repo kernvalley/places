@@ -3,6 +3,8 @@
   identifier: 2bc25a06-313a-49d8-8d5f-ed08de333c05
   "@context": https://schema.org
   "@type": GasStation
+  additionalType:
+    - ConvenienceStore
   url: https://riversideonestop.com/
   telephone: 760-376-1688
   image:
@@ -25,6 +27,8 @@
   identifier: 4081d7b9-c5dc-4642-a84f-9dce0339a052
   "@context": https://schema.org
   "@type": GasStation
+  additionalType:
+    - ConvenienceStore
   telephone: 760-379-2805
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
@@ -40,12 +44,15 @@
     postalCode: 93240
   geo:
     "@type": GeoCoordinates
-    latitude: 35.626377
-    longitude: -118.474780
+    latitude: 35.62642919816985
+    longitude: -118.47446181450887
+    url: geo:35.62642919816985,-118.47446181450887
 - name: Shell
   identifier: c112029c-2fea-4647-973d-5882d951a278
   "@context": https://schema.org
   "@type": GasStation
+  additionalType:
+    - ConvenienceStore
   telephone: 760-379-3747
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
@@ -67,6 +74,8 @@
   identifier: 5459eb82-ddf7-42d0-89bb-ca1a16af61b2
   "@context": https://schema.org
   "@type": GasStation
+  additionalType:
+    - ConvenienceStore
   telephone: 760-379-2805
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
@@ -88,6 +97,9 @@
   identifier: 1c1a184c-c009-48d3-a259-75453b995639
   "@context": https://schema.org
   "@type": GasStation
+  additionalType:
+    - ConvenienceStore
+    - LiquorStore
   telephone: 760-379-8498
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
@@ -109,6 +121,8 @@
   identifier: 5e498b63-fd80-4286-bfd4-b850bd8a08cf
   "@context": https://schema.org
   "@type": GasStation
+  additionalType:
+    - ConvenienceStore
   telephone: 760-376-2577
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
@@ -130,6 +144,10 @@
   identifier: 94109964-6ee3-4ace-804d-46ba0feeb748
   "@context": https://schema.org
   "@type": GasStation
+  additionalType:
+    - ConvenienceStore
+    - LiquorStore
+    - FoodEstablishment
   telephone: 760-376-2555
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
