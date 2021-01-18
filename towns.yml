@@ -48,6 +48,8 @@
   identifier: bodfish
   "@context": https://schema.org
   "@type": City
+  latitude: 35.596626
+  longitude: -118.491558
   geo:
     "@type": GeoCoordinates
     latitude: 35.596626
@@ -68,6 +70,8 @@
   identifier: south-lake
   "@context": https://schema.org
   "@type": City
+  latitude: 35.641459
+  longitude: -118.370365
   geo:
     "@type": GeoCoordinates
     latitude: 35.641459

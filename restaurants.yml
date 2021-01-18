@@ -191,7 +191,7 @@
     '@type': GeoCoordinates
     longitude: -118.425951
     latitude: 35.755295
-- name: Paradise Cove Lodge
+- name: Paradise Cove Lodge (Steak House)
   identifier: f779f9cd-ce71-43d7-974e-6d30dd2e7af2
   "@context": https://schema.org
   "@type": Restaurant
