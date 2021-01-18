@@ -115,8 +115,9 @@
     postalCode: 93240
   geo:
     "@type": GeoCoordinates
-    latitude: 35.610035
-    longitude: -118.488568
+    latitude: 35.603832
+    longitude: -118.485631
+    url: geo:35.603832,-118.485631
 - name: Lake Isabella Sheriff's Office
   identifier: 45e8d9e8-6248-4e27-bf32-f659c6a0c298
   "@context": https://schema.org
