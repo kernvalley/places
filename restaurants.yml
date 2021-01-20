@@ -36,6 +36,10 @@
   "@type": BarOrPub
   additionalType:
     - Brewery
+  additionalProperty:
+    - "@type": PropertyValue
+      name: icon
+      value: hamburger
   telephone: 760-376-2337
   url: https://kernriverbrewing.com
   image:
@@ -102,6 +106,9 @@
   identifier: d70abd8e-d632-4059-be2f-b1ba79b0edee
   "@context": https://schema.org
   "@type": Restaurant
+  servesCuisine:
+    - american
+    - mexican
   additionalProperty:
     - "@type": PropertyValue
       name: icon
@@ -133,6 +140,8 @@
     - "@type": PropertyValue
       name: icon
       value: pizza
+  servesCuisine:
+    - pizza
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
@@ -154,6 +163,8 @@
   "@context": https://schema.org
   "@type": Restaurant
   telephone: 760-376-6020
+  servesCuisine:
+    - italian
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
@@ -196,6 +207,11 @@
   "@context": https://schema.org
   "@type": Restaurant
   telephone: 1-760-379-2719
+  priceRange: $$$
+  servesCuisine:
+    - American
+    - Seafood
+    - Steak
   url: https://www.paradisecovelodge.com
   logo:
     - url: https://www.paradsecovelodge.com/img/icon-192.png
@@ -212,11 +228,6 @@
       width: 350
       height: 263
       encodingFormat: image/jpeg
-  priceRange: $$$
-  servesCuisine:
-    - American
-    - Seafood
-    - Steak
   address:
     "@type": PostalAddress
     streetAddress: 10700 Highway 178
@@ -237,6 +248,8 @@
   "@type": Restaurant
   telephone: 760-379-5605
   url: https://lake-isabella.pizzafactory.com
+  servesCuisine:
+    - pizza
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
@@ -284,6 +297,10 @@
   "@type": BarOrPub
   url: https://www.toasttab.com/178-bar-grill-6107-lake-isabella-blvd/v3
   telephone: 760-379-0178
+  additionalProperty:
+    - "@type": PropertyValue
+      name: icon
+      value: hamburger
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
@@ -307,6 +324,10 @@
   telephone: 760-379-3663
   servesCuisine:
     - Mexican
+  additionalProperty:
+    - "@type": PropertyValue
+      name: icon
+      value: taco
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
@@ -330,6 +351,10 @@
   telephone: 760-379-2779
   servesCuisine:
     - Mexican
+  additionalProperty:
+    - "@type": PropertyValue
+      name: icon
+      value: taco
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
@@ -398,6 +423,10 @@
   telephone: 760-379-4041
   servesCuisine:
     - Mexican
+  additionalProperty:
+    - "@type": PropertyValue
+      name: icon
+      value: taco
   address:
     "@type": PostalAddress
     streetAddress: 4107 Lake Isabella Blvd.
@@ -445,6 +474,10 @@
   "@type": Restaurant
   # url: http://www.kernvalleyairport.com/cafe.html
   telephone: 760-376-2852
+  additionalProperty:
+    - "@type": PropertyValue
+      name: icon
+      value: hamburger
   address:
     "@type": PostalAddress
     addressLocality: Kernville
