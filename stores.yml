@@ -229,3 +229,103 @@
       width: 640
       height: 480
       encodingFormat: image/png
+- name: Archie's Hardware
+  identifier: 45927673-0208-46d2-b81b-747e7725df2d
+  "@context": https://schema.org
+  "@type": HardwareStore
+  #url: http://archieshardware.com/
+  telephone: 760-376-2426
+  address:
+    "@type": PostalAddress
+    streetAddress: 11317 Kernville Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+    url: https://goo.gl/maps/tqFDEWXdXBCB1Poy8
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.755666
+    longitude: -118.420584
+    url: geo:35.755666,-118.420584
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Builders Mart True Value Hardware
+  identifier: 887ad342-b564-4569-bda8-f7d17d294a50
+  "@context": https://schema.org
+  "@type": HardwareStore
+  url: https://stores.truevalue.com/ca/lake-isabella/8500/
+  telephone: 760-379-5697
+  address:
+    "@type": PostalAddress
+    streetAddress: 12301 CA-178
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/WEYxmktc21twKECz5
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.641292
+    longitude: -118.406377
+    url: geo:35.641292,-118.406377
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Lake Isabella True Value
+  identifier: c9a47e15-1f6d-49bd-8439-4e20f8a6e7b6
+  "@context": https://schema.org
+  "@type": HardwareStore
+  additionalType:
+    - GardenStore
+  url: https://stores.truevalue.com/ca/lake-isabella/3888/
+  telephone: 760-379-5697
+  address:
+    "@type": PostalAddress
+    streetAddress: 6050 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/eQJmzCwSYveQAwvw6
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.623673
+    longitude: -118.474155
+    url: geo:35.623673,-118.474155
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: L & M Lumber
+  identifier: 2e870729-9749-4912-8937-7dd66dd9a7fa
+  "@context": https://schema.org
+  "@type": HardwareStore
+  alternateName: Ace Hardware
+  # url: https://www.lmlumber.com/
+  telephone: 760-379-4631
+  address:
+    "@type": PostalAddress
+    streetAddress: 4700 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/3DxssYkgF6q2F5QC9
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.605735
+    longitude: -118.485001
+    url: geo:35.605735,-118.485001
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+
