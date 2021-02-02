@@ -48,6 +48,10 @@
   "@type": Motel
   telephone: 1-760-379-2719
   url: https://www.paradisecovelodge.com
+  sameAs:
+    - https://www.facebook.com/Paradise-Cove-Lodge-113120752085154/
+    - https://www.yelp.com/biz/paradise-cove-lodge-lake-isabella
+    - https://www.tripadvisor.com/Hotel_Review-g32598-d668722-Reviews-Paradise_Cove_Lodge-Lake_Isabella_California.html
   logo:
     - "@type": ImageObject
       url: https://www.paradisecovelodge.com/img/raster/logo.png

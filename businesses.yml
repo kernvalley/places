@@ -5,6 +5,10 @@
   "@type": LocalBusiness
   url: https://www.gotokernville.com/
   telephone: 760-376-2629
+  sameAs:
+    - https://www.facebook.com/KernvilleChamber/
+    - https://instagram.com/explorekernville
+    - https://www.youtube.com/channel/UCnFWyv5t6x4nnMzqlaPOlfQ
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
@@ -72,7 +76,10 @@
   "@type": LocalBusiness
   telephone: 866-578-4386
   email: office@kernrivervalley.com
-  # url: Website does not use HTTPS
+  url: https://www.kernrivervalley.com
+  sameAs:
+    - https://www.facebook.com/Kern-River-Valley-Chamber-of-Commerce-130937500306948/
+    - https://twitter.com/KRVCC
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
