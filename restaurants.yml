@@ -213,6 +213,10 @@
     - Seafood
     - Steak
   url: https://www.paradisecovelodge.com
+  sameAs:
+    - https://www.facebook.com/Paradise-Cove-Lodge-113120752085154/
+    - https://www.yelp.com/biz/paradise-cove-lodge-lake-isabella
+    - https://www.tripadvisor.com/Hotel_Review-g32598-d668722-Reviews-Paradise_Cove_Lodge-Lake_Isabella_California.html
   logo:
     - url: https://www.paradsecovelodge.com/img/icon-192.png
       "@type": ImageObject
