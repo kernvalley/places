@@ -207,7 +207,7 @@
     longitude: -118.425078
 - "@type": VeterinaryCare
   "@context": https://schema.org
-  'identifier:': 3c34a825-9f16-4979-ba82-7a8cc942dd31
+  identifier: 3c34a825-9f16-4979-ba82-7a8cc942dd31
   name: Kernville Animal Hospital
   telephone: 760-376-1192
   address:
@@ -241,6 +241,49 @@
   - "@type": OpeningHoursSpecification
     opens: '08:00'
     closes: '17:00'
+    dayOfWeek: Friday
+  image:
+  - "@type": ImageObject
+    url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    width: 640
+    height: 480
+    encodingFormat: image/png
+- "@type": VeterinaryCare
+  "@context": https://schema.org
+  identifier: e910d5f1-1d52-43f9-910e-ed5e092ceb63
+  name: Kern Veterinary Hospital
+  telephone: "+1-760-379-5633"
+  address:
+    "@type": PostalAddress
+    streetAddress: '5104 Lake Isabella Blvd # A'
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.61064904
+    longitude: -118.48200770
+    elevation:
+  openingHoursSpecification:
+  - "@type": OpeningHoursSpecification
+    opens: '09:00'
+    closes: '16:30'
+    dayOfWeek: Monday
+  - "@type": OpeningHoursSpecification
+    opens: '09:00'
+    closes: '16:30'
+    dayOfWeek: Tuesday
+  - "@type": OpeningHoursSpecification
+    opens: '09:00'
+    closes: '16:30'
+    dayOfWeek: Wednesday
+  - "@type": OpeningHoursSpecification
+    opens: '09:00'
+    closes: '16:30'
+    dayOfWeek: Thursday
+  - "@type": OpeningHoursSpecification
+    opens: '09:00'
+    closes: '16:30'
     dayOfWeek: Friday
   image:
   - "@type": ImageObject
