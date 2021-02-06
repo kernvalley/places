@@ -6,6 +6,10 @@
   telephone: 760-376-3030
   url: https://ourreelcinema.com
   email: Info@ourreelcinema.com
+  sameAs:
+    - https://www.facebook.com/TheReelCinema/
+    - https://instagram.com/thereelcinema1/
+    - https://www.yelp.com/biz/reel-cinema-wofford-heights?osq=the+reel+cinema
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject

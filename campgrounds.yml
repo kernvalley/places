@@ -5,7 +5,13 @@
   "@type": Campground
   url: https://www.rivernookcampground.com
   telephone: 760-376-2705
+  email: info@rivernookcampground.com
   priceRange: $$$
+  sameAs:
+    - https://www.facebook.com/myrivernook/
+    - https://twitter.com/Rivernookcamp
+    - https://instagram.com/rivernookcampgroundinc/
+    - https://www.tripadvisor.com/Hotel_Review-g32556-d1628435-Reviews-Rivernook_Campground-Kernville_California.html
   description: "We are the biggest privately owned campground along the Kern River. With full Hook Up RV, partial RV, and dry tent camping sites."
   amenityFeature:
     - "@type": LocationFeatureSpecification

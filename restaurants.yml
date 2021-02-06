@@ -30,6 +30,27 @@
     '@type': GeoCoordinates
     latitude: 35.75787
     longitude: -118.419496
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '12:00'
+      closes: '19:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '12:00'
+      closes: '19:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '12:00'
+      closes: '19:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '12:00'
+      closes: '19:00'
+      dayOfWeek: Saturday
+    - "@type": OpeningHoursSpecification
+      opens: '12:00'
+      closes: '19:00'
+      dayOfWeek: Sunday
 - name: Kern River Brewing Company
   identifier: 102477d0-8539-4a8a-b9c7-3b9e5c2bdf51
   "@context": https://schema.org
@@ -42,6 +63,13 @@
       value: hamburger
   telephone: 760-376-2337
   url: https://kernriverbrewing.com
+  email: info@kernriverbrewing.com
+  sameAs:
+    - https://www.facebook.com/KernRiverBrewingCompany/
+    - https://twitter.com/kernriverbrewin
+    - https://instagram.com/kernriverbrewing/
+    - https://www.yelp.com/biz/ylsm8GHDjgBYtYVpsydzzQ
+    - https://www.tripadvisor.com/618761
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
@@ -58,6 +86,35 @@
     '@type': GeoCoordinates
     longitude: -118.419232
     latitude: 35.757488
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '21:30'
+      dayOfWeek: Sunday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '21:30'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '21:30'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '21:30'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '21:30'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '21:30'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '21:30'
+      dayOfWeek: Saturday
 - name: Ewings on the Kern
   identifier: 49578c9b-ca54-458c-844b-375b2287d1ee
   "@context": https://schema.org
