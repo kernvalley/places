@@ -328,4 +328,175 @@
       width: 640
       height: 480
       encodingFormat: image/png
-
+- "@type": Store
+  "@context": https://schema.org
+  identifier: 8a471725-c615-44ab-9144-34ff9548454b
+  name: Dollar General
+  telephone: 760-417-5120
+  url: https://www.dollargeneral.com/
+  sameAs:
+    - https://www.facebook.com/dollargeneral/
+    - https://twitter.com/DollarGeneral
+    - https://www.instagram.com/dollargeneral/?hl=en
+    - https://www.youtube.com/user/DOLLARGENERAL
+    - https://www.linkedin.com/company/dollar-general/
+  address:
+    "@type": PostalAddress
+    streetAddress: 2326 Webb Ave
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.60942679
+    longitude: -118.4803704
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Sunday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Saturday
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- "@type": Store
+  "@context": https://schema.org
+  identifier: d5937c00-bd32-4f8a-8b47-f1764abe741f
+  name: Dollar General
+  telephone: 760-350-4145
+  url: https://www.dollargeneral.com/
+  sameAs:
+    - https://www.facebook.com/dollargeneral/
+    - https://twitter.com/DollarGeneral
+    - https://www.instagram.com/dollargeneral/?hl=en
+    - https://www.youtube.com/user/DOLLARGENERAL
+    - https://www.linkedin.com/company/dollar-general/
+  address:
+    "@type": PostalAddress
+    streetAddress: 5885 Wofford Blvd.
+    postOfficeBoxNumber:
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: '93285'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.69840007
+    longitude: -118.46320426
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Sunday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Saturday
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- "@type": Store
+  "@context": https://schema.org
+  identifier: d5696b73-0093-42af-8da0-2810621483a1
+  name: Dollar General
+  telephone: 760-417-5216
+  url: https://www.dollargeneral.com/
+  sameAs:
+    - https://www.facebook.com/dollargeneral/
+    - https://twitter.com/DollarGeneral
+    - https://www.instagram.com/dollargeneral/
+    - https://www.youtube.com/user/DOLLARGENERAL
+    - https://www.linkedin.com/company/dollar-general/
+  address:
+    "@type": PostalAddress
+    streetAddress: 12006 CA-178
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.6421996
+    longitude: -118.41166293
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Sunday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Saturday
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
