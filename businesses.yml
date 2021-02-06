@@ -344,7 +344,7 @@
 - "@type": TireShop
   "@context": https://schema.org
   identifier: 24d4cd9e-6062-4b1e-877c-0a8e42c38e6d
-  name: " Franks Tire Services"
+  name: "Franks Tire Services"
   telephone: 760-378-2524
   address:
     "@type": PostalAddress
@@ -386,7 +386,7 @@
 - "@type": TireShop
   "@context": https://schema.org
   identifier: f7f29ae6-1c34-4155-8d83-35874d0bacca
-  name: Stewart's Tires
+  name: "Stewart's Tires"
   telephone: 760-379-5133
   address:
     "@type": PostalAddress
@@ -423,49 +423,6 @@
       opens: '09:00'
       closes: '13:00'
       dayOfWeek: Saturday
-  image:
-    - "@type": ImageObject
-      url: https://cdn.kernvalley.us/img/raster/missing-image.png
-      width: 640
-      height: 480
-      encodingFormat: image/png
-
-- "@type": AutoRepair
-  "@context": https://schema.org
-  identifier: efbd500b-bb2b-4289-81c1-d25f31117898
-  name: Sierra Automotive
-  telephone: 760-376-6200
-  address:
-    "@type": PostalAddress
-    streetAddress: 639 Panorama Dr.
-    addressLocality: Wofford Heights
-    addressRegion: CA
-    postalCode: '93285'
-  geo:
-    "@type": GeoCoordinates
-    latitude: 35.70958998
-    longitude: -118.45109094
-  openingHoursSpecification:
-    - "@type": OpeningHoursSpecification
-      opens: '09:00'
-      closes: '17:00'
-      dayOfWeek: Monday
-    - "@type": OpeningHoursSpecification
-      opens: '09:00'
-      closes: '17:00'
-      dayOfWeek: Tuesday
-    - "@type": OpeningHoursSpecification
-      opens: '09:00'
-      closes: '17:00'
-      dayOfWeek: Wednesday
-    - "@type": OpeningHoursSpecification
-      opens: '09:00'
-      closes: '17:00'
-      dayOfWeek: Thursday
-  - "@type": OpeningHoursSpecification
-    opens: '09:00'
-    closes: '17:00'
-    dayOfWeek: Friday
   image:
     - "@type": ImageObject
       url: https://cdn.kernvalley.us/img/raster/missing-image.png
@@ -580,7 +537,7 @@
   name: O'Reilly Auto Parts
   telephone: 760-417-5050
   sameAs:
-    - https://www.facebook.com/232779790392/reviews/?ref=page_internal
+    - https://www.facebook.com/232779790392/reviews/
   address:
     "@type": PostalAddress
     streetAddress: 5500 Lake Isabella Blvd.
@@ -620,6 +577,48 @@
       opens: '07:30'
       closes: '20:00'
       dayOfWeek: Saturday
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- "@type": AutoRepair
+  "@context": https://schema.org
+  name: Sierra Automotive
+  identifier: efbd500b-bb2b-4289-81c1-d25f31117898
+  telephone: 760-376-6200
+  address:
+    "@type": PostalAddress
+    streetAddress: 639 Panorama Dr.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: '93285'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.70958998
+    longitude: -118.45109094
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Friday
   image:
     - "@type": ImageObject
       url: https://cdn.kernvalley.us/img/raster/missing-image.png
