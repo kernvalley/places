@@ -220,28 +220,27 @@
     "@type": GeoCoordinates
     latitude: 35.75583758
     longitude: -118.42511752
-    elevation:
   openingHoursSpecification:
-  - "@type": OpeningHoursSpecification
-    opens: '08:00'
-    closes: '17:00'
-    dayOfWeek: Monday
-  - "@type": OpeningHoursSpecification
-    opens: '08:00'
-    closes: '17:00'
-    dayOfWeek: Tuesday
-  - "@type": OpeningHoursSpecification
-    opens: '08:00'
-    closes: '17:00'
-    dayOfWeek: Wednesday
-  - "@type": OpeningHoursSpecification
-    opens: '08:00'
-    closes: '17:00'
-    dayOfWeek: Thursday
-  - "@type": OpeningHoursSpecification
-    opens: '08:00'
-    closes: '17:00'
-    dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '17:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '17:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '17:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '17:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '17:00'
+      dayOfWeek: Friday
   image:
   - "@type": ImageObject
     url: https://cdn.kernvalley.us/img/raster/missing-image.png
@@ -252,7 +251,7 @@
   "@context": https://schema.org
   identifier: e910d5f1-1d52-43f9-910e-ed5e092ceb63
   name: Kern Veterinary Hospital
-  telephone: "+1-760-379-5633"
+  telephone: 760-379-5633
   address:
     "@type": PostalAddress
     streetAddress: '5104 Lake Isabella Blvd # A'
@@ -263,31 +262,366 @@
     "@type": GeoCoordinates
     latitude: 35.61064904
     longitude: -118.48200770
-    elevation:
   openingHoursSpecification:
-  - "@type": OpeningHoursSpecification
-    opens: '09:00'
-    closes: '16:30'
-    dayOfWeek: Monday
-  - "@type": OpeningHoursSpecification
-    opens: '09:00'
-    closes: '16:30'
-    dayOfWeek: Tuesday
-  - "@type": OpeningHoursSpecification
-    opens: '09:00'
-    closes: '16:30'
-    dayOfWeek: Wednesday
-  - "@type": OpeningHoursSpecification
-    opens: '09:00'
-    closes: '16:30'
-    dayOfWeek: Thursday
-  - "@type": OpeningHoursSpecification
-    opens: '09:00'
-    closes: '16:30'
-    dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '16:30'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '16:30'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '16:30'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '16:30'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '16:30'
+      dayOfWeek: Friday
   image:
   - "@type": ImageObject
     url: https://cdn.kernvalley.us/img/raster/missing-image.png
     width: 640
     height: 480
     encodingFormat: image/png
+- "@type": AnimalShelter
+  "@context": https://schema.org
+  identifier: 27a5b6ff-79b8-464e-85b2-688830457ab2
+  name: Lake Isabella Animal Shelter
+  telephone: 760-378-1131
+  sameAs:
+    - https://www.facebook.com/KernCountyAnimalServices/
+    - https://twitter.com/KCAnimalService
+    - https://www.instagram.com/kern_county_animal_services/
+    - https://www.youtube.com/channel/UCfbgFLJhxcQXamX8YeG6RrQ
+  address:
+    "@type": PostalAddress
+    streetAddress: 14891 Highway 178
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.64434118
+    longitude: -118.36699592
+    url: geo:35.64434118,-118.36699592
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '16:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '16:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '16:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '16:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '16:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '16:00'
+      dayOfWeek: Saturday
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- "@type": TireShop
+  "@context": https://schema.org
+  identifier: 24d4cd9e-6062-4b1e-877c-0a8e42c38e6d
+  name: "Franks Tire Services"
+  telephone: 760-378-2524
+  address:
+    "@type": PostalAddress
+    streetAddress: 14498 CA-178
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.64079995
+    longitude: 35.6408
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '16:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Friday
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- "@type": TireShop
+  "@context": https://schema.org
+  identifier: f7f29ae6-1c34-4155-8d83-35874d0bacca
+  name: "Stewart's Tires"
+  telephone: 760-379-5133
+  address:
+    "@type": PostalAddress
+    streetAddress: 5304 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.613176
+    longitude: -118.480300
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '15:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '15:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '15:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '15:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '15:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '13:00'
+      dayOfWeek: Saturday
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- "@type": AutoPartsStore
+  "@context": https://schema.org
+  identifier: bbb21b33-7f7a-4f64-8cf8-3dce17500d0c
+  name: NAPA Auto Parts
+  telephone: 760-379-3693
+  sameAs:
+    - https://www.facebook.com/NAPAAUTOPARTS
+    - https://twitter.com/NAPAKNOWHOW
+    - https://www.youtube.com/user/Napaknowhow
+  address:
+    "@type": PostalAddress
+    streetAddress: 5113 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.61107873
+    longitude: -118.48255041
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '17:30'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '17:30'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '17:30'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '17:30'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '17:30'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '16:30'
+      dayOfWeek: Saturday
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- "@type": AutoPartsStore
+  "@context": https://schema.org
+  identifier: 5c900b07-79e8-432d-8fa1-1eb9472aa277
+  name: Carquest Auto Parts
+  telephone: 760-379-2130
+  sameAs:
+    - https://www.facebook.com/1540954316159675
+  address:
+    "@type": PostalAddress
+    streetAddress: 5131 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.61182449
+    longitude: -118.48207298
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '15:00'
+      dayOfWeek: Sunday
+    - "@type": OpeningHoursSpecification
+      opens: '07:30'
+      closes: '18:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '07:30'
+      closes: '18:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '07:30'
+      closes: '18:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '07:30'
+      closes: '18:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '07:30'
+      closes: '18:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '17:00'
+      dayOfWeek: Saturday
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- "@type": AutoPartsStore
+  "@context": https://schema.org
+  identifier: 2f388b91-1a1a-4676-bbc5-80a2f3281cf3
+  name: O'Reilly Auto Parts
+  telephone: 760-417-5050
+  sameAs:
+    - https://www.facebook.com/232779790392/reviews/
+  address:
+    "@type": PostalAddress
+    streetAddress: 5500 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.61766606
+    longitude: -118.47623381
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '08:00'
+      dayOfWeek: Sunday
+    - "@type": OpeningHoursSpecification
+      opens: '07:30'
+      closes: '20:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '07:30'
+      closes: '20:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '07:30'
+      closes: '20:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '07:30'
+      closes: '20:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '07:30'
+      closes: '20:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '07:30'
+      closes: '20:00'
+      dayOfWeek: Saturday
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- "@type": AutoRepair
+  "@context": https://schema.org
+  name: Sierra Automotive
+  identifier: efbd500b-bb2b-4289-81c1-d25f31117898
+  telephone: 760-376-6200
+  address:
+    "@type": PostalAddress
+    streetAddress: 639 Panorama Dr.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: '93285'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.70958998
+    longitude: -118.45109094
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Friday
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
