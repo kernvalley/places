@@ -471,3 +471,189 @@
       width: 640
       height: 480
       encodingFormat: image/png
+- "@type": RealEstateAgent
+  "@context": https://schema.org
+  identifier: 4f82bcd4-064b-4805-ad87-0af317bd6229
+  name: Click Realty
+  telephone: 760-376-2289
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 11017 Kernville Rd.
+    postOfficeBoxNumber: '237'
+    addressLocality: Kernville
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93238'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.75431346
+    longitude: -118.42585288
+    url: geo:35.75431346,-118.42585288
+- "@type": RealEstateAgent
+  "@context": https://schema.org
+  identifier: 9bbbe483-34b7-49ed-a061-7e2a16b636a6
+  name: EDL Properties
+  telephone: 760-376-2000
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: '11006 Kernville Rd #3'
+    addressLocality: Kernville
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93238'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.75405706
+    longitude: -118.42499744
+    url: geo:35.75405706,-118.42499744
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Sunday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Saturday
+- "@type": RealEstateAgent
+  "@context": https://schema.org
+  identifier: 49071f2c-235d-4d47-95e6-a330179fc3b2
+  name: Pat Turnham Realty inc
+  telephone: 760-376-4663
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 6925 Wofford Blvd.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93285'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.7086072
+    longitude: -118.45021807
+    url: geo:35.7086072,-118.45021807
+- "@type": RealEstateAgent
+  "@context": https://schema.org
+  identifier: 1aeb3cb0-27e3-4aca-a137-ae6bd542fa40
+  name: River and Lake Real Estate
+  telephone: 760-379-1617
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 6924 Wofford Blvd.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93285'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.70814548
+    longitude: -118.4500464
+    url: geo:35.70814548,-118.4500464
+- "@type": RealEstateAgent
+  "@context": https://schema.org
+  identifier: 194ad99c-2c66-4824-814f-f578715e67ea
+  name: Southern Sierra Properties
+  telephone: 760-376-4506
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 5720 Wofford Heights Blvd.
+    postOfficeBoxNumber: '72'
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93285'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.695931
+    longitude: -118.463332
+    url: geo:35.695931,-118.463332
+- "@type": RealEstateAgent
+  "@context": https://schema.org
+  identifier: 785c05e0-2e43-4949-8f7d-b6ad38cc282a
+  name: Century 21 Lake Isabella Realty, Inc.
+  telephone: 760-379-3684
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 6069 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.62397104
+    longitude: -118.47518406
+    url: geo:35.62397104,-118.47518406
+- "@type": RealEstateAgent
+  "@context": https://schema.org
+  identifier: 0e3d2c56-cd54-4a22-a33d-8871f413cfe4
+  name: "Monica O'Brien Realty"
+  telephone: 310-803-0766
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
