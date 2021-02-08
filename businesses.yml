@@ -657,3 +657,49 @@
     addressRegion: CA
     addressCountry: US
     postalCode: '93240'
+- "@type": RealEstateAgent
+  "@context": https://schema.org
+  identifier: 92c43126-d058-4c05-9129-22abcf51007d
+  name: "Rita D'angelo Real Estate"
+  telephone: 760-549-9579
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 11000 Kernville Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93238'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.7645748
+    longitude: -118.4323167
+    url: geo:35.76457480,-118.43231670
+- "@type": RealEstateAgent
+  "@context": https://schema.org
+  identifier: 38a8ad61-8b06-4098-9d9a-7c06af0abc6d
+  name: Freeman's Lakeside Realty
+  telephone: 760-379-5915
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 6117 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.62542
+    longitude: -118.474928
+    url: geo:35.625420,-118.474928
