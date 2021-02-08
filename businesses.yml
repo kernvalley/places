@@ -677,9 +677,9 @@
     postalCode: '93238'
   geo:
     "@type": GeoCoordinates
-    latitude: 35.7645748
-    longitude: -118.4323167
-    url: geo:35.76457480,-118.43231670
+    latitude: 35.753848
+    longitude: -118.4250498
+    url: geo:35.753848, -118.4250498
 - "@type": RealEstateAgent
   "@context": https://schema.org
   identifier: 38a8ad61-8b06-4098-9d9a-7c06af0abc6d
