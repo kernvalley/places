@@ -343,6 +343,10 @@
   "@type": Church
   telephone: 760-378-3780
   url: https://www.kcctheriver.com
+  email: kernchristiantheriver@gmail.com
+  sameAs:
+    - https://www.facebook.com/Kern-River-Valley-Christian-Church-163773560307738/
+    - https://www.youtube.com/channel/UC1xxvyvKo02OYocRkfwnNDA
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
@@ -681,3 +685,428 @@
       width: 640
       height: 480
       encodingFormat: image/png
+- "@type": Church
+  "@context": https://schema.org
+  identifier: 6d1405fe-b5f1-4016-9733-91b45bdddd69
+  name: Prince of Peace Lutheran Church
+  telephone: 760-379-1828
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 44 Big Blue Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93238'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.755394
+    longitude: -118.426033
+    url: geo:35.755394,-118.426033
+- "@type": Church
+  "@context": https://schema.org
+  identifier: e6090fec-506a-41e8-bcaf-f33633c437f3
+  name: Kern River United Methodist Church
+  telephone: 760-376-2751
+  email: info@kvumc.com
+  sameAs:
+    - http://www.facebook.com/kumc150years
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 251 Big Blue Rd.
+    postOfficeBoxNumber: '225'
+    addressLocality: Kernville
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93238'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.7574
+    longitude: -118.427873
+    url: geo:35.757400,-118.427873
+- "@type": Church
+  "@context": https://schema.org
+  identifier: 6a56fd1f-000a-45da-a644-959b88449162
+  name: Kernville Church
+  telephone: 760-376-6403
+  email: info@kernvillechurch.com
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 46 Valley View Dr.
+    postOfficeBoxNumber: '403'
+    addressLocality: Kernville
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93238'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.756116
+    longitude: -118.418834
+    url: geo:35.756116,-118.418834
+- "@type": Church
+  "@context": https://schema.org
+  identifier: 4ed4071e-cdf9-44a9-917f-ecdf2d669fbc
+  name: Calvary Chapel
+  telephone: 760-376-8789
+  email: kernrivervalley@calvarychapel.com
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 125 Sycamore Road
+    postOfficeBoxNumber: '1079'
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93285'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.7092
+    longitude: -118.454443
+    url: geo:35.709200,-118.454443
+- "@type": Church
+  "@context": https://schema.org
+  identifier: 2ef7c066-38b3-4c22-a82b-6e7271660165
+  name: St. Jude's Catholic Church
+  telephone: 760-376-2416
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 86 Nellie Dent Dr.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93285'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.710367
+    longitude: -118.443822
+    url: geo:35.710367,-118.443822
+- "@type": Church
+  "@context": https://schema.org
+  identifier: b22ac726-0db9-4872-9be5-27a5f887ca6a
+  name: New Life Assembly of God
+  telephone: 760-376-6402
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 25 Arden Ave.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93285'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.707763
+    longitude: -118.451664
+    url: geo:35.707763,-118.451664
+- "@type": Church
+  "@context": https://schema.org
+  identifier: 1339215e-655c-414c-99da-cc3d6ddb8b46
+  name: The Church of Jesus Christ of Latter-day Saints
+  telephone: 760-379-2904
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 6400 Park Ave.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.636206
+    longitude: -118.407125
+    url: geo:35.636206,-118.407125
+- "@type": Church
+  "@context": https://schema.org
+  identifier: 2d6e7590-e8e6-4eeb-90b8-d06a79338c3e
+  name: Mt View Southern Bapti
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 2959 Erskine Creek Rd.
+    postOfficeBoxNumber:
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.63619741
+    longitude: -118.40712547
+    url: geo:35.63619741,-118.40712547
+- "@type": Church
+  "@context": https://schema.org
+  identifier: e516d6c8-02dc-475b-b301-a4bd36567494
+  name: Grace Chapel Church
+  telephone: 760-379-4093
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 12312 Mountain Mesa Rd.
+    addressLocality: Mountain Mesa
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.639927
+    longitude: -118.406903
+    url: geo:35.639927,-118.406903
+- "@type": Church
+  "@context": https://schema.org
+  identifier: ee5088e1-ce17-43ea-8807-9bf02cf137f7
+  name: Church of Christ Mt Mesa
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 6400 Dogwood Avenue
+    postOfficeBoxNumber: '1090'
+    addressLocality: Mountain Mesa
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.634519
+    longitude: -118.408251
+    url: geo:35.634519,-118.408251
+- "@type": Church
+  "@context": https://schema.org
+  identifier: 2c502e32-09a6-451d-8314-34590f6ae376
+  name: Shepherd of the Hills Lutheran Church
+  telephone: 760-379-2343
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 377 CA-155
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.626087
+    longitude: -118.481306
+    url: geo:35.626087,-118.481306
+- "@type": Church
+  "@context": https://schema.org
+  identifier: ff2f9a88-86fe-4699-b9fd-34b5da9890f2
+  name: First Baptist Church Lake Isabella
+  telephone: 760-379-5615
+  email: fbclikb@gmail.com
+  sameAs:
+    - https://www.facebook.com/groups/342830128116/
+  image:
+  - "@type": ImageObject
+    url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    width: 640
+    height: 480
+    encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 3701 Suhre St.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.627468
+    longitude: -118.476029
+    url: geo:35.627468,-118.476029
+- "@type": Church
+  "@context": https://schema.org
+  identifier: 41fef125-4403-44ab-b9fb-ab7be709ae13
+  name: Kern Valley Bible Church
+  telephone: 760-379-5482
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 3920 Golden Spur St.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.630299
+    longitude: -118.47149
+    url: geo:35.630299,-118.471490
+- "@type": Church
+  "@context": https://schema.org
+  identifier: d9a5d1df-f375-4688-96b2-4dc945c794d5
+  name: Highland Chapel United Methodist
+  telephone: 760-379-2120
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 5301 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.613125
+    longitude: -118.48122
+    url: geo:35.613125,-118.481220
+- "@type": Church
+  "@context": https://schema.org
+  identifier: 8595af40-b46c-436d-b19b-36474ed4aca6
+  name: The Upper Room of Kern River Valley
+  telephone: 760-301-6751
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 4324 Birch St.
+    addressLocality: Mountain Mesa
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.634884
+    longitude: -118.405808
+    url: geo:35.634884,-118.405808
+- "@type": Church
+  "@context": https://schema.org
+  identifier: 9db129ed-5080-41a3-8398-6f554d3261ca
+  name: Weldon Southern Baptist
+  telephone: 760-378-4964
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 20647 CA-178
+    addressLocality: Weldon
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93238'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.666601
+    longitude: -118.269384
+    url: geo:35.666601,-118.269384
+- "@type": Church
+  "@context": https://schema.org
+  identifier: d7bdc57d-4561-4eea-a118-d90bf7dfed6b
+  name: First Missionary Baptist Church
+  telephone: 760-549-9519
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 2741 Mountain View Rd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.612414
+    longitude: -118.46866
+    url: geo:35.612414,-118.468660
+- "@type": Church
+  "@context": https://schema.org
+  identifier: 79b7e80a-364d-4da2-9114-88b712c3ec9c
+  name: Garden Community Fellowship
+  telephone: 310-489-1236
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 2931 Erskine Creek Rd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.616278
+    longitude: -118.467862
+    url: geo:35.616278,-118.467862
