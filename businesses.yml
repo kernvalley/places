@@ -710,7 +710,7 @@
   telephone: 818-800-2253
   description: Currently available by appointment only.
   additionalType:
-  	- ArtGallery
+    - ArtGallery
   image:
     - "@type": ImageObject
       url: https://cdn.kernvalley.us/img/raster/missing-image.png
