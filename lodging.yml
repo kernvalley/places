@@ -284,3 +284,51 @@
       width: 640
       height: 480
       encodingFormat: image/png
+- "@type": LodgingBusiness
+  "@context": https://schema.org
+  identifier: 56c7e3d0-bcd4-4bdd-8f59-d8e952056520
+  name: Kern Riverfront Lodge
+  telephone: 760-376-1396
+  email: jenny@lakeisabellarv.com
+  sameAs:
+    - https://www.yelp.com/biz/kern-riverfront-lodge-kernville
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 113 Kern River Dr.
+    addressLocality: Kernville
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93238'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.754209
+    longitude: -118.424119
+    url: geo:35.754209,-118.424119
+- "@type": LodgingBusiness
+  "@context": https://schema.org
+  identifier: 3db15c8d-2187-497b-9fcf-91b5dbe1ee17
+  name: Kern River Inn
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 119 Kern River Dr.
+    addressLocality: Kernville
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93238'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.754401
+    longitude: -118.424028
+    url: geo:35.754401,-118.424028
