@@ -459,8 +459,8 @@
   description: A Faith Based Organization bridging the gap of indifference through
     a common ground mission.
   sameAs:
-    - https://www.enforum.us/www.facebook.com/enforum/
-    - https://www.instagram.com/enforumchurch/
+    - https://www.facebook.com/enforum/
+    - https://instagram.com/enforumchurch/
   image:
     - "@type": ImageObject
       url: https://cdn.kernvalley.us/img/raster/missing-image.png
