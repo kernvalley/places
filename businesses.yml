@@ -758,3 +758,197 @@
       opens: '09:00'
       closes: '17:00'
       dayOfWeek: Saturday
+- "@type": SelfStorage
+  "@context": https://schema.org
+  identifier: db05033e-d39e-40f2-b1a3-e9cff5279ebb
+  name: Kernville Mini Storage
+  telephone: 760-376-4200
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 12001 Sierra Way
+    addressLocality: Kernville
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93238'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.737843
+    longitude: -118.415041
+    url: geo:35.737843,-118.415041
+- "@type": SelfStorage
+  "@context": https://schema.org
+  identifier: 5a9db4be-22c2-4ee3-b56a-ba9e50f805ab
+  name: Wofford Mini Storage
+  telephone: 760-376-3293
+  email: manager@woffordministorage.com
+  image:
+  - "@type": ImageObject
+    url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    width: 640
+    height: 480
+    encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 41 Lakeshore Dr.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93285'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.705353
+    longitude: -118.456553
+    url: geo:35.705353,-118.456553
+- "@type": SelfStorage
+  "@context": https://schema.org
+  identifier: 4dd96703-ae0e-44ab-9fb3-a5fda8038791
+  name: Lake Mini Storage
+  telephone: 760-379-2661
+  email: manager@woffordministorage.com
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 6721 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.634106
+    longitude: -118.472379
+    url: geo:35.634106,-118.472379
+- "@type": SelfStorage
+  "@context": https://schema.org
+  identifier: 6bd19e27-d337-47cc-a81e-a6f34dae6d99
+  name: Best Storage
+  telephone: 760-379-8232
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 6528 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.631228
+    longitude: -118.471608
+    url: geo:35.631228,-118.471608
+- "@type": SelfStorage
+  "@context": https://schema.org
+  identifier: 5ed17c63-c8a8-4f2d-b108-015f25c6b38f
+  name: Lakeside Storage
+  telephone: 760-379-1465
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 6740 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.635168
+    longitude: -118.4709
+    url: geo:35.635168,-118.470900
+- "@type": SelfStorage
+  "@context": https://schema.org
+  identifier: bc50e433-ccd8-4f72-88e3-007122bf1b4c
+  name: Watson Storage
+  telephone: 760-549-3771
+  email: ksvilla@yahoo.com
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 6512 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.630545
+    longitude: -118.472222
+    url: geo:35.630545,-118.472222
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Sunday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Saturday
+- "@type": SelfStorage
+  "@context": https://schema.org
+  identifier: 99513e27-a1e4-4b10-87de-f9dc52bb4ef0
+  name: Downtown Storage
+  telephone: 760-379-8083
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 6047 Lake Isabella Blvd.
+    postOfficeBoxNumber:
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.623535
+    longitude: -118.475823
+    url: geo:35.623535,-118.475823
