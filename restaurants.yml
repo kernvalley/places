@@ -438,6 +438,9 @@
   identifier: 1a5c7e00-1541-465d-bbfb-7cdf1e10dda5
   telephone: 760-376-2430
   url: https://johhnymcnallys.com
+  sameAs:
+    - https://www.facebook.com/pages/category/Restaurant/Johnny-McNallys-Fairview-Lodge-306587940208004/
+    - https://www.instagram.com/johnnymcnallys/
   servesCuisine:
     - Steak
   image:
@@ -456,6 +459,33 @@
     "@type": GeoCoordinates
     latitude: 35.927049
     longitude: -118.493456
+- "@type": Restaurant
+  "@context": https://schema.org
+  identifier: 9cc7452c-e846-4c2b-b298-f5e4e0a39d84
+  name: McNally's Outpost
+  telephone: 760-376-2431
+  additionalProperty:
+    - "@type": PropertyValue
+      name: icon
+      value: hamburger
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: '11301 Kernville Rd. # C'
+    addressLocality: Kernville
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93238'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.755531
+    longitude: -118.421132
+    url: geo:35.755531,-118.421132
 - name: Red Rooster Cafe
   identifier: 61432573-ceb9-4274-95b4-3576fca0415a
   "@context": https://schema.org
