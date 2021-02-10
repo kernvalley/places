@@ -451,3 +451,32 @@
     latitude: 35.616278
     longitude: -118.467862
     url: geo:35.616278,-118.467862
+- "@type": Church
+  "@context": https://schema.org
+  identifier: 84ec4111-d603-4d47-9912-0a97f64ef7e4
+  name: Enforum
+  telephone: 760-376-6719
+  description: A Faith Based Organization bridging the gap of indifference through
+    a common ground mission.
+  sameAs:
+    - https://www.enforum.us/www.facebook.com/enforum/
+    - https://www.instagram.com/enforumchurch/
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 20 Panorama Dr.
+    postOfficeBoxNumber:
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93285'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.708961
+    longitude: -118.45347
+    url: geo:35.708961,-118.453470
