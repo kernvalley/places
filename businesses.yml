@@ -1,9 +1,35 @@
 ---
+- identifier: f8fe6bc9-1ed1-4ce7-9271-1ce73d81192b
+  '@context': https://schema.org
+  '@type': LocalBusiness
+  name: KernValley.US
+  url: https://kernvalley.us
+  email: admin@kernvalley.us
+  description: KernValley.US is a publisher, advertiser, web and app developer, and more in the Kern River Valley
+  sameAs:
+    - https://www.facebook.com/KernValley.us/
+    - https://twitter.com/kern_valley
+    - https://instagram.com/kernvalley_us/
+    - https://www.linkedin.com/company/18644791/
+    - https://github.com/kernvalley
+  image:
+  - "@type": ImageObject
+    url: https://cdn.kernvalley.us/img/branding/kernvalley.us.svg
+    encodingFormat: image/svg+xml
+    height: 192
+    width: 192
+  address:
+    "@type": PostalAddress
+    addressLocality: Kernville
+    addressRegion: CA
+    addressCountry: US
+    postalCode: 93238
 - name: Kernville Chamber of Commerce
   identifier: 85d7ace2-2fdf-400e-a624-5d1ab4e17512
   "@context": https://schema.org
-  "@type": LocalBusiness
+  "@type": NGO
   url: https://www.gotokernville.com/
+  email: info@gotokernville.com
   telephone: 760-376-2629
   sameAs:
     - https://www.facebook.com/KernvilleChamber/
@@ -15,17 +41,33 @@
       width: 640
       height: 480
       encodingFormat: image/png
-  address:
-    "@type": PostalAddress
-    streetAddress: 11447 Kernville Rd.
-    addressLocality: Kernville
-    addressRegion: CA
-    postalCode: 93238
-  geo:
-    "@type": GeoCoordinates
-    longitude: -118.418143
-    latitude: 35.755794
-    elevation: 826
+  location:
+    "@type": Place
+    address:
+      "@type": PostalAddress
+      streetAddress: 11447 Kernville Rd.
+      postOfficeBoxNumber: 397
+      addressLocality: Kernville
+      addressRegion: CA
+      postalCode: 93238
+    geo:
+      "@type": GeoCoordinates
+      longitude: -118.418143
+      latitude: 35.755794
+      elevation: 826
+    openingHoursSpecification:
+      - "@type": OpeningHoursSpecification
+        opens: '09:00'
+        closes: '16:00'
+        dayOfWeek: Monday
+      - "@type": OpeningHoursSpecification
+        opens: '09:00'
+        closes: '16:00'
+        dayOfWeek: Tuesday
+      - "@type": OpeningHoursSpecification
+        opens: '09:00'
+        closes: '16:00'
+        dayOfWeek: Friday
 - name: Kernville Cowork
   identifier: 882ff5ef-521d-4da6-9a50-eb837077e5b9
   "@context": https://schema.org
@@ -73,7 +115,7 @@
 - name: Kern River Valley Chamber of Commerce
   identifier: e1cba0b5-2d6e-4e9a-99d4-db4d48b1396b
   "@context": https://schema.org
-  "@type": LocalBusiness
+  "@type": NGO
   telephone: 866-578-4386
   email: office@kernrivervalley.com
   url: https://www.kernrivervalley.com
@@ -86,17 +128,36 @@
       width: 640
       height: 480
       encodingFormat: image/png
-  address:
-    "@type": PostalAddress
-    streetAddress: 6414 Lake Isabella Blvd. - Suite D
-    postOfficeBoxNumber: 567
-    addressLocality: Lake Isabella
-    addressRegion: CA
-    postalCode: 93240
-  geo:
-    "@type": GeoCoordinates
-    latitude: 35.629363
-    longitude: -118.472890
+  location:
+    "@type": Place
+    address:
+      "@type": PostalAddress
+      streetAddress: 6414 Lake Isabella Blvd. - Suite D
+      postOfficeBoxNumber: 567
+      addressLocality: Lake Isabella
+      addressRegion: CA
+      postalCode: 93240
+    geo:
+      "@type": GeoCoordinates
+      latitude: 35.629363
+      longitude: -118.472890
+    openingHoursSpecification:
+      - "@type": OpeningHoursSpecification
+        opens: '09:00'
+        closes: '15:00'
+        dayOfWeek: Monday
+      - "@type": OpeningHoursSpecification
+        opens: '09:00'
+        closes: '15:00'
+        dayOfWeek: Tuesday
+      - "@type": OpeningHoursSpecification
+        opens: '09:00'
+        closes: '15:00'
+        dayOfWeek: Thursday
+      - "@type": OpeningHoursSpecification
+        opens: '09:00'
+        closes: '15:00'
+        dayOfWeek: Friday
 - name: Kern River Valley Cemetery
   identifier: 328b9fa5-9ec6-465d-8221-2f5071cf6b54
   "@context": https://schema.org
@@ -952,3 +1013,58 @@
     latitude: 35.623535
     longitude: -118.475823
     url: geo:35.623535,-118.475823
+- identifier: 59b6ae64-c2fc-41e9-a4a0-8aa2b5c1e2bd
+  name: Kern River Conservancy
+  "@context": https://schema.org
+  "@type": NGO
+  url: https://www.kernriverconservancy.org/
+  telephone: 818-984-8505
+  email: info@kernriverconservancy.org
+  nonprofitStatus: Nonprofit501c3
+  sameAs:
+    - https://www.facebook.com/KernRiverConservancy/
+    - https://twitter.com/KeepKernClean
+    - https://instagram.com/kernriverconservancy
+  location:
+    "@type": City
+    name: Kernville
+    address:
+      "@type": PostalAddress
+      postOfficeBoxNumber: 1042
+      addressLocality: Kernville
+      addressRegion: CA
+      postalCode: 93240
+      addressCountry: US
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- identifier: a9c04edd-5c76-45b9-8c67-178b12e21dc4
+  name: Keepers of the Kern
+  "context": https://schema.org
+  "@type": NGO
+  nonprofitStatus: Nonprofit501c3
+  url: https://www.keepersofthekern.org/
+  telephone: 760-376-2963
+  email: keepersofthekern@gmail.com
+  sameAs:
+    - https://www.facebook.com/KeepersoftheKERN/
+    - https://www.youtube.com/channel/UC5X8R0347gFLvmE7GcOU_bg
+  location:
+    "@type": City
+    name: Kernville
+    address:
+      "@type": PostalAddress
+      postOfficeBoxNumber: 655
+      addressLocality: Kernville
+      addressRegion: CA
+      postalCode: 93238
+      addressCountry: US
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
