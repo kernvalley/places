@@ -1068,3 +1068,25 @@
       width: 640
       height: 480
       encodingFormat: image/png
+- "@type": HVACBusiness
+  "@context": https://schema.org
+  identifier: 1fb81202-4741-4b1c-9774-04fb319a7a73
+  name: David Slonski
+  telephone: 559-708-3675
+  email: Slonskilandscape@gmail.com
+  description: Independent HVAC Technician/Landscape Contractor
+  additionalType:
+    - Electrician
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 2708 Steensen St
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
