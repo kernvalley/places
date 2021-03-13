@@ -405,7 +405,7 @@
     "@type": GeoCoordinates
     latitude: 35.624763
     longitude: -118.473991
-- name: El Poral Mexican Grill
+- name: El Portal Mexican Grill
   identifier: 16a2d7a5-505f-4e96-92ba-41590ebec567
   "@context": https://schema.org
   "@type": Restaurant
