@@ -159,3 +159,24 @@
       "@type": ImageObject
       width: 640
       height: 480
+- "@type": LandmarksOrHistoricalBuildings
+  "@context": https://schema.org
+  identifier: fdefd89c-fd98-4e0d-a039-e734f0f3bd96
+  name: Rabbit Island
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    addressLocality: Weldon
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.672618
+    longitude: -118.372551
+    url: geo:35.672618,-118.372551
