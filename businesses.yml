@@ -82,14 +82,14 @@
       encodingFormat: image/png
   address:
     "@type": PostalAddress
-    streetAddress: 21 Sierra Dr.
+    streetAddress: 11113 Kernville Rd.
     addressLocality: Kernville
     addressRegion: CA
     postalCode: 93238
   geo:
     "@type": GeoCoordinates
-    longitude: -118.4206114
-    latitude: 35.756003
+    latitude: 35.755435
+    longitude: -118.4262224
 - name: Designs By Erin
   identifier: db35e5f0-7e50-4482-a137-64d240198cfc
   "@context": https://schema.org
