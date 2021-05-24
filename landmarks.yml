@@ -180,3 +180,24 @@
     latitude: 35.672618
     longitude: -118.372551
     url: geo:35.672618,-118.372551
+- "@type": LandmarksOrHistoricalBuildings
+  "@context": https://schema.org
+  identifier: 66af24d1-12c3-40ba-9c10-b1f5659e3c1f
+  name: The Camel
+  description: A local landmark, famous for people adding a snorkel as lake levels rise.
+  image:
+  - "@type": ImageObject
+    url: https://i.imgur.com/EbKlrXqm.jpg
+    width: 320
+    height: 240
+  address:
+    "@type": PostalAddress
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.66392989
+    longitude: -118.47028077
+    url: geo:35.66392989,-118.47028077
