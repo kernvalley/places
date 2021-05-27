@@ -654,3 +654,53 @@
       width: 640
       height: 480
       encodingFormat: image/png
+- "@type": OfficeEquipmentStore
+  "@context": https://schema.org
+  identifier: 1a70593e-95b9-41ed-b9db-b997039a5fff
+  name: Valley Office Emporium
+  telephone: "+1-760-379-3631"
+  additionalType:
+    - FurnitureStore
+    - ElectronicsStore
+    - ComputerStore
+    - MobilePhoneStore
+    - ProfessionalService
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: '6101 Lake Isabella Blvd.'
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.62467789
+    longitude: -118.47508192
+    url: geo:35.62467789,-118.47508192
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '17:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '17:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '17:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '17:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '17:00'
+      dayOfWeek: Friday

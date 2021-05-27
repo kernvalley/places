@@ -378,33 +378,56 @@
     "@type": GeoCoordinates
     latitude: 35.624876
     longitude: -118.475142
-- name: Chef Sarape
-  identifier: 47a4698b-150e-4e3a-aac2-feae756e98d0
+- "@type": Restaurant
   "@context": https://schema.org
-  "@type": Restaurant
-  telephone: 760-379-3663
+  identifier: dab0af52-2731-4ff0-815b-8b40b58e12ff
+  name: La Bikina
+  telephone: "+1-760-379-1607"
+  description: We provide Delicious Authentic Mexican Dishes. We try our best to offer a clean and friendly atmosphere.
   servesCuisine:
     - Mexican
-  additionalProperty:
-    - "@type": PropertyValue
-      name: icon
-      value: taco
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
-      "@type": ImageObject
-      width: 640
-      height: 480
-      encodingFormat: image/png
+    - "@type": ImageObject
+      url: https://i.imgur.com/E1gNZ55m.jpg
+      width: 320
+      height: 240
   address:
     "@type": PostalAddress
     streetAddress: 6106 Lake Isabella Blvd.
     addressLocality: Lake Isabella
     addressRegion: CA
-    postalCode: 93240
+    addressCountry: US
+    postalCode: '93240'
   geo:
     "@type": GeoCoordinates
-    latitude: 35.624763
-    longitude: -118.473991
+    latitude: 35.6247651
+    longitude: -118.47400904
+    url: geo:35.62476510,-118.47400904
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '20:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '20:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '20:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '20:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '20:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '20:00'
+      dayOfWeek: Saturday
 - name: El Portal Mexican Grill
   identifier: 16a2d7a5-505f-4e96-92ba-41590ebec567
   "@context": https://schema.org
