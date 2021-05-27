@@ -381,11 +381,14 @@
 - "@type": Restaurant
   "@context": https://schema.org
   identifier: dab0af52-2731-4ff0-815b-8b40b58e12ff
-  name: La Bikina
+  name: La Bikina Mexican Grill
   telephone: "+1-760-379-1607"
+  url: https://www.labikinala.com/
   description: We provide Delicious Authentic Mexican Dishes. We try our best to offer a clean and friendly atmosphere.
   servesCuisine:
     - Mexican
+  sameAs:
+    - https://www.facebook.com/labikina21/
   image:
     - "@type": ImageObject
       url: https://i.imgur.com/E1gNZ55m.jpg
