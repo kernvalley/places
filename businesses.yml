@@ -75,10 +75,10 @@
   url: https://kernvillecowork.com/en
   description: At Kernville Cowork, we are working to create a community for collaboration, innovation, and continuous learning.
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    - url: https://i.imgur.com/Gxhn9H4m.jpg
       "@type": ImageObject
-      width: 640
-      height: 480
+      width: 320
+      height: 240
       encodingFormat: image/png
   address:
     "@type": PostalAddress

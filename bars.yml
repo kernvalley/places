@@ -5,10 +5,10 @@
   "@type": BarOrPub
   telephone: 760-376-2500
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    - url: https://i.imgur.com/sdOqiWUm.jpg
       "@type": ImageObject
-      width: 640
-      height: 480
+      width: 320
+      height: 240
       encodingFormat: image/png
   address:
     "@type": PostalAddress
