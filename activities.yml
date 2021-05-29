@@ -139,35 +139,35 @@
     "@type": GeoCoordinates
     latitude: 35.755170
     longitude: -118.426782
-- name: SoCal Rafting
-  identifier: 01332d5b-570a-4915-b524-40d16ce8bb5b
-  "@context": https://schema.org
-  "@type": LocalBusiness
+# - name: SoCal Rafting
+#   identifier: 01332d5b-570a-4915-b524-40d16ce8bb5b
+#   "@context": https://schema.org
+#   "@type": LocalBusiness
   # additionalProperty:
   #   - "@type": PropertyValue
   #     name: icon
   #     value: rafting
-  url: https://www.socalrafting.com
-  email: booking@socalrafting.com
-  telephone: 760-440-7722
-  address:
-    "@type": PostalAddress
-    streetAddress: 11101 Kernville Rd.
-    addressLocality: Kernville
-    addressRegion: CA
-    postalCode: 93238
-    url: https://g.page/SoCalRafting?share
-  geo:
-    "@type": GeoCoordinates
-    latitude: 35.75548030120008
-    longitude: -118.42433398999142
-    url: geo:35.75548030120008,-118.42433398999142
-  image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
-      "@type": ImageObject
-      width: 640
-      height: 480
-      encodingFormat: image/png
+  # url: https://www.socalrafting.com
+  # email: booking@socalrafting.com
+  # telephone: 760-440-7722
+  # address:
+  #   "@type": PostalAddress
+  #   streetAddress: 11101 Kernville Rd.
+  #   addressLocality: Kernville
+  #   addressRegion: CA
+  #   postalCode: 93238
+  #   url: https://g.page/SoCalRafting?share
+  # geo:
+  #   "@type": GeoCoordinates
+  #   latitude: 35.75548030120008
+  #   longitude: -118.42433398999142
+  #   url: geo:35.75548030120008,-118.42433398999142
+  # image:
+  #   - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+  #     "@type": ImageObject
+  #     width: 640
+  #     height: 480
+  #     encodingFormat: image/png
 - name: Mountain & River Adventures
   identifier: 0f811e85-9df8-4a03-a8ce-97da27b299d4
   "@context": https://schema.org

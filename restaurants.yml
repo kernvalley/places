@@ -21,10 +21,10 @@
     addressRegion: CA
     postalCode: 93238
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    - url: https://i.imgur.com/AMie3MJm.jpg
       "@type": ImageObject
-      width: 640
-      height: 480
+      width: 320
+      height: 240
       encodingFormat: image/png
   geo:
     '@type': GeoCoordinates
@@ -71,10 +71,10 @@
     - https://www.yelp.com/biz/ylsm8GHDjgBYtYVpsydzzQ
     - https://www.tripadvisor.com/618761
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    - url: https://i.imgur.com/R1Hij4im.jpg
       "@type": ImageObject
-      width: 640
-      height: 480
+      width: 320
+      height: 240
       encodingFormat: image/png
   address:
     '@type': PostalAddress
@@ -122,10 +122,10 @@
   telephone: 760-376-2411
   url: https://www.ewingsco.com
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    - url: https://i.imgur.com/XqaG2Ylm.jpg
       "@type": ImageObject
-      width: 640
-      height: 480
+      width: 320
+      height: 240
       encodingFormat: image/png
   address:
     '@type': PostalAddress
@@ -200,10 +200,10 @@
   servesCuisine:
     - pizza
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    - url: https://i.imgur.com/tup7nBzm.png
       "@type": ImageObject
-      width: 640
-      height: 480
+      width: 320
+      height: 240
       encodingFormat: image/png
   address:
     '@type': PostalAddress
@@ -818,3 +818,51 @@
       width: 640
       height: 480
       encodingFormat: image/png
+- "@type": FoodEstablishment
+  "@context": https://schema.org
+  identifier: 569af624-b5cb-4550-b6e4-6b2618fb8424
+  name: Something Sweeter
+  sameAs:
+    - https://facebook.com/SomethingSweetFrozenYogurt
+  image:
+    - "@type": ImageObject
+      url: https://i.imgur.com/tR1UOgkm.jpg
+      width: 320
+      height: 240
+  address:
+    "@type": PostalAddress
+    streetAddress: 11117 Kernville Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93238'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.7556803
+    longitude: -118.4237948
+    url: geo:35.75568030,-118.42379480
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '21:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '20:00'
+      dayOfWeek: Saturday
