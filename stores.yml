@@ -4,10 +4,10 @@
   "@type": GroceryStore
   telephone: 760-376-2424
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    - url: https://i.imgur.com/5lK8YVtm.jpg
       "@type": ImageObject
-      width: 640
-      height: 480
+      width: 320
+      height: 240
       encodingFormat: image/png
   geo:
     "@type": GeoCoordinates
