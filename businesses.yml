@@ -745,7 +745,9 @@
   "@context": https://schema.org
   identifier: 38a8ad61-8b06-4098-9d9a-7c06af0abc6d
   name: Freeman's Lakeside Realty
+  description: Local Family Owned Real Estate Brokerage specializing in the Kern River  Valley and surrounding areas.
   telephone: 760-379-5915
+  email: cooltuna12@yahoo.com
   image:
     - "@type": ImageObject
       url: https://cdn.kernvalley.us/img/raster/missing-image.png
@@ -764,6 +766,31 @@
     latitude: 35.62542
     longitude: -118.474928
     url: geo:35.625420,-118.474928
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '17:00'
+      dayOfWeek: Saturday
 - "@type": JewelryStore
   "@context": https://schema.org
   identifier: 1903c263-cd8c-41f2-ad9c-f80851a56f44
