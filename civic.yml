@@ -354,10 +354,10 @@
     longitude: -118.424323
     url: geo:35.753111,-118.424323
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    - url: https://i.imgur.com/kacthtRm.jpg
       "@type": ImageObject
-      width: 640
-      height: 480
+      width: 320
+      height: 240
       encodingFormat: image/png
 - name: Circle Park
   identifier: 7b6354ec-57fa-4ea2-80af-bd5447381b6a

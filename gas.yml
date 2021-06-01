@@ -8,10 +8,10 @@
   url: https://riversideonestop.com/
   telephone: 760-376-1688
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    - url: https://i.imgur.com/J1BHICZm.jpg
       "@type": ImageObject
-      width: 640
-      height: 480
+      width: 320
+      height: 240
       encodingFormat: image/png
   address:
     "@type": PostalAddress
