@@ -6,10 +6,10 @@
   telephone: 760-376-2442
   url: https://www.bigbluebearcafe.com
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    - url: https://i.imgur.com/ZGK7gbSm.jpg
       "@type": ImageObject
-      width: 640
-      height: 480
+      width: 320
+      height: 240
       encodingFormat: image/png
   address:
     "@type": PostalAddress
@@ -21,6 +21,35 @@
     "@type": GeoCoordinates
     longitude: -118.425548
     latitude: 35.755127
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Sunday
+      opens: '07:00'
+      closes: '16:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Monday
+      opens: '07:00'
+      closes: '16:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Tuesday
+      opens: '07:00'
+      closes: '16:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Wednesday
+      opens: '07:00'
+      closes: '16:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Thursday
+      opens: '07:00'
+      closes: '16:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Friday
+      opens: '07:00'
+      closes: '16:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Saturday
+      opens: '07:00'
+      closes: '16:00'
 - name: Starbucks
   identifier: 463661e3-c040-4a38-a642-b9237ce7b6ca
   "@context": https://schema.org
