@@ -357,6 +357,7 @@
     - url: https://i.imgur.com/kacthtRm.jpg
       "@type": ImageObject
       width: 320
+      height: 240
       encodingFormat: image/png
 - name: Circle Park
   identifier: 7b6354ec-57fa-4ea2-80af-bd5447381b6a
