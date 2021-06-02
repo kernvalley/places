@@ -264,7 +264,7 @@
   address:
     "@type": PostalAddress
     streetAddress: "12604 Mountain Mesa Rd #A"
-    addressLocality: Lake Isabella
+    addressLocality: Mountain Mesa
     addressRegion: CA
     postalCode: 93240
   geo:
