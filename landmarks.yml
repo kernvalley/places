@@ -201,3 +201,26 @@
     latitude: 35.66392989
     longitude: -118.47028077
     url: geo:35.66392989,-118.47028077
+- "@type": LandmarksOrHistoricalBuildings
+  "@context": https://schema.org
+  identifier: 8d9eef29-8720-49df-94b0-1e2e89a21248
+  name: Trail of 100 Giants
+  telephone: "+1-559-784-1500"
+  description: Trail of 100 Giants offers an easy, accessible walk through the Long Meadow Grove, one of the premier groves of giant sequoias in our area.
+  image:
+    - "@type": ImageObject
+      url: https://i.imgur.com/CViGruRm.jpg
+      width: 320
+      height: 240
+  address:
+    "@type": PostalAddress
+    streetAddress: Route 107
+    addressLocality: Porterville
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93257'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.977508
+    longitude: -118.594112
+    url: geo:35.977508,-118.594112
