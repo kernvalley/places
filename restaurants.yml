@@ -418,6 +418,10 @@
     - Mexican
   sameAs:
     - https://www.facebook.com/labikina21/
+  additionalProperty:
+    - "@type": PropertyValue
+      name: icon
+      value: taco
   image:
     - "@type": ImageObject
       url: https://i.imgur.com/E1gNZ55m.jpg
@@ -480,7 +484,7 @@
   address:
     "@type": PostalAddress
     streetAddress: 12598 Mountain Mesa Rd.
-    addressLocality: Lake Isabella
+    addressLocality: Mountain Mesa
     addressRegion: CA
     postalCode: 93240
   geo:
@@ -584,7 +588,7 @@
   address:
     "@type": PostalAddress
     streetAddress: 12408 Mountain Mesa Rd.
-    addressLocality: Lake Isabella
+    addressLocality: Mountain Mesa
     addressRegion: CA
     postalCode: 93240
   geo:

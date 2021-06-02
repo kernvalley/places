@@ -291,3 +291,192 @@
       width: 640
       height: 480
       encodingFormat: image/png
+- name: Riverside Park
+  identifier: 73acafc7-1407-473a-b807-b3acdd53f6db
+  "@context": https://schema.org
+  "@type": Park
+  address:
+    "@type": PostalAddress
+    streetAddress: 10 Kern River Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+    url: https://goo.gl/maps/8PWNAgBLWKJb6UpD8
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.753111
+    longitude: -118.424323
+    url: geo:35.753111,-118.424323
+  image:
+    - url: https://i.imgur.com/kacthtRm.jpg
+      "@type": ImageObject
+      width: 320
+      height: 240
+      encodingFormat: image/png
+- name: Circle Park
+  identifier: 7b6354ec-57fa-4ea2-80af-bd5447381b6a
+  "@context": https://schema.org
+  "@type": Park
+  address:
+    "@type": PostalAddress
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+    url: https://goo.gl/maps/jCK72tnSbJZodQGH9
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.755260
+    longitude: -118.425032
+    url: geo:35.755260,-118.425032
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Kernville Park Recreation Area
+  identifier: 1a74b246-673c-4a08-a275-535fb193eab0
+  "@context": https://schema.org
+  "@type": Park
+  address:
+    "@type": PostalAddress
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+    url: https://goo.gl/maps/aqxpV52f4Vj2uHnV6
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.759778
+    longitude: -118.426618
+    url: geo:35.759778,-118.426618
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Wofford Heights Park
+  identifier: a0f5115f-e70f-4770-98e1-eea99297d3d3
+  "@context": https://schema.org
+  "@type": Park
+  address:
+    "@type": PostalAddress
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: 93285
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.705360
+    longitude: -118.449570
+    url: geo:35.705360,-118.449570
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Freear Park
+  identifier: b1c00efb-536e-4582-8367-9c3023aa5b11
+  "@context": https://schema.org
+  "@type": Park
+  address:
+    "@type": PostalAddress
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    postalCode: 93285
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.700794
+    longitude: -118.445102
+    url: geo:35.700794,-118.445102
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Tank Park
+  identifier: 046a52e0-c9fa-4adb-aef7-d88206b8c2c9
+  "@context": https://schema.org
+  "@type": Park
+  address:
+    "@type": PostalAddress
+    streetAddress: 4776 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/Vx3sbsgKrFzDZadJ6
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.608123
+    longitude: -118.484435
+    url: geo:35.608123,-118.484435
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Uffert Park
+  identifier: ef87a5ab-533e-4dda-be78-72d5ff606051
+  "@context": https://schema.org
+  "@type": Park
+  address:
+    "@type": PostalAddress
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/j9d4aGDYxtg6Uddt7
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.609783
+    longitude: -118.483276
+    url: geo:35.609783,-118.483276
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Mountain Mesa Park
+  identifier: 79833c81-cb9b-4e0b-b801-11a27469c408
+  "@context": https://schema.org
+  "@type": Park
+  address:
+    "@type": PostalAddress
+    addressLocality: Mountain Mesa
+    addressRegion: CA
+    postalCode: 93240
+    url: https://goo.gl/maps/844hMDaD6wE6vR6bA
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.635511
+    longitude: -118.408592
+    url: geo:35.635511,-118.408592
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+- name: Scodie Park
+  identifier: b8d56a2b-fd58-41cc-a032-b1f652eaa938
+  "@context": https://schema.org
+  "@type": Park
+  address:
+    "@type": PostalAddress
+    addressLocality: Onyx
+    addressRegion: CA
+    postalCode: 93255
+    url: https://goo.gl/maps/3Lx84MCudD32PKWv7
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.690754
+    longitude: -118.219912
+    url: geo:35.690754,-118.219912
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png

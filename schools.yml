@@ -1,5 +1,4 @@
 ---
-
 - name: Kernville Elementary School
   identifier: 4d91f474-3c74-4e37-bed2-91b617964a46
   "@context": https://schema.org
@@ -119,7 +118,7 @@
   telephone: 760-379-2320
   address:
     "@type": PostalAddress
-    streetAddress: 3630 Golden Spur St
+    streetAddress: 3630 Golden Spur St.
     addressLocality: Lake Isabella
     addressRegion: CA
     postalCode: 93240

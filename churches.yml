@@ -19,7 +19,7 @@
   address:
     "@type": PostalAddress
     streetAddress: 14900 CA-178
-    addressLocality: Lake Isabella
+    addressLocality: South Lake
     addressRegion: CA
     postalCode: 93240
   geo:
@@ -198,7 +198,7 @@
 - "@type": Church
   "@context": https://schema.org
   identifier: 2d6e7590-e8e6-4eeb-90b8-d06a79338c3e
-  name: Mt View Southern Bapti
+  name: Mt View Southern Baptist
   image:
     - "@type": ImageObject
       url: https://cdn.kernvalley.us/img/raster/missing-image.png
@@ -470,7 +470,6 @@
   address:
     "@type": PostalAddress
     streetAddress: 20 Panorama Dr.
-    postOfficeBoxNumber:
     addressLocality: Wofford Heights
     addressRegion: CA
     addressCountry: US
