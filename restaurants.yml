@@ -122,7 +122,7 @@
   telephone: 760-376-2411
   url: https://www.ewingsco.com
   image:
-    - url: https://i.imgur.com/XqaG2Ylm.jpg
+    - url: https://i.imgur.com/sJq58PJm.jpg
       "@type": ImageObject
       width: 320
       height: 240
@@ -529,9 +529,9 @@
       value: hamburger
   image:
     - "@type": ImageObject
-      url: https://cdn.kernvalley.us/img/raster/missing-image.png
-      width: 640
-      height: 480
+      url: https://i.imgur.com/FX6Dh2vm.jpg
+      width: 320
+      height: 240
       encodingFormat: image/png
   address:
     "@type": PostalAddress

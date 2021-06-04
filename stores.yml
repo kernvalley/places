@@ -277,10 +277,10 @@
     longitude: -118.420584
     url: geo:35.755666,-118.420584
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    - url: https://i.imgur.com/3D0QZppm.jpg
       "@type": ImageObject
-      width: 640
-      height: 480
+      width: 320
+      height: 240
       encodingFormat: image/png
 - name: Builders Mart True Value Hardware
   identifier: 887ad342-b564-4569-bda8-f7d17d294a50

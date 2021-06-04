@@ -1116,3 +1116,21 @@
     addressRegion: CA
     addressCountry: US
     postalCode: '93240'
+- "@type": LocalBusiness
+  "@context": https://schema.org
+  identifier: e785e4ef-28cb-48ad-9d0a-e3ec7f6d9809
+  name: Kern Valley Shuttle
+  telephone: '+1-760-223-2938'
+  description: "Serving the Kern River Valley. Thur-Sun 24 hour service Monday by appointment Tue & Wed no service"
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    addressLocality: Kernville
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93238'

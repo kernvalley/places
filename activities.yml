@@ -236,10 +236,10 @@
     longitude: -118.42103996436853
     url: geo:35.755132396961365,-118.42103996436853
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    - url: https://i.imgur.com/7gScqq7m.jpg
       "@type": ImageObject
-      width: 640
-      height: 480
+      width: 320
+      height: 240
       encodingFormat: image/png
 - name: Eagle Rafting
   identifier: 33c4c538-704c-454a-9b5f-dcb70074a19a
