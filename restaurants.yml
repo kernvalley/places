@@ -32,24 +32,24 @@
     longitude: -118.419496
   openingHoursSpecification:
     - "@type": OpeningHoursSpecification
-      opens: '12:00'
-      closes: '19:00'
+      opens: '11:00'
+      closes: '21:00'
       dayOfWeek: Monday
     - "@type": OpeningHoursSpecification
-      opens: '12:00'
-      closes: '19:00'
+      opens: '11:00'
+      closes: '21:00'
       dayOfWeek: Thursday
     - "@type": OpeningHoursSpecification
-      opens: '12:00'
-      closes: '19:00'
+      opens: '11:00'
+      closes: '21:00'
       dayOfWeek: Friday
     - "@type": OpeningHoursSpecification
-      opens: '12:00'
-      closes: '19:00'
+      opens: '11:00'
+      closes: '21:00'
       dayOfWeek: Saturday
     - "@type": OpeningHoursSpecification
-      opens: '12:00'
-      closes: '19:00'
+      opens: '11:00'
+      closes: '21:00'
       dayOfWeek: Sunday
 - name: Kern River Brewing Company
   identifier: 102477d0-8539-4a8a-b9c7-3b9e5c2bdf51
@@ -392,10 +392,10 @@
       name: icon
       value: hamburger
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    - url: https://i.imgur.com/oLsjQPLm.jpg
       "@type": ImageObject
-      width: 640
-      height: 480
+      width: 320
+      height: 240
       encodingFormat: image/png
   address:
     "@type": PostalAddress

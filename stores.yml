@@ -94,6 +94,27 @@
     addressLocality: Mountain Mesa
     addressRegion: CA
     postalCode: 93240
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Sunday
+      opens: '09:00'
+      closes: '18:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Monday
+      opens: '09:00'
+      closes: '19:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Thursday
+      opens: '09:00'
+      closes: '19:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Friday
+      opens: '09:00'
+      closes: '19:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Saturday
+      opens: '08:00'
+      closes: '19:00'
 - name: Mountain Vista Market
   identifier: 8981b906-c07b-4bce-97ba-e4482ec5c688
   "@context": https://schema.org
@@ -117,6 +138,27 @@
       width: 640
       height: 480
       encodingFormat: image/png
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Sunday
+      opens: '07:00'
+      closes: '19:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Monday
+      opens: '07:00'
+      closes: '20:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Thursday
+      opens: '07:00'
+      closes: '20:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Friday
+      opens: '07:00'
+      closes: '20:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Saturday
+      opens: '07:00'
+      closes: '20:00'
 - name: Bodfish Market
   identifier: c100bb1c-b590-4cdc-b055-7b6236ffb820
   "@context": https://schema.org
