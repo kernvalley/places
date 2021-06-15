@@ -148,6 +148,14 @@
       opens: '07:00'
       closes: '20:00'
     - "@type": OpeningHoursSpecification
+      dayOfWeek: Tuesday
+      opens: '07:00'
+      closes: '20:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Wednesday
+      opens: '07:00'
+      closes: '20:00'
+    - "@type": OpeningHoursSpecification
       dayOfWeek: Thursday
       opens: '07:00'
       closes: '20:00'
