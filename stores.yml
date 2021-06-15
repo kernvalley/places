@@ -104,6 +104,14 @@
       opens: '09:00'
       closes: '19:00'
     - "@type": OpeningHoursSpecification
+      dayOfWeek: Tuesday
+      opens: '09:00'
+      closes: '19:00'
+    - "@type": OpeningHoursSpecification
+      dayOfWeek: Wednesday
+      opens: '09:00'
+      closes: '19:00'
+    - "@type": OpeningHoursSpecification
       dayOfWeek: Thursday
       opens: '09:00'
       closes: '19:00'
