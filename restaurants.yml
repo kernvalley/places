@@ -407,6 +407,38 @@
     "@type": GeoCoordinates
     latitude: 35.624876
     longitude: -118.475142
+  sameAs:
+    - https://www.facebook.com/178barandgrill
+    - https://instagram.com/178barandgrill/
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
+      dayOfWeek: Sunday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
+      dayOfWeek: Saturday
 - "@type": Restaurant
   "@context": https://schema.org
   identifier: dab0af52-2731-4ff0-815b-8b40b58e12ff
