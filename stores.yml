@@ -790,3 +790,27 @@
       opens: '10:00'
       closes: '17:00'
       dayOfWeek: Friday
+- "@type": ConvenienceStore
+  "@context": https://schema.org
+  identifier: 99724894-224e-4cc9-8eec-56a83be9dfe2
+  name: Riverkern General Store & Deli
+  telephone: "+1-760-376-6565"
+  additionalType:
+    - FoodEstablishment
+  image:
+    - "@type": ImageObject
+      url: https://i.imgur.com/odX5cC5m.jpg
+      width: 320
+      height: 240
+  address:
+    "@type": PostalAddress
+    streetAddress: 16130 Sierra Way
+    addressLocality: Kernville
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93238'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.787115
+    longitude: -118.446361
+    url: geo:35.787115,-118.446361

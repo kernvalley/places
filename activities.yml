@@ -187,10 +187,10 @@
     longitude: -118.44354102937147
     url: geo:35.78339520068344,-118.44354102937147
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    - url: https://i.imgur.com/N8RlgT7m.jpg
       "@type": ImageObject
-      width: 640
-      height: 480
+      width: 320
+      height: 240
       encodingFormat: image/png
 # - name: Whitewater Voyages
 #   identifier: 2260c0aa-687d-47eb-8a61-70e34a007508
