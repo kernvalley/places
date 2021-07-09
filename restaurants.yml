@@ -888,7 +888,7 @@
   identifier: 569af624-b5cb-4550-b6e4-6b2618fb8424
   name: Something Sweeter
   sameAs:
-    - https://facebook.com/SomethingSweetFrozenYogurt
+    - https://www.facebook.com/SomethingSweetFrozenYogurt
   image:
     - "@type": ImageObject
       url: https://i.imgur.com/tR1UOgkm.jpg
