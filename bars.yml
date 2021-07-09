@@ -4,6 +4,8 @@
   "@context": https://schema.org
   "@type": BarOrPub
   telephone: 760-376-2500
+  sameAs:
+    - https://www.facebook.com/kernvillesaloon/
   image:
     - url: https://i.imgur.com/sdOqiWUm.jpg
       "@type": ImageObject
