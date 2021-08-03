@@ -104,6 +104,10 @@
   "@type": LocalBusiness
   url: https://kernvillecowork.com/en
   description: At Kernville Cowork, we are working to create a community for collaboration, innovation, and continuous learning.
+  sameAs:
+    - https://www.facebook.com/workfromkernville
+    - https://twitter.com/KernvilleCowork
+    - https://instagram.com/kernvillecowork/
   image:
     - url: https://i.imgur.com/Gxhn9H4m.jpg
       "@type": ImageObject
