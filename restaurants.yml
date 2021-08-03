@@ -931,3 +931,62 @@
       opens: '09:00'
       closes: '20:00'
       dayOfWeek: Saturday
+- "@type": BarOrPub
+  "@context": https://schema.org
+  identifier: c3f6d2b4-febd-4959-9a83-ff2f8dc98a53
+  name: FUBAR-B-Q In The Oaks
+  url: https://www.fubar-b-qintheoaks.com/
+  telephone: "+1-760-812-1437"
+  email: fubarbq@outlook.com
+  description: FUBAR-B-Q IN THE OAKS has a flavor filled menu consisting of real BBQ. We utilize the freshest ingredients to bring homemade dishes straight to your table or your car. Come dine with us today.
+  additionalType:
+   - Restaurant
+  sameAs:
+    - https://www.facebook.com/Fubarbq-in-the-Oaks-112522427269123
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 3700 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.594944
+    longitude: -118.491984
+    url: geo:35.594944,-118.491984
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '12:00'
+      closes: '23:00'
+      dayOfWeek: Sunday
+    - "@type": OpeningHoursSpecification
+      opens: '12:00'
+      closes: '23:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '12:00'
+      closes: '23:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '12:00'
+      closes: '23:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '12:00'
+      closes: '23:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '12:00'
+      closes: '02:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '12:00'
+      closes: '02:00'
+      dayOfWeek: Saturday
