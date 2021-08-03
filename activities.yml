@@ -510,3 +510,31 @@
       width: 640
       height: 480
       encodingFormat: image/png
+- "@type": EducationalOrganization
+  "@context": https://schema.org
+  identifier: 29bd5217-487c-4c07-bef9-b3ce28c76c1c
+  name: Fire Wolf Self Reliance
+  url: https://firewolfselfreliance.com
+  telephone: '+1-661-448-3508'
+  email: info@firewolfselfreliance.com
+  description: Wilderness Survival School
+  sameAs:
+    - https://www.facebook.com/Fire-Wolf-self-reliance
+    - https://instagram.com/fire_wolf_self_reliance
+  image:
+    - "@type": ImageObject
+      url: https://i.imgur.com/XWTzaat.jpg
+      width: 400
+      height: 400
+  address:
+    "@type": PostalAddress
+    streetAddress: 1818 Thompson Court
+    addressLocality: Lake Isabella
+    addressRegion: California
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.6073216715
+    longitude: -118.4883994757
+    url: geo:35.6073216715,-118.4883994757
