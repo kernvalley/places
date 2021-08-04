@@ -103,6 +103,8 @@
   "@context": https://schema.org
   "@type": LocalBusiness
   url: https://kernvillecowork.com/en
+  telephone: '+1-760-549-0423'
+  email: justin@kernvillecowork.com
   description: At Kernville Cowork, we are working to create a community for collaboration, innovation, and continuous learning.
   sameAs:
     - https://www.facebook.com/workfromkernville
