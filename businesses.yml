@@ -18,7 +18,7 @@
   location:
     address:
       "@type": PostalAddress
-      streetAddress: 6416 Lake Isabella Blvd.
+      streetAddress: 6047 Lake Isabella Blvd. C
       postOfficeBoxNumber: '3073'
       addressLocality: Lake Isabella
       addressRegion: CA
@@ -26,9 +26,30 @@
       postalCode: '93240'
     geo:
       "@type": GeoCoordinates
-      latitude: 35.628985
-      longitude: -118.472589
-      url: geo:35.628985,-118.472589
+      latitude: 35.62381451
+      longitude: -118.47656786
+      url: geo:35.62381451,-118.47656786
+    openingHoursSpecification:
+      - "@type": OpeningHoursSpecification
+        opens: '08:00'
+        closes: '16:00'
+        dayOfWeek: Monday
+      - "@type": OpeningHoursSpecification
+        opens: '08:00'
+        closes: '16:00'
+        dayOfWeek: Tuesday
+      - "@type": OpeningHoursSpecification
+        opens: '08:00'
+        closes: '16:00'
+        dayOfWeek: Wednesday
+      - "@type": OpeningHoursSpecification
+        opens: '08:00'
+        closes: '16:00'
+        dayOfWeek: Thursday
+      - "@type": OpeningHoursSpecification
+        opens: '08:00'
+        closes: '16:00'
+        dayOfWeek: Friday
 - identifier: f8fe6bc9-1ed1-4ce7-9271-1ce73d81192b
   '@context': https://schema.org
   '@type': LocalBusiness
@@ -126,6 +147,27 @@
     "@type": GeoCoordinates
     latitude: 35.75548932
     longitude: -118.42398586
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '16:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '16:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '16:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '16:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '16:00'
+      dayOfWeek: Friday
 - name: Designs By Erin
   identifier: db35e5f0-7e50-4482-a137-64d240198cfc
   "@context": https://schema.org
@@ -1065,7 +1107,7 @@
       encodingFormat: image/png
   address:
     "@type": PostalAddress
-    streetAddress: 6047 Lake Isabella Blvd.
+    streetAddress: 6047 Lake Isabella Blvd. A
     addressLocality: Lake Isabella
     addressRegion: CA
     addressCountry: US
