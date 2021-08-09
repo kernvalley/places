@@ -241,6 +241,9 @@
   "@context": https://schema.org
   "@type": Cemetery
   telephone: 760-376-2189
+  url: https://krvcd.specialdistrict.org/
+  sameAs:
+    - https://www.yelp.com/biz/kern-river-valley-cemetery-district-wofford-heights
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
@@ -250,6 +253,7 @@
   address:
     "@type": PostalAddress
     streetAddress: 8441 Burlando Rd.
+    postOfficeBoxNumber: 215
     addressLocality: Wofford Heights
     addressRegion: CA
     postalCode: 93285

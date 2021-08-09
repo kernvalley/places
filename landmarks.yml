@@ -224,3 +224,32 @@
     latitude: 35.977508
     longitude: -118.594112
     url: geo:35.977508,-118.594112
+- "@type": Cemetery
+  "@context": https://schema.org
+  identifier: '0628c8cf-64ef-4b76-b72e-295f93950847'
+  name: Old Kernville Historic Cemetery
+  url: https://krvcd.specialdistrict.org/
+  telephone: 760-376-2189
+  description: Dedicated to the memory of Quartzburg and Kernville Pioneers
+  additionalType:
+    - LandmarksOrHistoricalBuildings
+  sameAs:
+    - https://www.yelp.com/biz/the-old-kernville-historic-cemetery-wofford-heights
+  image:
+    - "@type": ImageObject
+      url: https://i.imgur.com/zt1AAVIm.jpg
+      width: 320
+      height: 240
+  address:
+    "@type": PostalAddress
+    streetAddress: Old Cemetery Rd.
+    postOfficeBoxNumber: 215
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93285'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.72011507
+    longitude: -118.4361577
+    url: geo:35.72011507,-118.43615770

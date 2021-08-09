@@ -71,7 +71,7 @@
     - https://www.yelp.com/biz/ylsm8GHDjgBYtYVpsydzzQ
     - https://www.tripadvisor.com/618761
   image:
-    - url: https://i.imgur.com/R1Hij4im.jpg
+    - url: https://i.imgur.com/VWqseaCm.jpg
       "@type": ImageObject
       width: 320
       height: 240
@@ -172,10 +172,10 @@
       value: taco
   telephone: 760-376-3246
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    - url: https://i.imgur.com/2Nc7asdm.jpg
       "@type": ImageObject
-      width: 640
-      height: 480
+      width: 320
+      height: 240
       encodingFormat: image/png
   address:
     '@type': PostalAddress
@@ -187,6 +187,35 @@
     '@type': GeoCoordinates
     longitude: -118.424675
     latitude: 35.753481
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '19:30'
+      dayOfWeek: Sunday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:30'
+      dayOfWeek: Saturday
 - name: Pizza Barn
   identifier: 8a379678-811d-4590-92a1-0ca824b62751
   "@context": https://schema.org
