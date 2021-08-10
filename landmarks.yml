@@ -253,7 +253,7 @@
     latitude: 35.72011507
     longitude: -118.4361577
     url: geo:35.72011507,-118.43615770
-- "@type": Cemetary
+- "@type": Cemetery
   "@context": https://schema.org
   identifier: ead75abb-157d-46dd-a4e6-ca8fd1c1f32d
   name: Cottage Grove Cemetery
