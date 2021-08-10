@@ -253,3 +253,28 @@
     latitude: 35.72011507
     longitude: -118.4361577
     url: geo:35.72011507,-118.43615770
+---
+- "@type": Cemetary
+  "@context": https://schema.org
+  identifier: ead75abb-157d-46dd-a4e6-ca8fd1c1f32d
+  name: Cottage Grove Cemetery
+  description: Est. by Thomas Hooper Smith, 1862
+  additionalType:
+    - LandmarksOrHistoricalBuildings
+  image:
+    - "@type": ImageObject
+      url: https://i.imgur.com/nHBHrvhm.jpg
+      width: 320
+      height: 240
+  address:
+    "@type": PostalAddress
+    streetAddress: 25999 Isabella Walker Pass Rd
+    addressLocality: Onyx
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93255'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.696085
+    longitude: -118.211206
+    url: geo:35.696085,-118.211206
