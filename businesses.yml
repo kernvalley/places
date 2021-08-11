@@ -240,6 +240,9 @@
         opens: '09:00'
         closes: '15:00'
         dayOfWeek: Friday
+      - "@type": OpeningHoursSpecification
+        opens: '09:00'
+        closes: '15:00'
         dayOfWeek: Saturday
 - name: Kern River Valley Cemetery
   identifier: 328b9fa5-9ec6-465d-8221-2f5071cf6b54
