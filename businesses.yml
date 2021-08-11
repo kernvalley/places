@@ -118,7 +118,19 @@
       - "@type": OpeningHoursSpecification
         opens: '09:00'
         closes: '16:00'
+        dayOfWeek: Wednesday
+      - "@type": OpeningHoursSpecification
+        opens: '09:00'
+        closes: '16:00'
+        dayOfWeek: Thursday
+      - "@type": OpeningHoursSpecification
+        opens: '09:00'
+        closes: '16:00'
         dayOfWeek: Friday
+      - "@type": OpeningHoursSpecification
+        opens: '09:00'
+        closes: '16:00'
+        dayOfWeek: Saturday
 - name: Kernville Cowork
   identifier: 882ff5ef-521d-4da6-9a50-eb837077e5b9
   "@context": https://schema.org
@@ -227,10 +239,6 @@
       - "@type": OpeningHoursSpecification
         opens: '09:00'
         closes: '15:00'
-        dayOfWeek: Tuesday
-      - "@type": OpeningHoursSpecification
-        opens: '09:00'
-        closes: '15:00'
         dayOfWeek: Wednesday
       - "@type": OpeningHoursSpecification
         opens: '09:00'
@@ -240,10 +248,6 @@
         opens: '09:00'
         closes: '15:00'
         dayOfWeek: Friday
-      - "@type": OpeningHoursSpecification
-        opens: '09:00'
-        closes: '15:00'
-        dayOfWeek: Saturday
 - name: Kern River Valley Cemetery
   identifier: 328b9fa5-9ec6-465d-8221-2f5071cf6b54
   "@context": https://schema.org
