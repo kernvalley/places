@@ -337,3 +337,30 @@
     "@type": GeoCoordinates
     latitude: 35.590649
     longitude: -118.496868
+- "@type": NGO
+  "@context": https://schema.org
+  identifier: f7846790-f062-406b-a7ac-01ae0835d0f7
+  name: Kern Valley Exchange Club
+  telephone: "+1-760-379-3667"
+  description: Kern Valley Exchange Club The Kern Valley Exchange Club was chartered on December 12th, 1973 in Lake Isabella, California. Meets every Thursday at noon at Paradise Cove Lodge.
+  sameAs:
+    - https://www.facebook.com/KernValleyExchangeClub
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  location:
+    address:
+      "@type": PostalAddress
+      postOfficeBoxNumber: '508'
+      addressLocality: Lake Isabella
+      addressRegion: CA
+      addressCountry: US
+      postalCode: '93240'
+    geo:
+      "@type": GeoCoordinates
+      latitude: 35.664676
+      longitude: -118.450685
+      url: geo:35.66467600,-118.45068500
