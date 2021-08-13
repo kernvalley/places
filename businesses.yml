@@ -1228,3 +1228,30 @@
     addressRegion: CA
     addressCountry: US
     postalCode: '93238'
+- "@type": NGO
+  "@context": https://schema.org
+  identifier: 060cb84e-d50f-4888-9b42-59cb7ee9a6cf
+  name: Kern River Rodeo Association
+  url: https://kernriverrodeo.com/
+  email: kernriverrodeo@gmail.com
+  sameAs:
+    - https://www.facebook.com/Kern-River-Rodeo-Association-100179178748660/
+  image:
+    - "@type": ImageObject
+      url: https://i.imgur.com/hXf4mbgm.jpg
+      width: 320
+      height: 210
+  location:
+    address:
+      "@type": PostalAddress
+      streetAddress:
+      postOfficeBoxNumber: '1712'
+      addressLocality: Kernville
+      addressRegion: CA
+      addressCountry: US
+      postalCode: '93238'
+    geo:
+      "@type": GeoCoordinates
+      latitude: 35.664676
+      longitude: -118.450685
+      url: geo:35.66467600,-118.45068500
