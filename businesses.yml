@@ -1255,3 +1255,35 @@
       latitude: 35.664676
       longitude: -118.450685
       url: geo:35.66467600,-118.45068500
+- "@type": NGO
+  "@context": https://schema.org
+  identifier: 8c418dcb-b15a-4d33-91b9-6162ae323184
+  name: Kern River Valley Art Association
+  url: https://krvaa.org/
+  telephone: "+1-760-428-2038"
+  email: info@krvaa.org
+  description: As a 501(c)(3) nonprofit and all volunteer organization, KRVAA’s mission
+    is to provide opportunities, resources, and exhibition venues for the Kern River
+    Valley artists, with an emphasis on art education, and emerging artists.
+  sameAs:
+    - https://www.facebook.com/KernRiverValleyArtAssociation
+    - https://instagram.com/krvartassociation/
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  location:
+    address:
+      "@type": PostalAddress
+      postOfficeBoxNumber: '588'
+      addressLocality: Kernville
+      addressRegion: CA
+      addressCountry: US
+      postalCode: '93238'
+    geo:
+      "@type": GeoCoordinates
+      latitude: 35.664676
+      longitude: -118.450685
+      url: geo:35.66467600,-118.45068500
