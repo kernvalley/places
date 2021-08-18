@@ -1270,7 +1270,6 @@
   location:
     address:
       "@type": PostalAddress
-      streetAddress:
       postOfficeBoxNumber: '1712'
       addressLocality: Kernville
       addressRegion: CA
