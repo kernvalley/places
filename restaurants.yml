@@ -739,6 +739,7 @@
   identifier: 0a9f9bbf-43e3-4cd8-a2bb-fb3af7a0063e
   "@context": https://schema.org
   "@type": Restaurant
+  telephone: "+1-760-378-2923"
   sameAs:
     - https://www.facebook.com/Sierra-Vista-Restaurant-199494410074990
   servesCuisine:
