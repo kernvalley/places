@@ -6,7 +6,13 @@
   "@context": https://schema.org
   "@type": Hospital
   telephone: 760-379-2681
+  email: question@kvhd.org
   url: https://www.kvhd.org
+  sameAs:
+    - https://www.youtube.com/channel/UCixrV4-Rgy-gmr_frlb3_Bg
+    - https://twitter.com/_kvhd
+    - https://www.facebook.com/Kern-Valley-Health-Care-District-272972479424343/
+    - https://www.pinterest.com/kernvalleyhealthcaredistrict
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
