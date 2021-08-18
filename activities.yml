@@ -124,29 +124,66 @@
       width: 640
       height: 480
       encodingFormat: image/jpeg
-- name: Silver City Ghost Town
-  identifier: 20ed6c2f-6c5e-4f9c-8ff5-9aa00e26b0c8
+- "@type": Museum
   "@context": https://schema.org
-  "@type": Museum
-  telephone: 760-379-5146
-  geo:
-    "@type": GeoCoordinates
-    latitude: 35.59759992355346
-    longitude: -118.49125990103335
-    url: geo:35.59759992355346,-118.49125990103335
-  address:
-    "@type": PostalAddress
-    streetAddress: 3829 Lake Isabella Blvd.
-    addressLocality: Bodfish
-    addressRegion: CA
-    postalCode: 93205
-    url: https://goo.gl/maps/4jG9Eij8QjJxSAmP8
+  identifier: 20ed6c2f-6c5e-4f9c-8ff5-9aa00e26b0c8
+  name: Silver City Ghost Town
+  #url: ''
+  telephone: "+1-760-379-5146"
+  email: ghosttown@verizon.net
+  description: Historic Silver City Ghost Town in Bodfish, California
+  additionalType:
+    - TouristAttraction
+  sameAs:
+    - https://www.facebook.com/silvercityghosttown
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
-      "@type": ImageObject
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
       width: 640
       height: 480
       encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 3829 Lake Isabella Blvd
+    postOfficeBoxNumber:
+    addressLocality: Bodfish
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93205'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.59759993
+    longitude: -118.49125991
+    url: geo:35.59759993,-118.49125991
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '16:00'
+      dayOfWeek: Sunday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '16:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '16:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '16:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '16:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '17:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '16:00'
+      dayOfWeek: Saturday
 - name: Kern Valley Museum
   identifier: 3c2f762c-23f5-4579-826e-85d51cad0249
   "@context": https://schema.org
