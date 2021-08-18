@@ -735,10 +735,12 @@
       width: 640
       height: 480
       encodingFormat: image/png
-- name: Sierra Vista Restaurant
+- name: "Miller's Sierra Vista Restaurant"
   identifier: 0a9f9bbf-43e3-4cd8-a2bb-fb3af7a0063e
   "@context": https://schema.org
   "@type": Restaurant
+  sameAs:
+    - https://www.facebook.com/Sierra-Vista-Restaurant-199494410074990
   servesCuisine:
     - Steak
     - Seafood
@@ -755,10 +757,10 @@
     longitude: -118.33989220902816
     url: geo:35.65551232922759,-118.33989220902816
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    - url: https://i.imgur.com/NRmf9BZm.jpg
       "@type": ImageObject
-      width: 640
-      height: 480
+      width: 320
+      height: 240
       encodingFormat: image/png
 - name: Greenhorn Bar and Grill
   identifier: 8f049ea2-7dd7-41f4-b213-61fc9ebbaf96
