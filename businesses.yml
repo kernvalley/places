@@ -185,7 +185,12 @@
   "@context": https://schema.org
   "@type": Florist
   telephone: 760-376-1409
+  email: hanleyerin79@yahoo.com
   url: https://designsbyerin.org
+  sameAs:
+    #- https://www.facebook.com/DesignsByErin13
+    - https://instagram.com/hanleyerin
+    - http://www.yelp.com/biz/kern-river-valley-florist-designs-by-erin-kernville
   image:
     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
       "@type": ImageObject
@@ -194,7 +199,7 @@
       encodingFormat: image/png
   address:
     "@type": PostalAddress
-    streetAddress: 11006 Kernville Rd.
+    streetAddress: "11006 Kernville Rd. #2"
     addressLocality: Kernville
     addressRegion: CA
     postalCode: 93238
@@ -202,6 +207,27 @@
     "@type": GeoCoordinates
     longitude: -118.425104
     latitude: 35.754042
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '10:30'
+      closes: '16:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '10:30'
+      closes: '16:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '10:30'
+      closes: '16:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '10:30'
+      closes: '16:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '10:30'
+      closes: '13:00'
+      dayOfWeek: Saturday
 - name: Kern River Valley Chamber of Commerce
   identifier: e1cba0b5-2d6e-4e9a-99d4-db4d48b1396b
   "@context": https://schema.org
