@@ -272,6 +272,8 @@
   "@type": Campground
   url: https://www.frandy.net
   telephone: 888-372-6399
+  email: camping@frandy.net
+  description: Frandy is a complete campground welcoming families and groups alike in Kernville, CA o enjoy some California High Desert camping.
   amenityFeature:
     - "@type": LocationFeatureSpecification
       name: electric
