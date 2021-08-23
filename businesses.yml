@@ -1312,3 +1312,29 @@
       latitude: 35.664676
       longitude: -118.450685
       url: geo:35.66467600,-118.45068500
+- "@type": Organization
+  "@context": https://schema.org
+  identifier: 0eee5161-48ad-432a-b68f-5c92e96e9cd2
+  name: Kern Valley Search and Rescue
+  # url: 'http://www.kvsar.org/'
+  telephone: "+1-760-417-0450"
+  email: kernbaskin@gmail.com
+  description: Kern Valley Search and Rescue is the original Search and Rescue team in Kern County. The team serves the Kern River Valley and surrounding wilderness.
+  nonprofitStatus: Nonprofit501c3
+  additionalType: []
+  sameAs:
+  - https://www.facebook.com/KernValleySearchAndRescue
+  - https://twitter.com/kvsar
+  image:
+  - "@type": ImageObject
+    url: https://i.imgur.com/SS321Afm.jpg
+    width: 320
+    height: 210
+  location:
+    address:
+      "@type": PostalAddress
+      postOfficeBoxNumber: '1287'
+      addressLocality: Lake Isabella
+      addressRegion: CA
+      addressCountry: US
+      postalCode: '93240'
