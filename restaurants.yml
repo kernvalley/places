@@ -735,6 +735,19 @@
       width: 640
       height: 480
       encodingFormat: image/png
+   openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '07:00'
+      closes: '15:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '07:00'
+      closes: '15:00'
+      dayOfWeek: Saturday
+    - "@type": OpeningHoursSpecification
+      opens: '07:00'
+      closes: '15:00'
+      dayOfWeek: Sunday
 - name: "Miller's Sierra Vista Restaurant"
   identifier: 0a9f9bbf-43e3-4cd8-a2bb-fb3af7a0063e
   "@context": https://schema.org
