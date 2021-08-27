@@ -735,7 +735,7 @@
       width: 640
       height: 480
       encodingFormat: image/png
-   openingHoursSpecification:
+  openingHoursSpecification:
     - "@type": OpeningHoursSpecification
       opens: '07:00'
       closes: '15:00'
