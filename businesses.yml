@@ -115,10 +115,10 @@
         opens: '09:00'
         closes: '16:00'
         dayOfWeek: Tuesday
-      - "@type": OpeningHoursSpecification
-        opens: '09:00'
-        closes: '16:00'
-        dayOfWeek: Wednesday
+#      - "@type": OpeningHoursSpecification
+#         opens: '09:00'
+#         closes: '16:00'
+#         dayOfWeek: Wednesday
       - "@type": OpeningHoursSpecification
         opens: '09:00'
         closes: '16:00'
@@ -365,27 +365,27 @@
     "@type": GeoCoordinates
     latitude: 35.616235
     longitude: -118.477901
-- name: Kernville Automotive
-  identifier: 11123c87-b644-4127-9253-b6bd8a13621d
-  "@context": https://schema.org
-  "@type": AutoRepair
-  telephone: 760-376-1069
-  image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
-      "@type": ImageObject
-      width: 640
-      height: 480
-      encodingFormat: image/png
-  address:
-    "@type": PostalAddress
-    streetAddress: 40 Tobias St.
-    addressLocality: Kernville
-    addressRegion: CA
-    postalCode: 93238
-  geo:
-    "@type": GeoCoordinates
-    latitude: 35.755948
-    longitude: -118.425078
+# - name: Kernville Automotive
+#   identifier: 11123c87-b644-4127-9253-b6bd8a13621d
+#   "@context": https://schema.org
+#   "@type": AutoRepair
+#   telephone: 760-376-1069
+#   image:
+#     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+#       "@type": ImageObject
+#       width: 640
+#       height: 480
+#       encodingFormat: image/png
+#   address:
+#     "@type": PostalAddress
+#     streetAddress: 40 Tobias St.
+#     addressLocality: Kernville
+#     addressRegion: CA
+#     postalCode: 93238
+#   geo:
+#     "@type": GeoCoordinates
+#     latitude: 35.755948
+#     longitude: -118.425078
 - "@type": VeterinaryCare
   "@context": https://schema.org
   identifier: 3c34a825-9f16-4979-ba82-7a8cc942dd31
