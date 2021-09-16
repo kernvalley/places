@@ -911,61 +911,61 @@
       opens: '09:00'
       closes: '17:00'
       dayOfWeek: Saturday
-- "@type": JewelryStore
-  "@context": https://schema.org
-  identifier: 1903c263-cd8c-41f2-ad9c-f80851a56f44
-  name: Starhorse Gallery
-  telephone: 818-800-2253
-  description: Currently available by appointment only.
-  additionalType:
-    - ArtGallery
-  image:
-    - "@type": ImageObject
-      url: https://cdn.kernvalley.us/img/raster/missing-image.png
-      width: 640
-      height: 480
-      encodingFormat: image/png
-  address:
-    "@type": PostalAddress
-    streetAddress: 27 Big Blue Rd
-    addressLocality: Kernville
-    addressRegion: CA
-    addressCountry: US
-    postalCode: '93238'
-  geo:
-    "@type": GeoCoordinates
-    latitude: 35.755037
-    longitude: -118.426103
-    url: geo:35.755037,-118.426103
-  openingHoursSpecification:
-    - "@type": OpeningHoursSpecification
-      opens: '09:00'
-      closes: '17:00'
-      dayOfWeek: Sunday
-    - "@type": OpeningHoursSpecification
-      opens: '09:00'
-      closes: '17:00'
-      dayOfWeek: Monday
-    - "@type": OpeningHoursSpecification
-      opens: '09:00'
-      closes: '17:00'
-      dayOfWeek: Tuesday
-    - "@type": OpeningHoursSpecification
-      opens: '09:00'
-      closes: '17:00'
-      dayOfWeek: Wednesday
-    - "@type": OpeningHoursSpecification
-      opens: '09:00'
-      closes: '17:00'
-      dayOfWeek: Thursday
-    - "@type": OpeningHoursSpecification
-      opens: '09:00'
-      closes: '17:00'
-      dayOfWeek: Friday
-    - "@type": OpeningHoursSpecification
-      opens: '09:00'
-      closes: '17:00'
-      dayOfWeek: Saturday
+# - "@type": JewelryStore
+#   "@context": https://schema.org
+#   identifier: 1903c263-cd8c-41f2-ad9c-f80851a56f44
+#   name: Starhorse Gallery
+#   telephone: 818-800-2253
+#   description: Currently available by appointment only.
+#   additionalType:
+#     - ArtGallery
+#   image:
+#     - "@type": ImageObject
+#       url: https://cdn.kernvalley.us/img/raster/missing-image.png
+#       width: 640
+#       height: 480
+#       encodingFormat: image/png
+#   address:
+#     "@type": PostalAddress
+#     streetAddress: 27 Big Blue Rd
+#     addressLocality: Kernville
+#     addressRegion: CA
+#     addressCountry: US
+#     postalCode: '93238'
+#   geo:
+#     "@type": GeoCoordinates
+#     latitude: 35.755037
+#     longitude: -118.426103
+#     url: geo:35.755037,-118.426103
+#   openingHoursSpecification:
+#     - "@type": OpeningHoursSpecification
+#       opens: '09:00'
+#       closes: '17:00'
+#       dayOfWeek: Sunday
+#     - "@type": OpeningHoursSpecification
+#       opens: '09:00'
+#       closes: '17:00'
+#       dayOfWeek: Monday
+#     - "@type": OpeningHoursSpecification
+#       opens: '09:00'
+#       closes: '17:00'
+#       dayOfWeek: Tuesday
+#     - "@type": OpeningHoursSpecification
+#       opens: '09:00'
+#       closes: '17:00'
+#       dayOfWeek: Wednesday
+#     - "@type": OpeningHoursSpecification
+#       opens: '09:00'
+#       closes: '17:00'
+#       dayOfWeek: Thursday
+#     - "@type": OpeningHoursSpecification
+#       opens: '09:00'
+#       closes: '17:00'
+#       dayOfWeek: Friday
+#     - "@type": OpeningHoursSpecification
+#       opens: '09:00'
+#       closes: '17:00'
+#       dayOfWeek: Saturday
 - "@type": SelfStorage
   "@context": https://schema.org
   identifier: db05033e-d39e-40f2-b1a3-e9cff5279ebb
