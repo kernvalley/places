@@ -953,24 +953,24 @@
     url: geo:35.75568030,-118.42379480
   openingHoursSpecification:
     - "@type": OpeningHoursSpecification
-      opens: '11:00'
+      opens: '09:00'
       closes: '20:00'
-      dayOfWeek: Monday
+      dayOfWeek: Sunday
     - "@type": OpeningHoursSpecification
-      opens: '11:00'
+      opens: '12:00'
       closes: '20:00'
       dayOfWeek: Tuesday
     - "@type": OpeningHoursSpecification
-      opens: '11:00'
+      opens: '12:00'
       closes: '20:00'
       dayOfWeek: Wednesday
     - "@type": OpeningHoursSpecification
-      opens: '11:00'
+      opens: '12:00'
       closes: '20:00'
       dayOfWeek: Thursday
     - "@type": OpeningHoursSpecification
-      opens: '09:00'
-      closes: '21:00'
+      opens: '12:00'
+      closes: '20:00'
       dayOfWeek: Friday
     - "@type": OpeningHoursSpecification
       opens: '09:00'
