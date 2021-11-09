@@ -1,3 +1,4 @@
+---
 - name: Sierra Gateway Market
   identifier: f7e94bcf-4d3c-4e6b-a6d8-bc5a569f282f
   "@context": https://schema.org
@@ -424,7 +425,7 @@
   sameAs:
     - https://www.facebook.com/dollargeneral/
     - https://twitter.com/DollarGeneral
-    - https://www.instagram.com/dollargeneral/?hl=en
+    - https://www.instagram.com/dollargeneral/
     - https://www.youtube.com/user/DOLLARGENERAL
     - https://www.linkedin.com/company/dollar-general/
   address:
@@ -481,7 +482,7 @@
   sameAs:
     - https://www.facebook.com/dollargeneral/
     - https://twitter.com/DollarGeneral
-    - https://www.instagram.com/dollargeneral/?hl=en
+    - https://www.instagram.com/dollargeneral/
     - https://www.youtube.com/user/DOLLARGENERAL
     - https://www.linkedin.com/company/dollar-general/
   address:
@@ -843,3 +844,58 @@
     latitude: 35.61229
     longitude: -118.481562
     url: geo:35.612290,-118.481562
+- "@type": Store
+  "@context": https://schema.org
+  identifier: '02118de4-8bce-48e1-8633-b82d54748102'
+  name: KV Smokes
+  telephone: "+1-760-812-1278"
+  email: suhirabdullah300@yahoo.com
+  sameAs:
+    - https://www.facebook.com/KVSMOKES93240
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 5105 Lake Isabella Blvd. STE C
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.61077
+    longitude: -118.482669
+    url: geo:35.610770,-118.482669
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Sunday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '08:00'
+      closes: '22:00'
+      dayOfWeek: Saturday
