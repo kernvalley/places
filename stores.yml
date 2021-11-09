@@ -850,7 +850,7 @@
   telephone: "+1-760-812-1278"
   email: suhirabdullah300@yahoo.com
   sameAs:
-  	- https://www.facebook.com/KVSMOKES93240
+    - https://www.facebook.com/KVSMOKES93240
   image:
     - "@type": ImageObject
       url: https://cdn.kernvalley.us/img/raster/missing-image.png
@@ -860,7 +860,6 @@
     address:
       "@type": PostalAddress
       streetAddress: 5105 Lake Isabella Blvd. STE C
-      postOfficeBoxNumber:
       addressLocality: Lake Isabella
       addressRegion: CA
       addressCountry: US
