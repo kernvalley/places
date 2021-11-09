@@ -482,7 +482,7 @@
   sameAs:
     - https://www.facebook.com/dollargeneral/
     - https://twitter.com/DollarGeneral
-    - https://www.instagram.com/dollargeneral/?hl=en
+    - https://www.instagram.com/dollargeneral/
     - https://www.youtube.com/user/DOLLARGENERAL
     - https://www.linkedin.com/company/dollar-general/
   address:
@@ -858,13 +858,13 @@
       width: 640
       height: 480
       encodingFormat: image/png
-    address:
-      "@type": PostalAddress
-      streetAddress: 5105 Lake Isabella Blvd. STE C
-      addressLocality: Lake Isabella
-      addressRegion: CA
-      addressCountry: US
-      postalCode: '93240'
+  address:
+    "@type": PostalAddress
+    streetAddress: 5105 Lake Isabella Blvd. STE C
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
   geo:
     "@type": GeoCoordinates
     latitude: 35.61077
