@@ -899,3 +899,50 @@
       opens: '08:00'
       closes: '22:00'
       dayOfWeek: Saturday
+- "@type": CafeOrCoffeeShop
+  "@context": https://schema.org
+  identifier: 6be09b08-b641-41d1-99ed-6a69dc1830f4
+  name: Old Isabella Coffee Company
+  url: https://www.clover.com/online-ordering/old-isabella-coffee-co-lake-isabella/
+  telephone: "+1-760-223-0526"
+  sameAs:
+    - https://www.instagram.com/oldisabellacoffeecompany/
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 5104 Lake Isabella Blvd. Suite D
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.610613
+    longitude: -118.482119
+    url: geo:35.610613,-118.482119
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '07:00'
+      closes: '14:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '07:00'
+      closes: '14:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '07:00'
+      closes: '14:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '07:00'
+      closes: '14:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '07:00'
+      closes: '14:00'
+      dayOfWeek: Friday
