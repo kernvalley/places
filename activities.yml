@@ -206,6 +206,8 @@
     "@type": GeoCoordinates
     latitude: 35.755170
     longitude: -118.426782
+  sameAs:
+    - https://www.facebook.com/kernvalleymuseum/
 # - name: SoCal Rafting
 #   identifier: 01332d5b-570a-4915-b524-40d16ce8bb5b
 #   "@context": https://schema.org
