@@ -24,36 +24,35 @@
     "@type": GeoCoordinates
     longitude: -118.424971
     latitude: 35.755727
-
-openingHoursSpecification:
-  - "@type": OpeningHoursSpecification
-    opens: '09:00'
-    closes: '22:00'
-    dayOfWeek: Sunday
-  - "@type": OpeningHoursSpecification
-    opens: '11:00'
-    closes: '20:00'
-    dayOfWeek: Monday
-  - "@type": OpeningHoursSpecification
-    opens: '11:00'
-    closes: '20:00'
-    dayOfWeek: Tuesday
-  - "@type": OpeningHoursSpecification
-    opens: '11:00'
-    closes: '20:00'
-    dayOfWeek: Wednesday
-  - "@type": OpeningHoursSpecification
-    opens: '11:00'
-    closes: '20:00'
-    dayOfWeek: Thursday
-  - "@type": OpeningHoursSpecification
-    opens: '09:00'
-    closes: '02:00'
-    dayOfWeek: Friday
-  - "@type": OpeningHoursSpecification
-    opens: '09:00'
-    closes: '02:00'
-    dayOfWeek: Saturday
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '22:00'
+      dayOfWeek: Sunday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '02:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '02:00'
+      dayOfWeek: Saturday
 - name: The Hut
   identifier: 730a9491-a8bb-4ffb-9232-ed641bfb8afd
   "@context": https://schema.org
