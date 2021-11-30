@@ -924,7 +924,6 @@
   identifier: bc9f8d22-9e5a-4a8e-984c-49bdfd08e661
   "@context": https://schema.org
   "@type": FastFoodRestaurant
-  name: Little Caesars
   url: https://littlecaesars.com/en-us/store/8279
   telephone: "+1-760-379-2345"
   sameAs:
