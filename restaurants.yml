@@ -867,48 +867,173 @@
   identifier: 34d6a0a1-1d0f-4f71-bac8-17e883501d11
   "@context": https://schema.org
   "@type": FastFoodRestaurant
-  telephone: 760-379-4681
+  url: https://restaurants.subway.com/united-states/ca/lake-isabella/6321-lake-isabella-blvd
+  telephone: "+1-760-379-4681"
+  sameAs:
+    - https://www.facebook.com/subway
+    - https://twitter.com/subway
+    - https://www.instagram.com/subway/
+  image:
+    - "@type": ImageObject
+      url: https://i.imgur.com/CuGnrvom.jpg
+      width: 320
+      height: 240
   address:
     "@type": PostalAddress
-    streetAddress: 6321 Lake Isabella Blvd. A
+    streetAddress: '6321 Lake Isabella Blvd #A'
+    postOfficeBoxNumber:
     addressLocality: Lake Isabella
     addressRegion: CA
-    postalCode: 93240
-    url: https://goo.gl/maps/7yX4sg1u5ZnS7ktw6
+    addressCountry: US
+    postalCode: '93240'
   geo:
     "@type": GeoCoordinates
-    latitude: 35.627788438326036
-    longitude: -118.47444447672416
-    url: geo:35.627788438326036,-118.47444447672416
-  image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
-      "@type": ImageObject
-      width: 640
-      height: 480
-      encodingFormat: image/png
+    latitude: 35.62784353
+    longitude: -118.47444892
+    url: geo:35.62784353,-118.47444892
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '21:00'
+      dayOfWeek: Sunday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '21:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '21:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '21:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '21:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '21:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '09:00'
+      closes: '21:00'
+      dayOfWeek: Saturday
 - name: Little Caesars Pizza
   identifier: bc9f8d22-9e5a-4a8e-984c-49bdfd08e661
   "@context": https://schema.org
   "@type": FastFoodRestaurant
-  telephone: 760-379-2345
+  url: https://littlecaesars.com/en-us/store/8279
+  telephone: "+1-760-379-2345"
+  sameAs:
+    - https://www.facebook.com/LittleCaesars
+    - https://twitter.com/littlecaesars
+    - https://www.instagram.com/LittleCaesars
+    - https://www.linkedin.com/company/little-caesars
+  image:
+    - "@type": ImageObject
+      url: https://i.imgur.com/hTGamj4m.jpg
+      width: 320
+      height: 240
   address:
     "@type": PostalAddress
-    streetAddress: 6321 Lake Isabella Blvd.
+    streetAddress: '6321 Lake Isabella Blvd #C'
+    postOfficeBoxNumber:
     addressLocality: Lake Isabella
     addressRegion: CA
-    postalCode: 93240
-    url: https://goo.gl/maps/xny5twCb775hFWuc9
+    addressCountry: US
+    postalCode: '93240'
   geo:
     "@type": GeoCoordinates
-    latitude: 35.627939958511924
-    longitude: -118.47441094911483
-    url: geo:35.627939958511924,-118.47441094911483
+    latitude: 35.62796935
+    longitude: -118.47436443
+    url: geo:35.62796935,-118.47436443
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '21:00'
+      dayOfWeek: Sunday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '21:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '21:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '21:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '21:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '21:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '21:00'
+      dayOfWeek: Saturday
+- "@type": FastFoodRestaurant
+  "@context": https://schema.org
+  identifier: 10ec8bbd-a2c0-4d81-a56b-cef5eaf78b32
+  name: Wienerschnitzel
+  url: https://www.wienerschnitzel.com/location/879-lake-isabella-6321-lake-isabella-blvd-lake-isabella-ca-93240/
+  telephone: "+1-760-379-1010"
+  sameAs:
+    - https://www.facebook.com/Wienerschnitzel
+    - https://www.twitter.com/Wienerschnitzel
+    - https://instagram.com/wienerschnitzel/
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
-      "@type": ImageObject
-      width: 640
-      height: 480
-      encodingFormat: image/png
+    - "@type": ImageObject
+      url: https://i.imgur.com/XwNC6jHm.jpg
+      width: 320
+      height: 240
+  address:
+    "@type": PostalAddress
+    streetAddress: '6321 Lake Isabella Blvd #B'
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.62786969
+    longitude: -118.47438306
+    url: geo:35.62786969,-118.47438306
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '21:00'
+      dayOfWeek: Sunday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '21:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '21:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '21:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '21:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '21:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '21:00'
+      dayOfWeek: Saturday
 - name: Chester's Chicken
   identifier: bc9a4680-2fc9-4069-a8b5-9cef78cb1fb7
   "@context": https://schema.org
@@ -1039,4 +1164,52 @@
     - "@type": OpeningHoursSpecification
       opens: '12:00'
       closes: '02:00'
+      dayOfWeek: Saturday
+- "@type": Restaurant
+  "@context": https://schema.org
+  identifier: 1ddc9282-5175-4254-85ba-10eec1fb7d47
+  name: Izzys Hawaiian Fusion
+  servesCuisine:
+    - Hawaiian
+  image:
+    - "@type": ImageObject
+      url: https://i.imgur.com/zgS5jDGm.jpg
+      width: 320
+      height: 240
+  address:
+    "@type": PostalAddress
+    streetAddress: 36 Nugget Ave
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.6272742
+    longitude: -118.47492224
+    url: geo:35.62727420,-118.47492224
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '18:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '18:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '18:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '18:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '18:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '18:00'
       dayOfWeek: Saturday

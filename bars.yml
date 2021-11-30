@@ -106,3 +106,58 @@
     "@type": GeoCoordinates
     latitude: 35.615483
     longitude: -118.478732
+- "@type": BarOrPub
+  "@context": https://schema.org
+  identifier: 1a707098-b440-4b2f-8cd5-8e83ea472487
+  name: Kern River Tavern
+  telephone: "+1-213-296-8191"
+  email: kernrivertavern@tribemorgan.com
+  description: Beer Cocktails + Good Times
+  sameAs:
+    - https://www.facebook.com/KernRiverTavern
+  image:
+    - "@type": ImageObject
+      url: https://i.imgur.com/BWVYXd3m.jpg
+      width: 320
+      height: 240
+  address:
+    "@type": PostalAddress
+    streetAddress: 7062 Wofford Blvd
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93285'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.70829403
+    longitude: -118.44765902
+    url: geo:35.70829403,-118.44765902
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '02:00'
+      dayOfWeek: Sunday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '02:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '02:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '02:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '02:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '02:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '10:00'
+      closes: '02:00'
+      dayOfWeek: Saturday
