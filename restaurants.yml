@@ -3,10 +3,15 @@
   identifier: 4d866db2-c506-444b-aa3f-87b3dd86a204
   "@context": https://schema.org
   "@type": BarOrPub
-  telephone: 1-760-376-1895
-  url: https://www.eddyouttaphouse.com
+  telephone: 1-760-478-8334
+  url: https://www.eddyoutcrafttaphouse.com
   acceptsReservations: true
   priceRange: $$
+  sameAs:
+    - https://www.facebook.com/eddyouttaphouse
+    - https://www.instagram.com/eddyouttaphouse/
+    - https://www.yelp.com/biz/eddy-out-tap-house-and-grill-kernville
+    - https://maps.google.com/?cid=14954378362437169756
   currenciesAccepted:
     - USD
   servesCuisine:
@@ -32,25 +37,25 @@
     longitude: -118.419496
   openingHoursSpecification:
     - "@type": OpeningHoursSpecification
-      opens: '11:00'
+      opens: '08:00'
       closes: '21:00'
+      dayOfWeek: Sunday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '20:00'
       dayOfWeek: Monday
     - "@type": OpeningHoursSpecification
       opens: '11:00'
-      closes: '21:00'
+      closes: '20:00'
       dayOfWeek: Thursday
     - "@type": OpeningHoursSpecification
-      opens: '11:00'
+      opens: '08:00'
       closes: '21:00'
       dayOfWeek: Friday
     - "@type": OpeningHoursSpecification
-      opens: '11:00'
+      opens: '08:00'
       closes: '21:00'
       dayOfWeek: Saturday
-    - "@type": OpeningHoursSpecification
-      opens: '11:00'
-      closes: '21:00'
-      dayOfWeek: Sunday
 - name: Kern River Brewing Company
   identifier: 102477d0-8539-4a8a-b9c7-3b9e5c2bdf51
   "@context": https://schema.org
