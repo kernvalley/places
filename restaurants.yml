@@ -1188,28 +1188,3 @@
     latitude: 35.6272742
     longitude: -118.47492224
     url: geo:35.62727420,-118.47492224
-  openingHoursSpecification:
-    - "@type": OpeningHoursSpecification
-      opens: '11:00'
-      closes: '18:00'
-      dayOfWeek: Monday
-    - "@type": OpeningHoursSpecification
-      opens: '11:00'
-      closes: '18:00'
-      dayOfWeek: Tuesday
-    - "@type": OpeningHoursSpecification
-      opens: '11:00'
-      closes: '18:00'
-      dayOfWeek: Wednesday
-    - "@type": OpeningHoursSpecification
-      opens: '11:00'
-      closes: '18:00'
-      dayOfWeek: Thursday
-    - "@type": OpeningHoursSpecification
-      opens: '11:00'
-      closes: '18:00'
-      dayOfWeek: Friday
-    - "@type": OpeningHoursSpecification
-      opens: '11:00'
-      closes: '18:00'
-      dayOfWeek: Saturday
