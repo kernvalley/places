@@ -188,13 +188,13 @@
   identifier: 3c2f762c-23f5-4579-826e-85d51cad0249
   "@context": https://schema.org
   "@type": Museum
-  url: https://kernvalleymuseum.org
+  #url: https://kernvalleymuseum.org
   telephone: 760-376-6683
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    - url: https://i.imgur.com/qEyWMUYm.jpg
       "@type": ImageObject
-      width: 640
-      height: 480
+      width: 320
+      height: 240
       encodingFormat: image/png
   address:
     "@type": PostalAddress
