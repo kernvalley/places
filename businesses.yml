@@ -1362,3 +1362,32 @@
     longitude: -118.479148
     url: geo:35.615061,-118.479148
   openingHoursSpecification: []
+- "@type": AutoRepair
+  "@context": https://schema.org
+  identifier: 71b0645c-37c0-4fff-b5b8-b58d4a1b88d0
+  name: Adkisson's Mobile Auto
+  url: https://adkissonsmobileauto.weebly.com/
+  telephone: "+1-661-379-0138"
+  email: madkisson570@gmail.com
+  description: Convenient honest preventative vehicle care
+  sameAs:
+   - https://www.facebook.com/adkissonsmobileauto
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 45 Big Blue Rd.
+    addressLocality: Kernville
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93238'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.537887
+    longitude: -118.740149
+    url: geo:35.537887,-118.740149
+  openingHoursSpecification: []
