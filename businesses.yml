@@ -1338,3 +1338,27 @@
       addressRegion: CA
       addressCountry: US
       postalCode: '93240'
+- "@type": AutomotiveBusiness
+  "@context": https://schema.org
+  identifier: e39c8186-274c-4b85-adb5-718bfbb19bd4
+  name: Inyo Towing
+  telephone: "+1-760-379-1111"
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 5416 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.615061
+    longitude: -118.479148
+    url: geo:35.615061,-118.479148
+  openingHoursSpecification: []
