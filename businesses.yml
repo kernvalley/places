@@ -1387,7 +1387,7 @@
     postalCode: '93238'
   geo:
     "@type": GeoCoordinates
-    latitude: 35.537887
-    longitude: -118.740149
-    url: geo:35.537887,-118.740149
+    latitude: 35.755129744692546
+    longitude: -118.42651702487231
+    url: geo:35.755129744692546,-118.42651702487231
   openingHoursSpecification: []
