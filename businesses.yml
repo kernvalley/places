@@ -1391,3 +1391,19 @@
     longitude: -118.42651702487231
     url: geo:35.755129744692546,-118.42651702487231
   openingHoursSpecification: []
+- "@context": https://schema.org
+  "@type": NGO
+  identifier: b56155ea-ddfe-40ea-99b0-4e64c87f86f0
+  name: Elks Lodge
+  telephone: +1-760-376-6475
+  address:
+    "@type": PostalAddress
+    streetAddress: 6708 Wofford Blvd.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    addressCountry: US
+    postalCode: 93285
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.70812928278075
+    longitude: -118.45398530000001
