@@ -616,3 +616,32 @@
       opens: '09:00'
       closes: '13:00'
       dayOfWeek: Sunday
+- "@type": SkiResort
+  "@context": https://schema.org
+  identifier: beb546f7-4e04-4176-9ebd-517b5cea8735
+  name: Alta Sierra Ski Resort
+  #url: https://www.altasierra.com/
+  telephone: "+1-760-376-4186"
+  email: contactus@altasierra.com
+  description: Alta Sierra Ski Resort and Terrain Park (formerly known as Shirley Meadows Ski Area) is located on the Kern River Ranger District of the Sequoia National Forest, in the Greenhorn Mountains.
+  sameAs:
+    - https://www.facebook.com/pages/category/Ski-Resort/Alta-Sierra-Ski-Resort-150089148373737/
+    - https://twitter.com/Altasierraski
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 56700 Rancheria Rd.
+    addressLocality: Wofford Heights
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93285'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.71119399
+    longitude: -118.560197
+    url: geo:35.71119399,-118.560197
