@@ -1407,3 +1407,25 @@
     "@type": GeoCoordinates
     latitude: 35.70812928278075
     longitude: -118.45398530000001
+- "@type": NGO
+  "@context": https://schema.org
+  identifier: b7eba448-e1c8-4c2e-be92-8e18aa751c5b
+  name: Kern Valley Search and Rescue
+  description: Volunteer Non-Profit Organization Providing Rescue and Education Resources to the Kern County
+  sameAs:
+    - https://www.facebook.com/KernValleySearchAndRescue/
+    - https://twitter.com/kvsar
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  location:
+    address:
+      "@type": PostalAddress
+      postOfficeBoxNumber: '1287'
+      addressLocality: Lake Isabella
+      addressRegion: CA
+      addressCountry: US
+      postalCode: '93240'
