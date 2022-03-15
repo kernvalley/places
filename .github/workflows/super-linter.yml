@@ -42,13 +42,13 @@ jobs:
       # Checkout the code base #
       ##########################
       - name: Checkout Code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
 
       ################################
       # Run Linter against code base #
       ################################
       - name: Lint Code Base
-        uses: docker://github/super-linter:v3
+        uses: docker://github/super-linter:v4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           VALIDATE_ALL_CODEBASE: true
@@ -56,7 +56,7 @@ jobs:
           VALIDATE_YAML: true
           VALIDATE_JSON: true
           # VALIDATE_XML: true
-          # VALIDATE_MD: true
+          VALIDATE_MD: true
           # VALIDATE_HTML: true
           # VALIDATE_BASH: true
           # VALIDATE_PERL: true
