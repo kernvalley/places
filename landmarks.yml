@@ -206,6 +206,7 @@
   identifier: 8d9eef29-8720-49df-94b0-1e2e89a21248
   name: Trail of 100 Giants
   telephone: "+1-559-784-1500"
+  url: "https://www.fs.usda.gov/recarea/sequoia/recarea/?recid=79825"
   description: Trail of 100 Giants offers an easy, accessible walk through the Long Meadow Grove, one of the premier groves of giant sequoias in our area.
   image:
     - "@type": ImageObject
