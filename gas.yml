@@ -26,23 +26,23 @@
   openingHoursSpecification:
     - "@type": OpeningHoursSpecification
       opens: '06:00'
-      closes: '21:00'
+      closes: '22:00'
       dayOfWeek: Sunday
     - "@type": OpeningHoursSpecification
       opens: '06:00'
-      closes: '21:00'
+      closes: '22:00'
       dayOfWeek: Monday
     - "@type": OpeningHoursSpecification
       opens: '06:00'
-      closes: '21:00'
+      closes: '22:00'
       dayOfWeek: Tuesday
     - "@type": OpeningHoursSpecification
       opens: '06:00'
-      closes: '21:00'
+      closes: '22:00'
       dayOfWeek: Wednesday
     - "@type": OpeningHoursSpecification
       opens: '06:00'
-      closes: '21:00'
+      closes: '23:00'
       dayOfWeek: Thursday
     - "@type": OpeningHoursSpecification
       opens: '06:00'
@@ -50,7 +50,7 @@
       dayOfWeek: Friday
     - "@type": OpeningHoursSpecification
       opens: '06:00'
-      closes: '22:00'
+      closes: '23:00'
       dayOfWeek: Saturday
 - name: Crossroads Shell
   identifier: 4081d7b9-c5dc-4642-a84f-9dce0339a052
