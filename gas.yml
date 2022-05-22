@@ -42,11 +42,11 @@
       dayOfWeek: Wednesday
     - "@type": OpeningHoursSpecification
       opens: '06:00'
-      closes: '23:00'
+      closes: '22:00'
       dayOfWeek: Thursday
     - "@type": OpeningHoursSpecification
       opens: '06:00'
-      closes: '22:00'
+      closes: '23:00'
       dayOfWeek: Friday
     - "@type": OpeningHoursSpecification
       opens: '06:00'
