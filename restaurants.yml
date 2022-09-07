@@ -1168,14 +1168,16 @@
 - "@type": Restaurant
   "@context": https://schema.org
   identifier: 1ddc9282-5175-4254-85ba-10eec1fb7d47
-  name: Izzys Hawaiian Fusion
-  servesCuisine:
-    - Hawaiian
-  image:
-    - "@type": ImageObject
-      url: https://i.imgur.com/zgS5jDGm.jpg
-      width: 320
-      height: 240
+  name: Kern River Ceviche Company
+  telephone: +1-760-278-1854
+  url: https://www.kernriverceviche.com/
+  email: info@kernriverceviche.com
+  # servesCuisine:
+  # image:
+  #   - "@type": ImageObject
+  #     url: https://i.imgur.com/zgS5jDGm.jpg
+  #     width: 320
+  #     height: 240
   address:
     "@type": PostalAddress
     streetAddress: 36 Nugget Ave
@@ -1188,3 +1190,5 @@
     latitude: 35.6272742
     longitude: -118.47492224
     url: geo:35.62727420,-118.47492224
+  sameAs:
+    - https://www.facebook.com/kernriverceviche

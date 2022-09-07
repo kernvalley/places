@@ -946,3 +946,91 @@
       opens: '07:00'
       closes: '14:00'
       dayOfWeek: Friday
+- "@type": MusicStore
+  "@context": https://schema.org
+  identifier: 36965614-9eee-42bc-9f23-7134396f057b
+  name: Mock Music
+  url: https://musicalmock.com/
+  telephone: "+1-661-599-5694"
+  email:
+  description:
+  additionalType: []
+  sameAs:
+    - https://www.facebook.com/profile.php?id=100064860045809
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 5614 Lake Isabella Blvd.
+    postOfficeBoxNumber: '1374'
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.618213
+    longitude: -118.475996
+    url: geo:35.618213,-118.475996
+  openingHoursSpecification:
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '18:00'
+      dayOfWeek: Monday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '18:00'
+      dayOfWeek: Tuesday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '18:00'
+      dayOfWeek: Wednesday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '18:00'
+      dayOfWeek: Thursday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '18:00'
+      dayOfWeek: Friday
+    - "@type": OpeningHoursSpecification
+      opens: '11:00'
+      closes: '18:00'
+      dayOfWeek: Saturday
+- "@type": HomeGoodsStore
+  "@context": https://schema.org
+  identifier: 952fa80b-8f04-4d9b-b978-9f71c413e4d8
+  name: KRV Outdoor Living
+  url: https://www.kvroutdoorliving.com/
+  telephone: "+1- 661-599-6145"
+  email: Info@krvoutdoorliving.com
+  description:
+  additionalType:
+    - Store
+  sameAs:
+   - https://www.facebook.com/KRVOutdoorLiving
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 5101 Lake Isabella Blvd
+    postOfficeBoxNumber:
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: '93240'
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.610576
+    longitude: -118.483011
+    url: geo:35.610576,-118.483011
+  openingHoursSpecification: []
+
