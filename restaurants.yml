@@ -1172,12 +1172,12 @@
   telephone: +1-760-278-1854
   url: https://www.kernriverceviche.com/
   email: info@kernriverceviche.com
-  # servesCuisine:
-  # image:
-  #   - "@type": ImageObject
-  #     url: https://i.imgur.com/zgS5jDGm.jpg
-  #     width: 320
-  #     height: 240
+  servesCuisine:
+  image:
+    - "@type": ImageObject
+      url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      width: 640
+      height: 480
   address:
     "@type": PostalAddress
     streetAddress: 36 Nugget Ave
