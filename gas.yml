@@ -26,31 +26,31 @@
   openingHoursSpecification:
     - "@type": OpeningHoursSpecification
       opens: '06:00'
-      closes: '22:00'
+      closes: '21:00'
       dayOfWeek: Sunday
     - "@type": OpeningHoursSpecification
       opens: '06:00'
-      closes: '22:00'
+      closes: '21:00'
       dayOfWeek: Monday
     - "@type": OpeningHoursSpecification
       opens: '06:00'
-      closes: '22:00'
+      closes: '21:00'
       dayOfWeek: Tuesday
     - "@type": OpeningHoursSpecification
       opens: '06:00'
-      closes: '22:00'
+      closes: '21:00'
       dayOfWeek: Wednesday
     - "@type": OpeningHoursSpecification
       opens: '06:00'
-      closes: '22:00'
+      closes: '21:00'
       dayOfWeek: Thursday
     - "@type": OpeningHoursSpecification
       opens: '06:00'
-      closes: '23:00'
+      closes: '22:00'
       dayOfWeek: Friday
     - "@type": OpeningHoursSpecification
       opens: '06:00'
-      closes: '23:00'
+      closes: '22:00'
       dayOfWeek: Saturday
 - name: Crossroads Shell
   identifier: 4081d7b9-c5dc-4642-a84f-9dce0339a052
@@ -146,7 +146,7 @@
     "@type": GeoCoordinates
     latitude: 35.611807
     longitude: -118.481279
-- name: Chevron
+- name: 76
   identifier: 5e498b63-fd80-4286-bfd4-b850bd8a08cf
   "@context": https://schema.org
   "@type": GasStation
@@ -169,31 +169,31 @@
     "@type": GeoCoordinates
     latitude: 35.707648
     longitude: -118.455338
-- name: Fastrip (Primo's Liquor and Deli)
-  identifier: 94109964-6ee3-4ace-804d-46ba0feeb748
-  "@context": https://schema.org
-  "@type": GasStation
-  additionalType:
-    - ConvenienceStore
-    - LiquorStore
-    - FoodEstablishment
-  telephone: 760-376-2555
-  image:
-    - url: https://i.imgur.com/nSEIPN6m.jpg
-      "@type": ImageObject
-      width: 320
-      height: 240
-      encodingFormat: image/png
-  address:
-    "@type": PostalAddress
-    streetAddress: 13435 Sierra Way
-    addressLocality: Kernville
-    addressRegion: CA
-    postalCode: 93238
-  geo:
-    "@type": GeoCoordinates
-    latitude: 35.758228
-    longitude: -118.419992
+# - name: Fastrip (Primo's Liquor and Deli)
+#   identifier: 94109964-6ee3-4ace-804d-46ba0feeb748
+#   "@context": https://schema.org
+#   "@type": GasStation
+#   additionalType:
+#     - ConvenienceStore
+#     - LiquorStore
+#     - FoodEstablishment
+#   telephone: 760-376-2555
+#   image:
+#     - url: https://i.imgur.com/nSEIPN6m.jpg
+#       "@type": ImageObject
+#       width: 320
+#       height: 240
+#       encodingFormat: image/png
+#   address:
+#     "@type": PostalAddress
+#     streetAddress: 13435 Sierra Way
+#     addressLocality: Kernville
+#     addressRegion: CA
+#     postalCode: 93238
+#   geo:
+#     "@type": GeoCoordinates
+#     latitude: 35.758228
+#     longitude: -118.419992
 - name: Mobil (Sierra Gateway)
   identifier: 53daea19-b29e-4ee2-a17a-48e02db0e35a
   "@context": https://schema.org
