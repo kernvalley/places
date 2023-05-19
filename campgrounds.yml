@@ -1,4 +1,28 @@
 ---
+- name: Kern River's Edge Campground Retreat
+  identifier: 22c9dd6e-39a8-4db2-992a-373ead1b32e1
+  "@context": https://schema.org
+  "@type": Campground
+  url: http://www.kernriversedge.com/
+  telephone: +1-1760-376-6553
+  address:
+    "@type": PostalAddress
+    streetAddress: 15775 Sierra Way
+    addressLocality: Kernville
+    addressRegion: CA
+    postalCode: 93238
+    url: https://goo.gl/maps/5QkB5LUAiXHizhg66
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.78339520068344
+    longitude: -118.44354102937147
+    url: geo:35.78339520068344,-118.44354102937147
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
 - name: Rivernook Campground
   identifier: 4e4c5708-845d-4f41-8b17-1b257f9cca66
   "@context": https://schema.org

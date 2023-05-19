@@ -237,30 +237,30 @@
   #     width: 640
   #     height: 480
   #     encodingFormat: image/png
-- name: Mountain & River Adventures
-  identifier: 0f811e85-9df8-4a03-a8ce-97da27b299d4
-  "@context": https://schema.org
-  "@type": LocalBusiness
-  url: https://www.mtnriver.com
-  telephone: 760-376-6553
-  address:
-    "@type": PostalAddress
-    streetAddress: 15775 Sierra Way
-    addressLocality: Kernville
-    addressRegion: CA
-    postalCode: 93238
-    url: https://g.page/mtnriver?share
-  geo:
-    "@type": GeoCoordinates
-    latitude: 35.78339520068344
-    longitude: -118.44354102937147
-    url: geo:35.78339520068344,-118.44354102937147
-  image:
-    - url: https://i.imgur.com/N8RlgT7m.jpg
-      "@type": ImageObject
-      width: 320
-      height: 240
-      encodingFormat: image/png
+# - name: Mountain & River Adventures
+#   identifier: 0f811e85-9df8-4a03-a8ce-97da27b299d4
+#   "@context": https://schema.org
+#   "@type": LocalBusiness
+#   url: https://www.mtnriver.com
+#   telephone: 760-376-6553
+#   address:
+#     "@type": PostalAddress
+#     streetAddress: 15775 Sierra Way
+#     addressLocality: Kernville
+#     addressRegion: CA
+#     postalCode: 93238
+#     url: https://g.page/mtnriver?share
+#   geo:
+#     "@type": GeoCoordinates
+#     latitude: 35.78339520068344
+#     longitude: -118.44354102937147
+#     url: geo:35.78339520068344,-118.44354102937147
+#   image:
+#     - url: https://i.imgur.com/N8RlgT7m.jpg
+#       "@type": ImageObject
+#       width: 320
+#       height: 240
+#       encodingFormat: image/png
 # - name: Whitewater Voyages
 #   identifier: 2260c0aa-687d-47eb-8a61-70e34a007508
 #   "@type": LocalBusiness
