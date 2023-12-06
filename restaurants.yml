@@ -33,8 +33,8 @@
 #       encodingFormat: image/png
 #   geo:
 #     '@type': GeoCoordinates
-#     latitude: 35.75787
-#     longitude: -118.419496
+    # latitude: 35.75787
+    # longitude: -118.419496
 #   openingHoursSpecification:
 #     - "@type": OpeningHoursSpecification
 #       opens: '08:00'
@@ -177,21 +177,21 @@
       value: taco
   telephone: 760-376-3246
   image:
-    - url: https://i.imgur.com/2Nc7asdm.jpg
+    - url: https://i.imgur.com/LgDOLd9m.jpg
       "@type": ImageObject
       width: 320
-      height: 240
-      encodingFormat: image/png
+      height: 241
+      encodingFormat: image/jpeg
   address:
     '@type': PostalAddress
-    streetAddress: 11 Kern River Rd.
+    streetAddress: 13423 Sierra Way
     addressLocality: Kernville
     addressRegion: CA
     postalCode: 93238
   geo:
     '@type': GeoCoordinates
-    longitude: -118.424675
-    latitude: 35.753481
+    latitude: 35.75787
+    longitude: -118.419496
   openingHoursSpecification:
     - "@type": OpeningHoursSpecification
       opens: '11:00'
