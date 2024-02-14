@@ -301,27 +301,27 @@
       dayOfWeek: Saturday
       opens: '16:00'
       closes: '21:00'
-- name: Cracked Egg Cafe
-  identifier: f5159eb1-ff44-4f32-870a-dcb2c1b8ecb5
-  "@context": https://schema.org
-  "@type": Restaurant
-  telephone: 760-376-2185
-  image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
-      "@type": ImageObject
-      width: 640
-      height: 480
-      encodingFormat: image/png
-  address:
-    '@type': PostalAddress
-    streetAddress: 16 Big Blue Rd.
-    addressLocality: Kernville
-    addressRegion: CA
-    postalCode: 93238
-  geo:
-    '@type': GeoCoordinates
-    longitude: -118.425951
-    latitude: 35.755295
+# - name: Cracked Egg Cafe
+#   identifier: f5159eb1-ff44-4f32-870a-dcb2c1b8ecb5
+#   "@context": https://schema.org
+#   "@type": Restaurant
+#   telephone: 760-376-2185
+#   image:
+#     - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+#       "@type": ImageObject
+#       width: 640
+#       height: 480
+#       encodingFormat: image/png
+#   address:
+#     '@type': PostalAddress
+#     streetAddress: 16 Big Blue Rd.
+#     addressLocality: Kernville
+#     addressRegion: CA
+#     postalCode: 93238
+#   geo:
+#     '@type': GeoCoordinates
+#     longitude: -118.425951
+#     latitude: 35.755295
 - name: Paradise Cove Lodge (Steak House)
   identifier: f779f9cd-ce71-43d7-974e-6d30dd2e7af2
   "@context": https://schema.org
