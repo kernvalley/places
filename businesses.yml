@@ -1,4 +1,30 @@
 ---
+- name: KRV Bridge Connection
+  identifier: 53ab5c47-98ac-4f87-9056-927b84c27cdf
+  "@type": NGO
+  # nonprofitStatus: Nonprofit501c3
+  url: https://krvbridge.org
+  email: contact@krvbridge.org
+  sameAs:
+    - https://www.facebook.com/krvbridgeconnection/
+  image:
+    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+      "@type": ImageObject
+      width: 640
+      height: 480
+      encodingFormat: image/png
+  address:
+    "@type": PostalAddress
+    streetAddress: 6069 Lake Isabella Blvd.
+    addressLocality: Lake Isabella
+    addressRegion: CA
+    addressCountry: US
+    postalCode: 93240
+  geo:
+    "@type": GeoCoordinates
+    latitude: 35.62397104
+    longitude: -118.47518406
+    url: geo:35.62397104,-118.47518406
 - "@type": NewsMediaOrganization
   "@context": https://schema.org
   identifier: aeb1ebf5-e81a-4ac6-87c2-41f5de82b427
@@ -798,29 +824,6 @@
     latitude: 35.695931
     longitude: -118.463332
     url: geo:35.695931,-118.463332
-- "@type": RealEstateAgent
-  "@context": https://schema.org
-  identifier: 785c05e0-2e43-4949-8f7d-b6ad38cc282a
-  name: Century 21 Lake Isabella Realty, Inc.
-  telephone: 760-379-3684
-  image:
-    - "@type": ImageObject
-      url: https://cdn.kernvalley.us/img/raster/missing-image.png
-      width: 640
-      height: 480
-      encodingFormat: image/png
-  address:
-    "@type": PostalAddress
-    streetAddress: 6069 Lake Isabella Blvd.
-    addressLocality: Lake Isabella
-    addressRegion: CA
-    addressCountry: US
-    postalCode: '93240'
-  geo:
-    "@type": GeoCoordinates
-    latitude: 35.62397104
-    longitude: -118.47518406
-    url: geo:35.62397104,-118.47518406
 - "@type": RealEstateAgent
   "@context": https://schema.org
   identifier: 0e3d2c56-cd54-4a22-a33d-8871f413cfe4
