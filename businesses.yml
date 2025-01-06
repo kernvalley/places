@@ -2,17 +2,17 @@
 - name: KRV Bridge Connection
   identifier: 53ab5c47-98ac-4f87-9056-927b84c27cdf
   "@type": NGO
-  # nonprofitStatus: Nonprofit501c3
+  nonprofitStatus: Nonprofit501c3
   url: https://krvbridge.org
   email: contact@krvbridge.org
   sameAs:
     - https://www.facebook.com/krvbridgeconnection/
   image:
-    - url: https://cdn.kernvalley.us/img/raster/missing-image.png
+    - url: https://krvbridge.org/img/branding/krv-bridge-logo.svg
       "@type": ImageObject
       width: 640
-      height: 480
-      encodingFormat: image/png
+      height: 640
+      encodingFormat: image/svg+xml
   address:
     "@type": PostalAddress
     streetAddress: 6069 Lake Isabella Blvd.
