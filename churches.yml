@@ -1,11 +1,11 @@
 ---
 
-- name: Kern River Valley Christian Church
+- name: Kern Calvary Chapel
   identifier: ad885b4a-a502-41b0-8b8f-535018a45d2f
   "@context": https://schema.org
   "@type": Church
   telephone: 760-378-3780
-  url: https://www.kcctheriver.com
+  url: https://www.kerncalvarychapel.org/
   email: kernchristiantheriver@gmail.com
   sameAs:
     - https://www.facebook.com/Kern-River-Valley-Christian-Church-163773560307738/
