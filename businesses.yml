@@ -16,6 +16,7 @@
   address:
     "@type": PostalAddress
     streetAddress: 6069 Lake Isabella Blvd.
+    postOfficeBoxNumber: 1098
     addressLocality: Lake Isabella
     addressRegion: CA
     addressCountry: US
