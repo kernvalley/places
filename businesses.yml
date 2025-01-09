@@ -5,6 +5,7 @@
   nonprofitStatus: Nonprofit501c3
   url: https://krvbridge.org
   email: contact@krvbridge.org
+  telephone: "+1-661-491-5873"
   sameAs:
     - https://www.facebook.com/krvbridgeconnection/
   image:
@@ -26,6 +27,27 @@
     latitude: 35.62397104
     longitude: -118.47518406
     url: geo:35.62397104,-118.47518406
+  openingHoursSpecification:
+      - "@type": OpeningHoursSpecification
+        opens: '08:00'
+        closes: '17:00'
+        dayOfWeek: Monday
+      - "@type": OpeningHoursSpecification
+        opens: '08:00'
+        closes: '17:00'
+        dayOfWeek: Tuesday
+      - "@type": OpeningHoursSpecification
+        opens: '08:00'
+        closes: '17:00'
+        dayOfWeek: Wednesday
+      - "@type": OpeningHoursSpecification
+        opens: '08:00'
+        closes: '17:00'
+        dayOfWeek: Thursday
+      - "@type": OpeningHoursSpecification
+        opens: '08:00'
+        closes: '17:00'
+        dayOfWeek: Friday
 - "@type": NewsMediaOrganization
   "@context": https://schema.org
   identifier: aeb1ebf5-e81a-4ac6-87c2-41f5de82b427
