@@ -569,11 +569,11 @@
       height: 400
   address:
     "@type": PostalAddress
-    streetAddress: 1818 Thompson Court
-    addressLocality: Lake Isabella
+    streetAddress: 121 Piute Dr
+    addressLocality: Kernville
     addressRegion: California
     addressCountry: US
-    postalCode: '93240'
+    postalCode: '93238'
   geo:
     "@type": GeoCoordinates
     latitude: 35.6073216715
